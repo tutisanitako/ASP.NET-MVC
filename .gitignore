@@ -1,0 +1,42 @@
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows Installer files
+*.vssscc
+*.vspscc
+*.vsscc
+
+# User-specific files
+.vscode/
+.idea/
+.vs/
+
+# User-specific files (Windows)
+*_i.c
+*_p.c
+.user
+.userosscache
+.suo
+.userprefs
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Dd]evelopment/
+[Rr]elease/
+[Rr]eleasePublic/
+x64/
+x86/
+x64/
+ARM/
+/build/
+
+# Windows Installer files
+.vs2019/
