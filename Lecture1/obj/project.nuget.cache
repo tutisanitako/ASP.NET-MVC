@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mYdkpmTV4BEccdu65pA5q/ygE3MUR/zWtQ9N7UaD4KQOrDS9QlNSTE4D0xVkjoYod1aQJ6QH3EsntQN0FwxaOw==",
+  "dgSpecHash": "u2ru2El/InCOtTsF5nlsrAB9hw7xKCmH3RviO2yKk3/meODpMC6WluzGWv4bGctTMzvkotJ+6qkFB9/kKlIoUQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\lab321student10\\Desktop\\asp.net_mvc\\Lecture1\\Lecture1.csproj",
+  "projectFilePath": "C:\\Users\\lab321student10\\Desktop\\ASP.NET-MVC\\Lecture1\\Lecture1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lab321student10\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\lab321student10\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

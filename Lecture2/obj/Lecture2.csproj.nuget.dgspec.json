@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lab321student10\\Desktop\\ASP.NET-MVC\\Lecture1\\Lecture1.csproj": {}
+    "C:\\Users\\lab321student10\\Desktop\\ASP.NET-MVC\\Lecture2\\Lecture2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lab321student10\\Desktop\\ASP.NET-MVC\\Lecture1\\Lecture1.csproj": {
+    "C:\\Users\\lab321student10\\Desktop\\ASP.NET-MVC\\Lecture2\\Lecture2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lab321student10\\Desktop\\ASP.NET-MVC\\Lecture1\\Lecture1.csproj",
-        "projectName": "Lecture1",
-        "projectPath": "C:\\Users\\lab321student10\\Desktop\\ASP.NET-MVC\\Lecture1\\Lecture1.csproj",
+        "projectUniqueName": "C:\\Users\\lab321student10\\Desktop\\ASP.NET-MVC\\Lecture2\\Lecture2.csproj",
+        "projectName": "Lecture2",
+        "projectPath": "C:\\Users\\lab321student10\\Desktop\\ASP.NET-MVC\\Lecture2\\Lecture2.csproj",
         "packagesPath": "C:\\Users\\lab321student10\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lab321student10\\Desktop\\ASP.NET-MVC\\Lecture1\\obj\\",
+        "outputPath": "C:\\Users\\lab321student10\\Desktop\\ASP.NET-MVC\\Lecture2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lab321student10\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -39,12 +39,6 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "dependencies": {
-            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
-              "target": "Package",
-              "version": "[6.0.18, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",

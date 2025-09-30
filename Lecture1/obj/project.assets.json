@@ -8618,11 +8618,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lab321student10\\Desktop\\asp.net_mvc\\Lecture1\\Lecture1.csproj",
+      "projectUniqueName": "C:\\Users\\lab321student10\\Desktop\\ASP.NET-MVC\\Lecture1\\Lecture1.csproj",
       "projectName": "Lecture1",
-      "projectPath": "C:\\Users\\lab321student10\\Desktop\\asp.net_mvc\\Lecture1\\Lecture1.csproj",
+      "projectPath": "C:\\Users\\lab321student10\\Desktop\\ASP.NET-MVC\\Lecture1\\Lecture1.csproj",
       "packagesPath": "C:\\Users\\lab321student10\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lab321student10\\Desktop\\asp.net_mvc\\Lecture1\\obj\\",
+      "outputPath": "C:\\Users\\lab321student10\\Desktop\\ASP.NET-MVC\\Lecture1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lab321student10\\AppData\\Roaming\\NuGet\\NuGet.Config",
