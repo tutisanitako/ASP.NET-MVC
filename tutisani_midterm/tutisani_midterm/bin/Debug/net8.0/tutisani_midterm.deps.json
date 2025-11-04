@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "tutisani_midterm/1.0.0": {
+        "runtime": {
+          "tutisani_midterm.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "tutisani_midterm/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

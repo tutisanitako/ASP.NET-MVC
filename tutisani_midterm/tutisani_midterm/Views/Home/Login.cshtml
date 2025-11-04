@@ -1,0 +1,65 @@
+﻿@model tutisani_midterm.Models.LoginViewModel
+@{
+    ViewData["Title"] = "Login";
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewData["Title"] - EasySet 24</title>
+    <link rel="stylesheet" href="~/css/login.css" />
+</head>
+<body>
+    <div class="header">
+        <img src="~/images/logo.png" alt="EasySet 24" class="logo" />
+    </div>
+
+    <div class="container">
+        <div class="login-box">
+            <h1>Login</h1>
+            <p class="subtitle">Login to access your<span class="highlight">Easyset24</span> account</p>
+
+            <form asp-action="Login" asp-controller="Home" method="post">
+                @Html.AntiForgeryToken()
+
+                <!-- Display general error message -->
+                @if (!string.IsNullOrEmpty(ViewData.ModelState.Values.SelectMany(v => v.Errors).FirstOrDefault()?.ErrorMessage))
+                {
+                    var generalError = ViewData.ModelState[""]?.Errors.FirstOrDefault()?.ErrorMessage;
+                    if (!string.IsNullOrEmpty(generalError))
+                    {
+                        <div class="error-message-general">
+                            @generalError
+                        </div>
+                    }
+                }
+
+                <div class="form-group">
+                    <label asp-for="Username">Email</label>
+                    <input asp-for="Username" class="form-control" placeholder="Easyset24@Gmail.Com" />
+                    <span asp-validation-for="Username" class="text-danger"></span>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="Password">Password</label>
+                    <input asp-for="Password" class="form-control" type="password" placeholder="••••••••••••••" />
+                    <span asp-validation-for="Password" class="text-danger"></span>
+                </div>
+
+                <button type="submit" class="btn-login">Login</button>
+            </form>
+
+            <p class="register-text">
+                "Don't have an account in EasySet24 yet? <a href="#" class="register-link">Register !</a>
+            </p>
+        </div>
+    </div>
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/jquery-validation/dist/jquery.validate.min.js"></script>
+    <script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script>
+</body>
+</html>

@@ -1,0 +1,197 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lab321student10\\Desktop\\class1\\tutisani_midterm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2BB948AE-FB48-4E53-B40B-2F3772B8FB4B}|tutisani_midterm\\tutisani_midterm.csproj|c:\\users\\lab321student10\\desktop\\class1\\tutisani_midterm\\tutisani_midterm\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BB948AE-FB48-4E53-B40B-2F3772B8FB4B}|tutisani_midterm\\tutisani_midterm.csproj|solutionrelative:tutisani_midterm\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BB948AE-FB48-4E53-B40B-2F3772B8FB4B}|tutisani_midterm\\tutisani_midterm.csproj|c:\\users\\lab321student10\\desktop\\class1\\tutisani_midterm\\tutisani_midterm\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BB948AE-FB48-4E53-B40B-2F3772B8FB4B}|tutisani_midterm\\tutisani_midterm.csproj|solutionrelative:tutisani_midterm\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BB948AE-FB48-4E53-B40B-2F3772B8FB4B}|tutisani_midterm\\tutisani_midterm.csproj|c:\\users\\lab321student10\\desktop\\class1\\tutisani_midterm\\tutisani_midterm\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BB948AE-FB48-4E53-B40B-2F3772B8FB4B}|tutisani_midterm\\tutisani_midterm.csproj|solutionrelative:tutisani_midterm\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BB948AE-FB48-4E53-B40B-2F3772B8FB4B}|tutisani_midterm\\tutisani_midterm.csproj|c:\\users\\lab321student10\\desktop\\class1\\tutisani_midterm\\tutisani_midterm\\models\\useraccountmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BB948AE-FB48-4E53-B40B-2F3772B8FB4B}|tutisani_midterm\\tutisani_midterm.csproj|solutionrelative:tutisani_midterm\\models\\useraccountmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BB948AE-FB48-4E53-B40B-2F3772B8FB4B}|tutisani_midterm\\tutisani_midterm.csproj|c:\\users\\lab321student10\\desktop\\class1\\tutisani_midterm\\tutisani_midterm\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2BB948AE-FB48-4E53-B40B-2F3772B8FB4B}|tutisani_midterm\\tutisani_midterm.csproj|solutionrelative:tutisani_midterm\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BB948AE-FB48-4E53-B40B-2F3772B8FB4B}|tutisani_midterm\\tutisani_midterm.csproj|c:\\users\\lab321student10\\desktop\\class1\\tutisani_midterm\\tutisani_midterm\\wwwroot\\css\\account.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{2BB948AE-FB48-4E53-B40B-2F3772B8FB4B}|tutisani_midterm\\tutisani_midterm.csproj|solutionrelative:tutisani_midterm\\wwwroot\\css\\account.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BB948AE-FB48-4E53-B40B-2F3772B8FB4B}|tutisani_midterm\\tutisani_midterm.csproj|c:\\users\\lab321student10\\desktop\\class1\\tutisani_midterm\\tutisani_midterm\\wwwroot\\css\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{2BB948AE-FB48-4E53-B40B-2F3772B8FB4B}|tutisani_midterm\\tutisani_midterm.csproj|solutionrelative:tutisani_midterm\\wwwroot\\css\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BB948AE-FB48-4E53-B40B-2F3772B8FB4B}|tutisani_midterm\\tutisani_midterm.csproj|c:\\users\\lab321student10\\desktop\\class1\\tutisani_midterm\\tutisani_midterm\\views\\home\\account.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2BB948AE-FB48-4E53-B40B-2F3772B8FB4B}|tutisani_midterm\\tutisani_midterm.csproj|solutionrelative:tutisani_midterm\\views\\home\\account.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BB948AE-FB48-4E53-B40B-2F3772B8FB4B}|tutisani_midterm\\tutisani_midterm.csproj|c:\\users\\lab321student10\\desktop\\class1\\tutisani_midterm\\tutisani_midterm\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2BB948AE-FB48-4E53-B40B-2F3772B8FB4B}|tutisani_midterm\\tutisani_midterm.csproj|solutionrelative:tutisani_midterm\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BB948AE-FB48-4E53-B40B-2F3772B8FB4B}|tutisani_midterm\\tutisani_midterm.csproj|c:\\users\\lab321student10\\desktop\\class1\\tutisani_midterm\\tutisani_midterm\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2BB948AE-FB48-4E53-B40B-2F3772B8FB4B}|tutisani_midterm\\tutisani_midterm.csproj|solutionrelative:tutisani_midterm\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BB948AE-FB48-4E53-B40B-2F3772B8FB4B}|tutisani_midterm\\tutisani_midterm.csproj|c:\\users\\lab321student10\\desktop\\class1\\tutisani_midterm\\tutisani_midterm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BB948AE-FB48-4E53-B40B-2F3772B8FB4B}|tutisani_midterm\\tutisani_midterm.csproj|solutionrelative:tutisani_midterm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab321student10\\Desktop\\class1\\tutisani_midterm\\tutisani_midterm\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "tutisani_midterm\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\lab321student10\\Desktop\\class1\\tutisani_midterm\\tutisani_midterm\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "tutisani_midterm\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-04T15:32:23.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "account.css",
+              "DocumentMoniker": "C:\\Users\\lab321student10\\Desktop\\class1\\tutisani_midterm\\tutisani_midterm\\wwwroot\\css\\account.css",
+              "RelativeDocumentMoniker": "tutisani_midterm\\wwwroot\\css\\account.css",
+              "ToolTip": "C:\\Users\\lab321student10\\Desktop\\class1\\tutisani_midterm\\tutisani_midterm\\wwwroot\\css\\account.css",
+              "RelativeToolTip": "tutisani_midterm\\wwwroot\\css\\account.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-11-04T15:30:18.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "login.css",
+              "DocumentMoniker": "C:\\Users\\lab321student10\\Desktop\\class1\\tutisani_midterm\\tutisani_midterm\\wwwroot\\css\\login.css",
+              "RelativeDocumentMoniker": "tutisani_midterm\\wwwroot\\css\\login.css",
+              "ToolTip": "C:\\Users\\lab321student10\\Desktop\\class1\\tutisani_midterm\\tutisani_midterm\\wwwroot\\css\\login.css",
+              "RelativeToolTip": "tutisani_midterm\\wwwroot\\css\\login.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-11-04T15:29:51.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab321student10\\Desktop\\class1\\tutisani_midterm\\tutisani_midterm\\Views\\Home\\Login.cshtml",
+              "RelativeDocumentMoniker": "tutisani_midterm\\Views\\Home\\Login.cshtml",
+              "ToolTip": "C:\\Users\\lab321student10\\Desktop\\class1\\tutisani_midterm\\tutisani_midterm\\Views\\Home\\Login.cshtml",
+              "RelativeToolTip": "tutisani_midterm\\Views\\Home\\Login.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-04T15:28:14.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\lab321student10\\Desktop\\class1\\tutisani_midterm\\tutisani_midterm\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "tutisani_midterm\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\lab321student10\\Desktop\\class1\\tutisani_midterm\\tutisani_midterm\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "tutisani_midterm\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T15:27:27.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserAccountModel.cs",
+              "DocumentMoniker": "C:\\Users\\lab321student10\\Desktop\\class1\\tutisani_midterm\\tutisani_midterm\\Models\\UserAccountModel.cs",
+              "RelativeDocumentMoniker": "tutisani_midterm\\Models\\UserAccountModel.cs",
+              "ToolTip": "C:\\Users\\lab321student10\\Desktop\\class1\\tutisani_midterm\\tutisani_midterm\\Models\\UserAccountModel.cs",
+              "RelativeToolTip": "tutisani_midterm\\Models\\UserAccountModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T15:27:17.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\lab321student10\\Desktop\\class1\\tutisani_midterm\\tutisani_midterm\\Models\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "tutisani_midterm\\Models\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\lab321student10\\Desktop\\class1\\tutisani_midterm\\tutisani_midterm\\Models\\LoginViewModel.cs",
+              "RelativeToolTip": "tutisani_midterm\\Models\\LoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T15:26:57.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lab321student10\\Desktop\\class1\\tutisani_midterm\\tutisani_midterm\\Program.cs",
+              "RelativeDocumentMoniker": "tutisani_midterm\\Program.cs",
+              "ToolTip": "C:\\Users\\lab321student10\\Desktop\\class1\\tutisani_midterm\\tutisani_midterm\\Program.cs",
+              "RelativeToolTip": "tutisani_midterm\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T15:17:24.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Account.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab321student10\\Desktop\\class1\\tutisani_midterm\\tutisani_midterm\\Views\\Home\\Account.cshtml",
+              "RelativeDocumentMoniker": "tutisani_midterm\\Views\\Home\\Account.cshtml",
+              "ToolTip": "C:\\Users\\lab321student10\\Desktop\\class1\\tutisani_midterm\\tutisani_midterm\\Views\\Home\\Account.cshtml",
+              "RelativeToolTip": "tutisani_midterm\\Views\\Home\\Account.cshtml",
+              "ViewState": "AgIAADsAAAAAAAAAAAAowFEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-04T15:16:55.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab321student10\\Desktop\\class1\\tutisani_midterm\\tutisani_midterm\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "tutisani_midterm\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\lab321student10\\Desktop\\class1\\tutisani_midterm\\tutisani_midterm\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "tutisani_midterm\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-04T15:16:24.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\lab321student10\\Desktop\\class1\\tutisani_midterm\\tutisani_midterm\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "tutisani_midterm\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\lab321student10\\Desktop\\class1\\tutisani_midterm\\tutisani_midterm\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "tutisani_midterm\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAIwHoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T15:16:09.966Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

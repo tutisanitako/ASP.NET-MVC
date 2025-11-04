@@ -1,0 +1,97 @@
+﻿@model tutisani_midterm.Models.UserAccountModel
+@{
+    ViewData["Title"] = "Your Account";
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewData["Title"] - EasySet 24</title>
+    <link rel="stylesheet" href="~/css/account.css" />
+</head>
+<body>
+    <div class="header">
+        <img src="~/images/logo.png" alt="EasySet 24" class="logo" />
+        <div class="account-info">
+            <div class="account-title">Your Account</div>
+            <div class="account-name">@(Model.FullName.Split(' ')[0]) @(Model.FullName.Split(' ').Length > 1 ? Model.FullName.Split(' ')[1] : "")</div>
+        </div>
+    </div>
+
+    <div class="container">
+        <div class="sidebar">
+            <div class="user-greeting">
+                <h2>Hi, @(Model.FullName.Split(' ')[0])</h2>
+                <p class="user-email">@Model.Email</p>
+            </div>
+        </div>
+
+        <div class="content">
+            <div class="section">
+                <h2>Basic Information</h2>
+                <p class="section-subtitle">Make Sure This Information Matches Your Travel ID, Like Your Passport Or License.</p>
+
+                <div class="info-grid">
+                    <div class="info-item">
+                        <div class="info-label">Full Name</div>
+                        <div class="info-value">@Model.FullName</div>
+                    </div>
+                    <div class="info-item">
+                        <div class="info-label">Date Of Birth</div>
+                        <div class="info-value">@Model.DateOfBirth</div>
+                    </div>
+                    <div class="info-item">
+                        <div class="info-label">Bio</div>
+                        <div class="info-value">@Model.Bio</div>
+                    </div>
+                </div>
+
+                <div class="info-grid">
+                    <div class="info-item">
+                        <div class="info-label">Disability</div>
+                        <div class="info-value">@Model.Disability</div>
+                    </div>
+                    <div class="info-item">
+                        <div class="info-label">Accessibility Needs</div>
+                        <div class="info-value">@Model.AccessibilityNeeds</div>
+                    </div>
+                    <div class="info-item">
+                        <div class="info-label">Gender</div>
+                        <div class="info-value">@Model.Gender</div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="section">
+                <h2>Contact</h2>
+                <p class="section-subtitle">Receive Account Activity Alerts And Trip Updates By Sharing This Information.</p>
+
+                <div class="info-grid-two">
+                    <div class="info-item">
+                        <div class="info-label">Mobile Number</div>
+                        <div class="info-value">@Model.MobileNumber</div>
+                    </div>
+                    <div class="info-item">
+                        <div class="info-label">Email</div>
+                        <div class="info-value-email">@Model.Email</div>
+                    </div>
+                </div>
+
+                <div class="info-grid-two">
+                    <div class="info-item">
+                        <div class="info-label">Emergency Contact</div>
+                        <div class="info-value">@(string.IsNullOrEmpty(Model.EmergencyContact) ? "" : Model.EmergencyContact)</div>
+                    </div>
+                    <div class="info-item">
+                        <div class="info-label">Address</div>
+                        <div class="info-value">@Model.Address</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

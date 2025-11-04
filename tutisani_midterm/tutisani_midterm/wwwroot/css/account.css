@@ -1,0 +1,167 @@
+﻿* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f8f9fa;
+}
+
+.header {
+    background-color: #F9F9F9;
+    padding: 20px 40px;
+    border-bottom: 1px solid #e0e0e0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo {
+    height: 50px;
+}
+
+.account-info {
+    text-align: right;
+}
+
+.account-title {
+    font-size: 13px;
+    color: #0078d4;
+    font-weight: 600;
+    margin-bottom: 4px;
+}
+
+.account-name {
+    font-size: 16px;
+    color: #000;
+    font-weight: 500;
+}
+
+.container {
+    display: flex;
+    padding: 40px;
+    gap: 30px;
+    max-width: 1400px;
+    margin: 0 auto;
+}
+
+.sidebar {
+    background-color: white;
+    border-radius: 12px;
+    padding: 40px 30px;
+    width: 280px;
+    height: fit-content;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
+}
+
+.user-greeting h2 {
+    font-size: 24px;
+    font-weight: 600;
+    color: #000;
+    margin-bottom: 8px;
+}
+
+.user-email {
+    font-size: 14px;
+    color: #666;
+}
+
+.content {
+    flex: 1;
+}
+
+.section {
+    background-color: white;
+    border-radius: 12px;
+    padding: 40px;
+    margin-bottom: 24px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
+}
+
+    .section h2 {
+        font-size: 22px;
+        font-weight: 600;
+        color: #000;
+        margin-bottom: 8px;
+    }
+
+.section-subtitle {
+    font-size: 13px;
+    color: #666;
+    margin-bottom: 32px;
+}
+
+.info-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 30px;
+    margin-bottom: 30px;
+}
+
+    .info-grid:last-child {
+        margin-bottom: 0;
+    }
+
+.info-grid-two {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 30px;
+    margin-bottom: 30px;
+}
+
+    .info-grid-two:last-child {
+        margin-bottom: 0;
+    }
+
+.info-item {
+    display: flex;
+    flex-direction: column;
+}
+
+.info-label {
+    font-size: 13px;
+    font-weight: 600;
+    color: #000;
+    margin-bottom: 8px;
+}
+
+.info-value {
+    font-size: 14px;
+    color: #666;
+}
+
+.info-value-email {
+    font-size: 14px;
+    color: #888;
+}
+
+@media (max-width: 1024px) {
+    .container {
+        flex-direction: column;
+    }
+
+    .sidebar {
+        width: 100%;
+    }
+
+    .info-grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+@media (max-width: 768px) {
+    .info-grid,
+    .info-grid-two {
+        grid-template-columns: 1fr;
+    }
+
+    .container {
+        padding: 20px;
+    }
+
+    .section {
+        padding: 24px;
+    }
+}
