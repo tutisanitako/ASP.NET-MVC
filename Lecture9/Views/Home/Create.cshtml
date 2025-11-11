@@ -1,0 +1,50 @@
+﻿@model Lecture9.Models.Product
+
+@{
+    ViewData["Title"] = "Add Product";
+}
+
+<div class="container" style="margin-top: 20px;">
+    @* Display page title from ViewData *@
+    <h2>@ViewData["PageTitle"]</h2>
+
+    <div class="row">
+        <div class="col-md-6">
+            <form asp-controller="Home" asp-action="Create" method="post">
+                <div class="mb-3">
+                    <label asp-for="Name" class="form-label"></label>
+                    <input asp-for="Name" class="form-control" placeholder="Enter product name" />
+                    <span asp-validation-for="Name" class="text-danger"></span>
+                </div>
+
+                <div class="mb-3">
+                    <label asp-for="Price" class="form-label"></label>
+                    <input asp-for="Price" class="form-control" type="number" step="0.01" placeholder="Enter price" />
+                    <span asp-validation-for="Price" class="text-danger"></span>
+                </div>
+
+                <div class="mb-3">
+                    <label asp-for="Category" class="form-label"></label>
+                    @* Use ViewBag categories for dropdown *@
+                    <select asp-for="Category" asp-items="@ViewBag.Categories" class="form-control"></select>
+                    <span asp-validation-for="Category" class="text-danger"></span>
+                </div>
+
+                <div class="mb-3">
+                    <label asp-for="Description" class="form-label"></label>
+                    <textarea asp-for="Description" class="form-control" rows="3" placeholder="Enter product description"></textarea>
+                    <span asp-validation-for="Description" class="text-danger"></span>
+                </div>
+
+                <div class="mb-3">
+                    <button type="submit" class="btn btn-success">Save Product</button>
+                    <a asp-controller="Home" asp-action="Index" class="btn btn-secondary">Cancel</a>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

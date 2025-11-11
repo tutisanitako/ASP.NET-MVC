@@ -1,0 +1,82 @@
+﻿@model Lecture9.Models.ProductListViewModel
+
+@{
+    ViewData["Title"] = "Product List";
+}
+
+<div class="container-fluid mt-4">
+    
+
+    @if (ViewBag.SuccessMessage != null)
+    {
+        <div class="alert alert-success alert-dismissible fade show" role="alert">
+            <strong>Success!</strong> @ViewBag.SuccessMessage
+            <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+        </div>
+    }
+
+
+    <div class="row">
+        <div class="col-12">
+            <div class="card shadow-sm">
+                <div class="card-body">
+                    <div class="d-flex justify-content-between align-items-center mb-3">
+                        <h5 class="mb-0">Products</h5>
+                        <a asp-action="Create" class="btn btn-primary">
+                            <i class="bi bi-plus-circle"></i> Add New Product
+                        </a>
+                    </div>
+
+                    <div class="table-responsive">
+                        <table class="table table-hover">
+                            <thead class="table-light">
+                                <tr>
+                                    <th>FECHA</th>
+                                    <th>CLIENTE</th>
+                                    <th>MONTO TOTAL</th>
+                                    <th>CATEGORY</th>
+                                    <th>DESCRIPTION</th>
+                                    <th>VENDIDO POR</th>
+                                    <th class="text-center">ACCIONES</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                @if (Model.Products.Any())
+                                {
+                                    @foreach (var product in Model.Products)
+                                    {
+                                        <tr>
+                                            <td>@product.CreatedDate.ToString("yyyy/MM/dd HH:mm:ss")</td>
+                                            <td>@product.Name</td>
+                                            <td>$@product.Price.ToString("N2")</td>
+                                            <td><span class="badge bg-success">$@product.Price.ToString("N2")</span></td>
+                                            <td>@product.Category</td>
+                                            <td>Gerente</td>
+                                            <td class="text-center">
+                                                <a asp-action="Details" asp-route-id="@product.Id" class="btn btn-sm btn-info" title="Details">
+                                                    <i class="bi bi-eye"></i>
+                                                </a>
+                                                <a asp-action="Edit" asp-route-id="@product.Id" class="btn btn-sm btn-primary" title="Edit">
+                                                    <i class="bi bi-pencil"></i>
+                                                </a>
+                                                <a asp-action="Delete" asp-route-id="@product.Id" class="btn btn-sm btn-danger" title="Delete">
+                                                    <i class="bi bi-trash"></i>
+                                                </a>
+                                            </td>
+                                        </tr>
+                                    }
+                                }
+                                else
+                                {
+                                    <tr>
+                                        <td colspan="7" class="text-center">No products found. <a asp-action="Create">Add your first product</a></td>
+                                    </tr>
+                                }
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
