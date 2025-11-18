@@ -1,0 +1,114 @@
+﻿@model List<Lecture10.Models.Customer>
+@{
+    Layout = "_Layout";
+}
+
+<div class="container">
+    <h1 class="page-title">Product Management</h1>
+
+    <!-- ADD NEW PRODUCT FORM -->
+    <div class="form-container">
+        <h2>Add New Product</h2>
+
+        @using (Html.BeginForm("Create", "Home", FormMethod.Post, new { enctype = "multipart/form-data" }))
+        {
+            <div class="form-grid">
+                <div class="form-group">
+                    @Html.LabelFor(m => m.FirstOrDefault().Name)
+                    @Html.TextBoxFor(m => m.FirstOrDefault().Name, new { @class = "form-control", placeholder = "Product name" })
+                    @Html.ValidationMessageFor(m => m.FirstOrDefault().Name, "", new { @class = "text-danger" })
+                </div>
+                <div class="form-group">
+                    @Html.LabelFor(m => m.FirstOrDefault().Code)
+                    @Html.TextBoxFor(m => m.FirstOrDefault().Code, new { @class = "form-control", placeholder = "Product code" })
+                </div>
+                <div class="form-group">
+                    @Html.LabelFor(m => m.FirstOrDefault().Address)
+                    @Html.TextBoxFor(m => m.FirstOrDefault().Address, new { @class = "form-control", placeholder = "Category / Location" })
+                </div>
+                <div class="form-group">
+                    @Html.LabelFor(m => m.FirstOrDefault().Phone)
+                    @Html.TextBoxFor(m => m.FirstOrDefault().Phone, new { @class = "form-control", placeholder = "e.g. 13500.00" })
+                </div>
+
+                <!-- FILE UPLOAD -->
+                <div class="form-group">
+                    <label asp-for="FirstOrDefault().ImageFile">Product Image <span style="color:red">*</span></label>
+                    <input type="file" name="ImageFile" accept="image/*" class="form-control" required />
+                    <small class="form-text">JPG or PNG recommended</small>
+                </div>
+            </div>
+
+            <div class="button-group">
+                <button type="submit" class="btn btn-primary">Add New Product</button>
+            </div>
+        }
+    </div>
+
+    <!-- PRODUCTS TABLE WITH AVATAR COLUMN -->
+    <div class="table-container">
+        <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:20px;">
+            <h2>Products</h2>
+            <a asp-action="Index" class="btn btn-primary">Add New Product</a>
+        </div>
+
+        @if (!Model.Any())
+        {
+            <p class="no-data">No products.</p>
+        }
+        else
+        {
+            <table class="customer-table">
+                <thead>
+                    <tr>
+                        <th>AVATAR</th>           <!-- THIS IS THE NEW COLUMN -->
+                        <th>FECHA</th>
+                        <th>CLIENTE</th>
+                        <th>MONTO TOTAL</th>
+                        <th>CATEGORY</th>
+                        <th>DESCRIPCION</th>
+                        <th>VENDIDO POR</th>
+                        <th>ACCIONES</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var p in Model.OrderByDescending(x => x.Id))
+                    {
+                        <tr>
+                            <!-- REAL IMAGE COLUMN -->
+                            <td>
+                                <img src="/images/products/@(string.IsNullOrEmpty(p.ImagePath) ? "default.jpg" : p.ImagePath)"
+                                     alt="@p.Name"
+                                     class="product-avatar"
+                                     onerror="this.src='/images/products/default.jpg'; this.onerror=null;" />
+                                     
+                            </td>
+
+                            <td>2025/11/@($"{p.Id:D2}") 12:00:15</td>
+                            <td><strong>@p.Name</strong></td>
+                            <td><span class="status-active">$@p.Phone</span></td>
+                            <td>Electronics</td>
+                            <td>@p.Address</td>
+                            <td>Gerente</td>
+
+                            <td>
+                                <div class="action-buttons">
+                                    <a asp-action="Edit" asp-route-id="@p.Id" class="action-btn" title="View">View</a>
+                                    <a asp-action="Edit" asp-route-id="@p.Id" class="action-btn" title="Edit">Edit</a>
+                                    @using (Html.BeginForm("Delete", "Home", FormMethod.Post, new { @class = "inline-form" }))
+                                    {
+                                        @Html.Hidden("id", p.Id)
+                                        <button type="submit" class="action-btn" style="background:#ff3b30;color:white"
+                                                onclick="return confirm('Delete @p.Name?')">
+                                            Delete
+                                        </button>
+                                    }
+                                </div>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        }
+    </div>
+</div>
