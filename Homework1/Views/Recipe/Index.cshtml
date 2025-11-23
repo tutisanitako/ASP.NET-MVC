@@ -1,0 +1,101 @@
+﻿@model Homework1.Models.RecipeListViewModel
+@{
+    ViewData["Title"] = "Recipe List";
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewData["Title"]</title>
+    <link rel="stylesheet" href="~/css/site.css" />
+</head>
+<body class="recipe-page">
+    <nav class="navbar">
+        <div class="nav-left">
+            <a href="@Url.Action("Index", "Recipe")" class="nav-link">Home</a>
+            <a href="#" class="nav-link">Add Menu</a>
+            <a href="#" class="nav-link">Search Menu</a>
+        </div>
+        <div class="nav-right">
+            <span class="user-name">@ViewBag.UserName</span>
+            <a asp-action="Logout" asp-controller="Account" class="logout-link">Logout</a>
+        </div>
+    </nav>
+
+    <div class="container">
+        <h1 class="page-title">Have A Safe Diet !!!</h1>
+
+        @if (TempData["SuccessMessage"] != null)
+        {
+            <div class="alert alert-success">@TempData["SuccessMessage"]</div>
+        }
+
+        <div class="recipe-list">
+            @foreach (var recipe in Model.Recipes)
+            {
+                <div class="recipe-card">
+                    <div class="recipe-image">
+                        <a asp-action="Details" asp-route-id="@recipe.Id">
+                            <img src="@recipe.ImageUrl" alt="@recipe.Title" />
+                        </a>
+                    </div>
+                    <div class="recipe-content">
+                        <h3 class="recipe-title">
+                            <a asp-action="Details" asp-route-id="@recipe.Id" class="recipe-title-link">
+                                @recipe.Title  Made By &lt;@recipe.MadeBy&gt;
+                            </a>
+                        </h3>
+
+                        <div class="recipe-info">
+                            <h4>Ingredients</h4>
+                            <p>@recipe.Description</p>
+                        </div>
+
+                        <div class="recipe-actions">
+                            <button class="btn-action like-btn" data-id="@recipe.Id">
+                                <span class="@(recipe.IsLiked ? "liked" : "")">♥</span> Like Recipe
+                            </button>
+                            <button class="btn-action bookmark-btn" data-id="@recipe.Id">
+                                <span class="@(recipe.IsBookmarked ? "bookmarked" : "")">🔖</span> Bookmark Recipe
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+
+        <div class="pagination">
+            @if (Model.HasPreviousPage)
+            {
+                <a asp-action="Index" asp-route-page="@(Model.CurrentPage - 1)" class="page-link">&laquo;</a>
+            }
+
+            <span class="page-info">Page @Model.CurrentPage</span>
+
+            @if (Model.HasNextPage)
+            {
+                <a asp-action="Index" asp-route-page="@(Model.CurrentPage + 1)" class="page-link">&raquo;</a>
+            }
+        </div>
+    </div>
+
+    <footer class="footer">
+        <div class="footer-content">
+            <h2 class="footer-logo">Website Logo here</h2>
+            <p class="footer-subtitle">Sub Headline Here</p>
+        </div>
+        <div class="footer-links">
+            <a href="@Url.Action("Index", "Recipe")">Home</a>
+            <a href="#">Add Menu</a>
+            <a href="#">Search Menu</a>
+            <a href="#">Your Recipes</a>
+            <a href="#">Social Media Here</a>
+        </div>
+    </footer>
+
+    <script src="~/js/site.js"></script>
+</body>
+</html>

@@ -1,0 +1,179 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tutis\\OneDrive\\Desktop\\ASP.NET-MVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F20EAA78-2A68-4813-97E4-A9317620923B}|Lecture10\\Lecture10.csproj|c:\\users\\tutis\\onedrive\\desktop\\asp.net-mvc\\lecture10\\views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F20EAA78-2A68-4813-97E4-A9317620923B}|Lecture10\\Lecture10.csproj|solutionrelative:lecture10\\views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F20EAA78-2A68-4813-97E4-A9317620923B}|Lecture10\\Lecture10.csproj|c:\\users\\tutis\\onedrive\\desktop\\asp.net-mvc\\lecture10\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F20EAA78-2A68-4813-97E4-A9317620923B}|Lecture10\\Lecture10.csproj|solutionrelative:lecture10\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F20EAA78-2A68-4813-97E4-A9317620923B}|Lecture10\\Lecture10.csproj|c:\\users\\tutis\\onedrive\\desktop\\asp.net-mvc\\lecture10\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F20EAA78-2A68-4813-97E4-A9317620923B}|Lecture10\\Lecture10.csproj|solutionrelative:lecture10\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F20EAA78-2A68-4813-97E4-A9317620923B}|Lecture10\\Lecture10.csproj|c:\\users\\tutis\\onedrive\\desktop\\asp.net-mvc\\lecture10\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F20EAA78-2A68-4813-97E4-A9317620923B}|Lecture10\\Lecture10.csproj|solutionrelative:lecture10\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F20EAA78-2A68-4813-97E4-A9317620923B}|Lecture10\\Lecture10.csproj|c:\\users\\tutis\\onedrive\\desktop\\asp.net-mvc\\lecture10\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{F20EAA78-2A68-4813-97E4-A9317620923B}|Lecture10\\Lecture10.csproj|solutionrelative:lecture10\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F20EAA78-2A68-4813-97E4-A9317620923B}|Lecture10\\Lecture10.csproj|c:\\users\\tutis\\onedrive\\desktop\\asp.net-mvc\\lecture10\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F20EAA78-2A68-4813-97E4-A9317620923B}|Lecture10\\Lecture10.csproj|solutionrelative:lecture10\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F20EAA78-2A68-4813-97E4-A9317620923B}|Lecture10\\Lecture10.csproj|c:\\users\\tutis\\onedrive\\desktop\\asp.net-mvc\\lecture10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F20EAA78-2A68-4813-97E4-A9317620923B}|Lecture10\\Lecture10.csproj|solutionrelative:lecture10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tutis\\OneDrive\\Desktop\\ASP.NET-MVC\\Lecture10\\Program.cs",
+              "RelativeDocumentMoniker": "Lecture10\\Program.cs",
+              "ToolTip": "C:\\Users\\tutis\\OneDrive\\Desktop\\ASP.NET-MVC\\Lecture10\\Program.cs",
+              "RelativeToolTip": "Lecture10\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T19:12:46.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\tutis\\OneDrive\\Desktop\\ASP.NET-MVC\\Lecture10\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "Lecture10\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\tutis\\OneDrive\\Desktop\\ASP.NET-MVC\\Lecture10\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "Lecture10\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAALsBAAAAAAAAAAAwwN0BAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-11-21T19:12:29.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\tutis\\OneDrive\\Desktop\\ASP.NET-MVC\\Lecture10\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Lecture10\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\tutis\\OneDrive\\Desktop\\ASP.NET-MVC\\Lecture10\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Lecture10\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-21T19:12:15.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\tutis\\OneDrive\\Desktop\\ASP.NET-MVC\\Lecture10\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Lecture10\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\tutis\\OneDrive\\Desktop\\ASP.NET-MVC\\Lecture10\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Lecture10\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAALMAAAAAAAAAAAAIwNYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-21T19:11:50.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\tutis\\OneDrive\\Desktop\\ASP.NET-MVC\\Lecture10\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Lecture10\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\tutis\\OneDrive\\Desktop\\ASP.NET-MVC\\Lecture10\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Lecture10\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAKkAAAAAAAAAAAAIwMwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T19:11:41.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\tutis\\OneDrive\\Desktop\\ASP.NET-MVC\\Lecture10\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "Lecture10\\Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\tutis\\OneDrive\\Desktop\\ASP.NET-MVC\\Lecture10\\Models\\Customer.cs",
+              "RelativeToolTip": "Lecture10\\Models\\Customer.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAmwCQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T19:11:32.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\tutis\\OneDrive\\Desktop\\ASP.NET-MVC\\Lecture10\\Views\\Home\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Lecture10\\Views\\Home\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\tutis\\OneDrive\\Desktop\\ASP.NET-MVC\\Lecture10\\Views\\Home\\Edit.cshtml",
+              "RelativeToolTip": "Lecture10\\Views\\Home\\Edit.cshtml",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAQwH0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-21T17:58:06.418Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 57,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 57,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

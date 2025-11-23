@@ -1,0 +1,106 @@
+﻿@model Homework1.Models.Recipe
+@{
+    ViewData["Title"] = Model.Title;
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewData["Title"]</title>
+    <link rel="stylesheet" href="~/css/site.css" />
+</head>
+<body class="recipe-page">
+    <nav class="navbar">
+        <div class="nav-left">
+            <a href="@Url.Action("Index", "Recipe")" class="nav-link">Home</a>
+            <a href="#" class="nav-link">Add Menu</a>
+            <a href="#" class="nav-link">Search Menu</a>
+        </div>
+        <div class="nav-right">
+            <span class="user-name">@ViewBag.UserName</span>
+            <a asp-action="Logout" asp-controller="Account" class="logout-link">Logout</a>
+        </div>
+    </nav>
+
+    <div class="container">
+        <div class="recipe-details">
+            <div class="recipe-header">
+                <div class="author-info">
+                    <div class="author-avatar">👤</div>
+                    <div>
+                        <p class="author-name">@Model.MadeBy</p>
+                        <p class="author-recipes">10 Recipes</p>
+                    </div>
+                </div>
+                <div class="recipe-actions">
+                    <button class="btn-action like-btn" data-id="@Model.Id">
+                        <span class="@(Model.IsLiked ? "liked" : "")">♥</span> Like Recipe
+                    </button>
+                    <button class="btn-action bookmark-btn" data-id="@Model.Id">
+                        <span class="@(Model.IsBookmarked ? "bookmarked" : "")">🔖</span> Bookmark Recipe
+                    </button>
+                </div>
+            </div>
+
+            <h1 class="recipe-detail-title">@Model.Title</h1>
+
+            <div class="recipe-image-large">
+                <img src="@Model.ImageUrl" alt="@Model.Title" />
+            </div>
+
+            <div class="recipe-section">
+                <h3>Making Process:</h3>
+                <div class="recipe-process">
+                    @{
+                        var steps = Model.MakingProcess.Split('.');
+                        int stepNumber = 1;
+                        foreach (var step in steps)
+                        {
+                            var trimmedStep = step.Trim();
+                            if (!string.IsNullOrEmpty(trimmedStep))
+                            {
+                                <p><span class="step-number">@stepNumber.</span> @trimmedStep</p>
+                                stepNumber++;
+                            }
+                        }
+                    }
+                </div>
+            </div>
+
+            <div class="recipe-section">
+                <h3>Ingredients:</h3>
+                <p>@Model.Ingredients</p>
+            </div>
+
+            <div class="recipe-section">
+                <h3>Description:</h3>
+                <p>@Model.Description</p>
+            </div>
+
+            <div class="recipe-section">
+                <h3>Video Link:</h3>
+                <a href="@Model.VideoLink" target="_blank" class="video-link">@Model.VideoLink</a>
+            </div>
+        </div>
+    </div>
+
+    <footer class="footer">
+        <div class="footer-content">
+            <h2 class="footer-logo">Website Logo here</h2>
+            <p class="footer-subtitle">Sub Headline Here</p>
+        </div>
+        <div class="footer-links">
+            <a href="@Url.Action("Index", "Recipe")">Home</a>
+            <a href="#">Add Menu</a>
+            <a href="#">Search Menu</a>
+            <a href="#">Your Recipes</a>
+            <a href="#">Social Media Here</a>
+        </div>
+    </footer>
+
+    <script src="~/js/site.js"></script>
+</body>
+</html>
