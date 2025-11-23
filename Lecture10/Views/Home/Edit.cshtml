@@ -1,64 +1,126 @@
 ﻿@model Lecture10.Models.Customer
 @{
     Layout = "_Layout";
-    ViewBag.Title = "Edit Product";
 }
 
 <div class="container">
-    <h1 class="page-title">@ViewBag.Title – @Model.Name</h1>
+    <h1 class="page-title">@ViewBag.Title</h1>
 
     <div class="form-container">
-        @using (Html.BeginForm("Update", "Home", FormMethod.Post, new { enctype = "multipart/form-data" }))
-        {
-            @Html.HiddenFor(m => m.Id)
+        <form action="/Home/Update" method="post" enctype="multipart/form-data">
+            <input type="hidden" name="Id" value="@Model.Id" />
 
             <div class="form-grid">
                 <div class="form-group">
-                    @Html.LabelFor(m => m.Name)
-                    @Html.TextBoxFor(m => m.Name, new { @class = "form-control" })
-                    @Html.ValidationMessageFor(m => m.Name, "", new { @class = "text-danger" })
+                    <label>Name</label>
+                    <input type="text" name="Name" value="@Model.Name" class="form-control" required />
                 </div>
 
                 <div class="form-group">
-                    @Html.LabelFor(m => m.Code)
-                    @Html.TextBoxFor(m => m.Code, new { @class = "form-control" })
-                    @Html.ValidationMessageFor(m => m.Code, "", new { @class = "text-danger" })
+                    <label>Code</label>
+                    <input type="text" name="Code" value="@Model.Code" class="form-control" required />
                 </div>
 
                 <div class="form-group">
-                    @Html.LabelFor(m => m.Address)
-                    @Html.TextBoxFor(m => m.Address, new { @class = "form-control" })
-                    @Html.ValidationMessageFor(m => m.Address, "", new { @class = "text-danger" })
+                    <label>Address</label>
+                    <input type="text" name="Address" value="@Model.Address" class="form-control" required />
                 </div>
 
                 <div class="form-group">
-                    @Html.LabelFor(m => m.Phone)
-                    @Html.TextBoxFor(m => m.Phone, new { @class = "form-control", placeholder = "Price with $" })
-                    @Html.ValidationMessageFor(m => m.Phone, "", new { @class = "text-danger" })
+                    <label>Phone</label>
+                    <input type="text" name="Phone" value="@Model.Phone" class="form-control" required />
                 </div>
 
-                <!-- CHANGE IMAGE -->
                 <div class="form-group">
-                    <label>Change Product Image (optional)</label>
-                    <input type="file" name="ImageFile" accept="image/*" class="form-control" />
-                    <small class="form-text">Leave empty to keep current image</small>
-
-                    @if (!string.IsNullOrEmpty(Model.ImagePath))
-                    {
-                        <div style="margin-top: 12px;">
-                            <strong>Current Image:</strong><br />
-                            <img src="/images/products/@Model.ImagePath"
-                                 alt="Current"
-                                 style="width: 120px; height: 120px; object-fit: cover; border-radius: 10px; border: 3px solid #f0f0f0;" />
-                        </div>
-                    }
+                    <label for="ImageFile">@(string.IsNullOrEmpty(Model.ImagePath) ? "Add" : "Change") Image</label>
+                    <div class="file-upload-wrapper">
+                        <input type="file"
+                               id="ImageFile"
+                               name="ImageFile"
+                               class="file-input"
+                               accept="image/*"
+                               onchange="previewImage(event)" />
+                        <label for="ImageFile" class="file-label">
+                            <span class="upload-icon">📁</span>
+                            <span class="upload-text">Choose Image</span>
+                        </label>
+                        <span id="file-name" class="file-name"></span>
+                    </div>
+                    <div id="image-preview-container" class="image-preview-container" style="display: none;">
+                        <img id="image-preview" class="image-preview-thumb" />
+                        <button type="button" class="remove-image-btn" onclick="removePreview()">✕</button>
+                    </div>
                 </div>
+            </div>
+
+            <div class="current-image-section">
+                <label>Current Avatar:</label>
+                @if (!string.IsNullOrEmpty(Model.ImagePath))
+                {
+                    <img src="@Model.ImagePath" alt="@Model.Name" class="current-image-preview" />
+                    <p class="image-info">Upload new image to replace</p>
+                }
+                else
+                {
+                    <div class="avatar avatar-large">
+                        @GetInitials(Model.Name)
+                    </div>
+                    <p class="image-info">No image - showing initials</p>
+                }
             </div>
 
             <div class="button-group">
-                <button type="submit" class="btn btn-primary">Save Changes</button>
-                <a href="@Url.Action("Index")" class="btn btn-secondary">Cancel</a>
+                <button type="submit" class="btn btn-primary">Update Customer</button>
+                <a href="/Home/Index" class="btn btn-secondary">Cancel</a>
             </div>
-        }
+        </form>
     </div>
 </div>
+
+@functions {
+    public string GetInitials(string name)
+    {
+        if (string.IsNullOrWhiteSpace(name))
+            return "?";
+
+        var parts = name.Trim().Split(' ', StringSplitOptions.RemoveEmptyEntries);
+
+        if (parts.Length == 1)
+        {
+            return parts[0].Length >= 2
+                ? parts[0].Substring(0, 2).ToUpper()
+                : parts[0].ToUpper();
+        }
+        else
+        {
+            return (parts[0][0].ToString() + parts[parts.Length - 1][0].ToString()).ToUpper();
+        }
+    }
+}
+
+<script>
+    function previewImage(event) {
+        const file = event.target.files[0];
+        const fileNameSpan = document.getElementById('file-name');
+        const previewContainer = document.getElementById('image-preview-container');
+        const preview = document.getElementById('image-preview');
+
+        if (file) {
+            fileNameSpan.textContent = file.name;
+
+            const reader = new FileReader();
+            reader.onload = function(e) {
+                preview.src = e.target.result;
+                previewContainer.style.display = 'block';
+            };
+            reader.readAsDataURL(file);
+        }
+    }
+
+    function removePreview() {
+        document.getElementById('ImageFile').value = '';
+        document.getElementById('file-name').textContent = '';
+        document.getElementById('image-preview-container').style.display = 'none';
+        document.getElementById('image-preview').src = '';
+    }
+</script>

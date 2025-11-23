@@ -1,6 +1,5 @@
-﻿// Models/Customer.cs
-using Microsoft.AspNetCore.Http; // Add this
-using System.ComponentModel.DataAnnotations;
+﻿using System.ComponentModel.DataAnnotations;
+using Microsoft.AspNetCore.Http;
 
 namespace Lecture10.Models
 {
@@ -12,18 +11,27 @@ namespace Lecture10.Models
         [Display(Name = "Name")]
         public string Name { get; set; }
 
-        [Required] public string Code { get; set; }
-        [Required] public string Address { get; set; }
-        [Required][Phone] public string Phone { get; set; }
+        [Required(ErrorMessage = "Code is required")]
+        [Display(Name = "Code")]
+        public string Code { get; set; }
 
-        public bool IsAdmin { get; set; } = true;
-        public bool Has2FA { get; set; } = true;
+        [Required(ErrorMessage = "Address is required")]
+        [Display(Name = "Address")]
+        public string Address { get; set; }
 
-        // This stores the filename like "my-laptop.jpg"
+        [Required(ErrorMessage = "Phone is required")]
+        [Phone(ErrorMessage = "Invalid phone number")]
+        [Display(Name = "Phone")]
+        public string Phone { get; set; }
+
+        public bool IsAdmin { get; set; }
+        public bool Has2FA { get; set; }
+
+        [Display(Name = "Product Image")]
         public string ImagePath { get; set; }
 
-        // This is for file upload — NOT saved to DB
-        [Display(Name = "Upload Product Image")]
+        // ✅ NEW: Property to handle file upload (not stored in database)
+        [Display(Name = "Upload Image")]
         public IFormFile ImageFile { get; set; }
     }
 }

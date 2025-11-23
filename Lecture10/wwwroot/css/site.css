@@ -1,4 +1,4 @@
-* {
+﻿* {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -175,17 +175,32 @@ body {
 
 /* Avatar */
 .avatar {
-    width: 40px;
-    height: 40px;
-    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    border-radius: 8px;
     background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
     color: white;
     display: flex;
     align-items: center;
     justify-content: center;
     font-weight: 600;
-    font-size: 16px;
+    font-size: 18px;
 }
+
+/* Product Avatar Image */
+.product-avatar {
+    width: 50px;
+    height: 50px;
+    border-radius: 8px;
+    object-fit: cover;
+    border: 2px solid #f5f5f7;
+    transition: transform 0.2s ease;
+}
+
+    .product-avatar:hover {
+        transform: scale(1.1);
+        border-color: #0071e3;
+    }
 
 /* Status Buttons */
 .status-btn {
@@ -263,6 +278,37 @@ body {
     font-size: 14px;
 }
 
+/* Form Helper Text */
+.form-text {
+    display: block;
+    margin-top: 4px;
+    font-size: 12px;
+    color: #86868b;
+}
+
+/* Image Preview in Edit Form */
+.image-preview {
+    margin: 20px 0;
+    padding: 15px;
+    background-color: #f5f5f7;
+    border-radius: 8px;
+}
+
+    .image-preview label {
+        display: block;
+        font-size: 14px;
+        font-weight: 500;
+        margin-bottom: 10px;
+        color: #424245;
+    }
+
+.preview-image {
+    max-width: 200px;
+    max-height: 200px;
+    border-radius: 8px;
+    border: 2px solid #d2d2d7;
+}
+
 /* Validation */
 .text-danger {
     color: #ff3b30;
@@ -289,23 +335,134 @@ body {
         flex-wrap: wrap;
     }
 }
-
-/* NEW: Product Avatar Image Styles */
-.product-avatar {
-    width: 50px;
-    height: 50px;
-    border-radius: 8px;
-    object-fit: cover;
-    border: 2px solid #f5f5f7;
-    transition: transform 0.2s ease;
+/* ✅ NEW: File Upload Styles */
+.file-upload-wrapper {
+    position: relative;
+    display: flex;
+    align-items: center;
+    gap: 10px;
 }
 
-    .product-avatar:hover {
-        transform: scale(1.1);
-        border-color: #0071e3;
+.file-input {
+    display: none;
+}
+
+.file-label {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    padding: 10px 20px;
+    background-color: #0071e3;
+    color: white;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 14px;
+    font-weight: 500;
+    transition: all 0.2s ease;
+    margin: 0;
+}
+
+    .file-label:hover {
+        background-color: #0077ed;
+        transform: translateY(-1px);
     }
 
-/* Update existing avatar for fallback */
+.upload-icon {
+    font-size: 18px;
+}
+
+.upload-text {
+    font-weight: 500;
+}
+
+.file-name {
+    font-size: 13px;
+    color: #424245;
+    max-width: 200px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+/* ✅ NEW: Image Preview in Form */
+.image-preview-container {
+    margin-top: 15px;
+    position: relative;
+    display: inline-block;
+}
+
+.image-preview-thumb {
+    max-width: 150px;
+    max-height: 150px;
+    border-radius: 8px;
+    border: 2px solid #d2d2d7;
+    display: block;
+}
+
+.remove-image-btn {
+    position: absolute;
+    top: -8px;
+    right: -8px;
+    width: 24px;
+    height: 24px;
+    border-radius: 50%;
+    background-color: #ff3b30;
+    color: white;
+    border: 2px solid white;
+    cursor: pointer;
+    font-size: 14px;
+    line-height: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: all 0.2s ease;
+}
+
+    .remove-image-btn:hover {
+        background-color: #ff453a;
+        transform: scale(1.1);
+    }
+
+/* ✅ NEW: Current Image Section in Edit */
+.current-image-section {
+    margin: 25px 0;
+    padding: 20px;
+    background-color: #f5f5f7;
+    border-radius: 8px;
+}
+
+    .current-image-section label {
+        display: block;
+        font-size: 14px;
+        font-weight: 500;
+        margin-bottom: 12px;
+        color: #424245;
+    }
+
+.current-image-preview {
+    max-width: 200px;
+    max-height: 200px;
+    border-radius: 8px;
+    border: 2px solid #d2d2d7;
+    display: block;
+    margin-bottom: 10px;
+}
+
+.image-info {
+    font-size: 13px;
+    color: #86868b;
+    margin: 8px 0 0 0;
+}
+
+/* ✅ NEW: Larger avatar for edit page */
+.avatar-large {
+    width: 80px;
+    height: 80px;
+    font-size: 28px;
+    margin-bottom: 10px;
+}
+
+/* ✅ UPDATED: Avatar with better colors for initials */
 .avatar {
     width: 50px;
     height: 50px;
@@ -316,51 +473,6 @@ body {
     align-items: center;
     justify-content: center;
     font-weight: 600;
-    font-size: 18px;
+    font-size: 16px;
+    letter-spacing: 1px;
 }
-
-/* Form helper text */
-.form-text {
-    display: block;
-    margin-top: 4px;
-    font-size: 12px;
-    color: #86868b;
-}
-
-/* Image preview styles */
-.image-preview {
-    margin: 20px 0;
-}
-
-    .image-preview label {
-        display: block;
-        margin-bottom: 8px;
-        font-weight: 500;
-        color: #424245;
-    }
-
-.preview-image {
-    max-width: 200px;
-    border-radius: 8px;
-    border: 2px solid #f5f5f7;
-    transition: transform 0.2s ease;
-}
-
-    .preview-image:hover {
-        transform: scale(1.05);
-        border-color: #0071e3;
-    }
-
-.product-avatar {
-    width: 60px;
-    height: 60px;
-    border-radius: 10px;
-    object-fit: cover;
-    border: 3px solid #f0f0f0;
-    box-shadow: 0 2px 6px rgba(0,0,0,0.1);
-}
-
-    .product-avatar:hover {
-        transform: scale(1.15);
-        border-color: #0071e3;
-    }

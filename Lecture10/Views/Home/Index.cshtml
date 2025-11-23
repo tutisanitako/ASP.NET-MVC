@@ -4,111 +4,212 @@
 }
 
 <div class="container">
-    <h1 class="page-title">Product Management</h1>
+    <h1 class="page-title">@ViewBag.Title</h1>
 
-    <!-- ADD NEW PRODUCT FORM -->
+    @if (ViewBag.Error != null)
+    {
+        <div style="background: #ff3b30; color: white; padding: 15px; border-radius: 8px; margin-bottom: 20px;">
+            Error: @ViewBag.Error
+        </div>
+    }
+
     <div class="form-container">
-        <h2>Add New Product</h2>
-
-        @using (Html.BeginForm("Create", "Home", FormMethod.Post, new { enctype = "multipart/form-data" }))
-        {
+        <h2>Add New Customer</h2>
+        <form action="/Home/Create" method="post" enctype="multipart/form-data">
             <div class="form-grid">
                 <div class="form-group">
-                    @Html.LabelFor(m => m.FirstOrDefault().Name)
-                    @Html.TextBoxFor(m => m.FirstOrDefault().Name, new { @class = "form-control", placeholder = "Product name" })
-                    @Html.ValidationMessageFor(m => m.FirstOrDefault().Name, "", new { @class = "text-danger" })
-                </div>
-                <div class="form-group">
-                    @Html.LabelFor(m => m.FirstOrDefault().Code)
-                    @Html.TextBoxFor(m => m.FirstOrDefault().Code, new { @class = "form-control", placeholder = "Product code" })
-                </div>
-                <div class="form-group">
-                    @Html.LabelFor(m => m.FirstOrDefault().Address)
-                    @Html.TextBoxFor(m => m.FirstOrDefault().Address, new { @class = "form-control", placeholder = "Category / Location" })
-                </div>
-                <div class="form-group">
-                    @Html.LabelFor(m => m.FirstOrDefault().Phone)
-                    @Html.TextBoxFor(m => m.FirstOrDefault().Phone, new { @class = "form-control", placeholder = "e.g. 13500.00" })
+                    <label>Name</label>
+                    <input type="text" name="Name" class="form-control" placeholder="Enter name" required />
                 </div>
 
-                <!-- FILE UPLOAD -->
                 <div class="form-group">
-                    <label asp-for="FirstOrDefault().ImageFile">Product Image <span style="color:red">*</span></label>
-                    <input type="file" name="ImageFile" accept="image/*" class="form-control" required />
-                    <small class="form-text">JPG or PNG recommended</small>
+                    <label>Code</label>
+                    <input type="text" name="Code" class="form-control" placeholder="Enter code" required />
+                </div>
+
+                <div class="form-group">
+                    <label>Address</label>
+                    <input type="text" name="Address" class="form-control" placeholder="Enter address" required />
+                </div>
+
+                <div class="form-group">
+                    <label>Phone</label>
+                    <input type="text" name="Phone" class="form-control" placeholder="Enter phone" required />
+                </div>
+
+                <div class="form-group">
+                    <label for="ImageFile">Upload Image (Optional)</label>
+                    <div class="file-upload-wrapper">
+                        <input type="file"
+                               id="ImageFile"
+                               name="ImageFile"
+                               class="file-input"
+                               accept="image/*"
+                               onchange="previewImage(event)" />
+                        <label for="ImageFile" class="file-label">
+                            <span class="upload-icon">📁</span>
+                            <span class="upload-text">Choose Image</span>
+                        </label>
+                        <span id="file-name" class="file-name"></span>
+                    </div>
+                    <div id="image-preview-container" class="image-preview-container" style="display: none;">
+                        <img id="image-preview" class="image-preview-thumb" />
+                        <button type="button" class="remove-image-btn" onclick="removePreview()">✕</button>
+                    </div>
+                    <small class="form-text">Leave empty to show initials</small>
                 </div>
             </div>
 
             <div class="button-group">
-                <button type="submit" class="btn btn-primary">Add New Product</button>
+                <button type="submit" class="btn btn-primary">Add Customer</button>
+                <button type="reset" class="btn btn-secondary" onclick="removePreview()">Clear</button>
             </div>
-        }
+        </form>
     </div>
 
-    <!-- PRODUCTS TABLE WITH AVATAR COLUMN -->
     <div class="table-container">
-        <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:20px;">
-            <h2>Products</h2>
-            <a asp-action="Index" class="btn btn-primary">Add New Product</a>
-        </div>
+        <h2>Customer List (Total: @Model.Count)</h2>
 
-        @if (!Model.Any())
+        @if (Model == null || !Model.Any())
         {
-            <p class="no-data">No products.</p>
+            <p class="no-data">No customers.</p>
         }
         else
         {
             <table class="customer-table">
                 <thead>
                     <tr>
-                        <th>AVATAR</th>           <!-- THIS IS THE NEW COLUMN -->
-                        <th>FECHA</th>
-                        <th>CLIENTE</th>
-                        <th>MONTO TOTAL</th>
-                        <th>CATEGORY</th>
-                        <th>DESCRIPCION</th>
-                        <th>VENDIDO POR</th>
-                        <th>ACCIONES</th>
+                        <th><input type="checkbox" /></th>
+                        <th>ID</th>
+                        <th>AVATAR</th>
+                        <th>NAME</th>
+                        <th>EMAIL</th>
+                        <th>ADMIN</th>
+                        <th>2FA</th>
+                        <th>ACTIONS</th>
                     </tr>
                 </thead>
                 <tbody>
-                    @foreach (var p in Model.OrderByDescending(x => x.Id))
+                    @foreach (var customer in Model.OrderByDescending(c => c.Id))
                     {
                         <tr>
-                            <!-- REAL IMAGE COLUMN -->
+                            <td><input type="checkbox" /></td>
+                            <td class="id-cell">@customer.Id</td>
                             <td>
-                                <img src="/images/products/@(string.IsNullOrEmpty(p.ImagePath) ? "default.jpg" : p.ImagePath)"
-                                     alt="@p.Name"
-                                     class="product-avatar"
-                                     onerror="this.src='/images/products/default.jpg'; this.onerror=null;" />
-                                     
+                                @if (!string.IsNullOrEmpty(customer.ImagePath))
+                                {
+                                    <img src="@customer.ImagePath" alt="@customer.Name" class="product-avatar" />
+                                }
+                                else
+                                {
+                                    <div class="avatar">
+                                        @GetInitials(customer.Name)
+                                    </div>
+                                }
                             </td>
-
-                            <td>2025/11/@($"{p.Id:D2}") 12:00:15</td>
-                            <td><strong>@p.Name</strong></td>
-                            <td><span class="status-active">$@p.Phone</span></td>
-                            <td>Electronics</td>
-                            <td>@p.Address</td>
-                            <td>Gerente</td>
-
+                            <td>@customer.Name</td>
+                            <td>@customer.Code@@nova.laravel.com</td>
+                            <td>
+                                <form action="/Home/ToggleAdmin" method="post" class="inline-form">
+                                    <input type="hidden" name="id" value="@customer.Id" />
+                                    <button type="submit" class="status-btn @(customer.IsAdmin ? "status-active" : "status-inactive")">
+                                        @if (customer.IsAdmin)
+                                        {
+                                            <span class="icon-check">✓</span>
+                                        }
+                                        else
+                                        {
+                                            <span class="icon-cross">✕</span>
+                                        }
+                                    </button>
+                                </form>
+                            </td>
+                            <td>
+                                <form action="/Home/Toggle2FA" method="post" class="inline-form">
+                                    <input type="hidden" name="id" value="@customer.Id" />
+                                    <button type="submit" class="status-btn @(customer.Has2FA ? "status-active" : "status-inactive")">
+                                        @if (customer.Has2FA)
+                                        {
+                                            <span class="icon-check">✓</span>
+                                        }
+                                        else
+                                        {
+                                            <span class="icon-cross">✕</span>
+                                        }
+                                    </button>
+                                </form>
+                            </td>
                             <td>
                                 <div class="action-buttons">
-                                    <a asp-action="Edit" asp-route-id="@p.Id" class="action-btn" title="View">View</a>
-                                    <a asp-action="Edit" asp-route-id="@p.Id" class="action-btn" title="Edit">Edit</a>
-                                    @using (Html.BeginForm("Delete", "Home", FormMethod.Post, new { @class = "inline-form" }))
-                                    {
-                                        @Html.Hidden("id", p.Id)
-                                        <button type="submit" class="action-btn" style="background:#ff3b30;color:white"
-                                                onclick="return confirm('Delete @p.Name?')">
-                                            Delete
-                                        </button>
-                                    }
+                                    <button class="action-btn" title="More options">⋯</button>
+                                    <a href="/Home/Edit/@customer.Id" class="action-btn" title="View">👁</a>
+                                    <a href="/Home/Edit/@customer.Id" class="action-btn" title="Edit">✎</a>
+                                    <form action="/Home/Delete" method="post" class="inline-form">
+                                        <input type="hidden" name="id" value="@customer.Id" />
+                                        <button type="submit" class="action-btn" title="Delete" onclick="return confirm('Are you sure?');">🗑</button>
+                                    </form>
                                 </div>
                             </td>
                         </tr>
                     }
                 </tbody>
             </table>
+            <div class="pagination">
+                <span>1–@Model.Count of @Model.Count</span>
+            </div>
         }
     </div>
 </div>
+
+@functions {
+    public string GetInitials(string name)
+    {
+        if (string.IsNullOrWhiteSpace(name))
+            return "?";
+
+        var parts = name.Trim().Split(' ', StringSplitOptions.RemoveEmptyEntries);
+
+        if (parts.Length == 1)
+        {
+            return parts[0].Length >= 2
+                ? parts[0].Substring(0, 2).ToUpper()
+                : parts[0].ToUpper();
+        }
+        else
+        {
+            return (parts[0][0].ToString() + parts[parts.Length - 1][0].ToString()).ToUpper();
+        }
+    }
+}
+
+<script>
+    function previewImage(event) {
+        const file = event.target.files[0];
+        const fileNameSpan = document.getElementById('file-name');
+        const previewContainer = document.getElementById('image-preview-container');
+        const preview = document.getElementById('image-preview');
+
+        if (file) {
+            fileNameSpan.textContent = file.name;
+
+            const reader = new FileReader();
+            reader.onload = function(e) {
+                preview.src = e.target.result;
+                previewContainer.style.display = 'block';
+            };
+            reader.readAsDataURL(file);
+        }
+    }
+
+    function removePreview() {
+        const fileInput = document.getElementById('ImageFile');
+        const fileNameSpan = document.getElementById('file-name');
+        const previewContainer = document.getElementById('image-preview-container');
+        const preview = document.getElementById('image-preview');
+
+        if (fileInput) fileInput.value = '';
+        if (fileNameSpan) fileNameSpan.textContent = '';
+        if (previewContainer) previewContainer.style.display = 'none';
+        if (preview) preview.src = '';
+    }
+</script>
