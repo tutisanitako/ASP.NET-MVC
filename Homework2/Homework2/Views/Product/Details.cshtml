@@ -1,0 +1,64 @@
+﻿@model Homework2.Models.Product
+
+@{
+    ViewData["Title"] = "Product Details";
+}
+
+@section Styles {
+    <link rel="stylesheet" href="~/css/details.css" asp-append-version="true" />
+}
+
+<div class="container details-container">
+    <a href="@Url.Action("Index")" class="back-link">
+        ← Back to Products
+    </a>
+
+    @if (TempData["SuccessMessage"] != null)
+    {
+        <div class="alert alert-success">
+            ✓ @TempData["SuccessMessage"]
+        </div>
+    }
+
+    @if (TempData["ErrorMessage"] != null)
+    {
+        <div class="alert alert-error">
+            ✗ @TempData["ErrorMessage"]
+        </div>
+    }
+
+    @if (Model != null)
+    {
+        <div class="product-details">
+            <div class="product-name">@Model.Name</div>
+            <span class="product-category">📁 @Model.Category?.Name</span>
+            <div class="product-price">@Model.Price.ToString("C")</div>
+        </div>
+
+        <div class="detail-section">
+            <div class="detail-title">📝 Product Description</div>
+            <div class="detail-content">@Model.Description</div>
+        </div>
+
+        <div class="info-grid">
+            <div class="info-item">
+                <div class="info-label">Product ID</div>
+                <div class="info-value">#@Model.Id</div>
+            </div>
+            <div class="info-item">
+                <div class="info-label">Category</div>
+                <div class="info-value">@Model.Category?.Name</div>
+            </div>
+            <div class="info-item">
+                <div class="info-label">Price</div>
+                <div class="info-value">@Model.Price.ToString("C")</div>
+            </div>
+        </div>
+
+        <div style="margin-top: 30px; text-align: center;">
+            <a href="@Url.Action("Index")" class="btn btn-primary btn-large">
+                ← Return to Product List
+            </a>
+        </div>
+    }
+</div>

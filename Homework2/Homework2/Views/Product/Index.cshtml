@@ -1,0 +1,149 @@
+﻿@model IEnumerable<Homework2.Models.Product>
+
+@{
+    ViewData["Title"] = ViewBag.PageTitle;
+    var categories = ViewData["Categories"] as List<Homework2.Models.Category>;
+}
+
+<div class="container">
+    <h1>@ViewBag.PageTitle</h1>
+
+    @if (TempData["WelcomeMessage"] != null)
+    {
+        <div class="alert alert-success">
+            ✓ @TempData["WelcomeMessage"]
+        </div>
+    }
+
+    @if (TempData["FilterMessage"] != null)
+    {
+        <div class="alert alert-info">
+            🔍 @TempData["FilterMessage"]
+        </div>
+    }
+
+    <!-- Statistics Section -->
+    <div class="statistics">
+        <div class="stat-card">
+            <div class="stat-value">@ViewBag.TotalProducts</div>
+            <div class="stat-label">Total Products</div>
+        </div>
+        <div class="stat-card">
+            <div class="stat-value">@ViewBag.TotalCost.ToString("C")</div>
+            <div class="stat-label">Total Value</div>
+        </div>
+        <div class="stat-card">
+            <div class="stat-value">@ViewBag.AveragePrice.ToString("C")</div>
+            <div class="stat-label">Average Price</div>
+        </div>
+    </div>
+
+    <!-- Filter Section -->
+    <div class="filter-section">
+        <div class="filter-title">🔍 Filter & Sort Products</div>
+        <form method="get" asp-action="Index">
+            <div class="filter-grid">
+                <div class="form-group">
+                    <label for="categoryId">Category</label>
+                    <select name="categoryId" id="categoryId">
+                        <option value="">All Categories</option>
+                        @foreach (var category in categories)
+                        {
+                            <option value="@category.Id" selected="@(ViewBag.CategoryId == category.Id)">
+                                @category.Name
+                            </option>
+                        }
+                    </select>
+                </div>
+                <div class="form-group">
+                    <label for="minPrice">Min Price</label>
+                    <input type="number" name="minPrice" id="minPrice" value="@ViewBag.MinPrice" 
+                           step="0.01" min="0" placeholder="$0.00" />
+                </div>
+                <div class="form-group">
+                    <label for="maxPrice">Max Price</label>
+                    <input type="number" name="maxPrice" id="maxPrice" value="@ViewBag.MaxPrice" 
+                           step="0.01" min="0" placeholder="$999.99" />
+                </div>
+                <div class="form-group">
+                    <label for="sortBy">Sort By</label>
+                    <select name="sortBy" id="sortBy">
+                        <option value="name" selected="@(ViewBag.SortBy == "name")">Name (A-Z)</option>
+                        <option value="name_desc" selected="@(ViewBag.SortBy == "name_desc")">Name (Z-A)</option>
+                        <option value="price_asc" selected="@(ViewBag.SortBy == "price_asc")">Price (Low-High)</option>
+                        <option value="price_desc" selected="@(ViewBag.SortBy == "price_desc")">Price (High-Low)</option>
+                    </select>
+                </div>
+            </div>
+            <div class="button-group">
+                <button type="submit" class="btn btn-primary">Apply Filters</button>
+                <button type="button" class="btn btn-secondary" onclick="window.location.href='@Url.Action("Index")'">
+                    Clear All Filters
+                </button>
+            </div>
+        </form>
+    </div>
+
+    <!-- Products Grid -->
+    <div class="products-grid">
+        @foreach (var product in Model)
+        {
+            <div class="product-card">
+                <div class="product-header">
+                    <h3 class="product-name">@product.Name</h3>
+                    <div class="product-category">📁 @product.Category?.Name</div>
+                </div>
+                <div class="product-body">
+                    <div class="product-price">@product.Price.ToString("C")</div>
+                    <p class="product-description">@product.Description</p>
+                    <a href="@Url.Action("Details", new { id = product.Id })" class="btn btn-primary" 
+                       style="width: 83.5%; text-align: center;">
+                        View Details
+                    </a>
+                </div>
+            </div>
+        }
+    </div>
+
+    <!-- Pagination -->
+    @if (ViewBag.TotalPages > 1)
+    {
+        <div class="pagination">
+            <a href="@Url.Action("Index", new { 
+                   categoryId = ViewBag.CategoryId, 
+                   minPrice = ViewBag.MinPrice, 
+                   maxPrice = ViewBag.MaxPrice, 
+                   sortBy = ViewBag.SortBy, 
+                   page = ViewBag.CurrentPage - 1 
+               })" 
+               class="page-link @(ViewBag.CurrentPage == 1 ? "disabled" : "")">
+                ← Previous
+            </a>
+
+            @for (int i = 1; i <= ViewBag.TotalPages; i++)
+            {
+                <a href="@Url.Action("Index", new { 
+                       categoryId = ViewBag.CategoryId, 
+                       minPrice = ViewBag.MinPrice, 
+                       maxPrice = ViewBag.MaxPrice, 
+                       sortBy = ViewBag.SortBy, 
+                       page = i 
+                   })" 
+                   class="page-link @(ViewBag.CurrentPage == i ? "active" : "")">
+                    @i
+                </a>
+            }
+
+            <a href="@Url.Action("Index", new { 
+                   categoryId = ViewBag.CategoryId, 
+                   minPrice = ViewBag.MinPrice, 
+                   maxPrice = ViewBag.MaxPrice, 
+                   sortBy = ViewBag.SortBy, 
+                   page = ViewBag.CurrentPage + 1 
+               })" 
+               class="page-link @(ViewBag.CurrentPage == ViewBag.TotalPages ? "disabled" : "")">
+                Next →
+            </a>
+        </div>
+    }
+</div>
