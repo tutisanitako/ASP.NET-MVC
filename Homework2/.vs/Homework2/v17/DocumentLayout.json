@@ -1,66 +1,66 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\tutis\\source\\repos\\Homework2\\",
+  "WorkspaceRootPath": "C:\\Users\\lab321student10\\source\\repos\\Homework2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7DF46762-EF75-4F80-BE3C-1E31E708D34B}|Homework2\\Homework2.csproj|c:\\users\\tutis\\source\\repos\\homework2\\homework2\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{7DF46762-EF75-4F80-BE3C-1E31E708D34B}|Homework2\\Homework2.csproj|c:\\users\\lab321student10\\source\\repos\\homework2\\homework2\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{7DF46762-EF75-4F80-BE3C-1E31E708D34B}|Homework2\\Homework2.csproj|solutionrelative:homework2\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7DF46762-EF75-4F80-BE3C-1E31E708D34B}|Homework2\\Homework2.csproj|c:\\users\\tutis\\source\\repos\\homework2\\homework2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7DF46762-EF75-4F80-BE3C-1E31E708D34B}|Homework2\\Homework2.csproj|solutionrelative:homework2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7DF46762-EF75-4F80-BE3C-1E31E708D34B}|Homework2\\Homework2.csproj|c:\\users\\tutis\\source\\repos\\homework2\\homework2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{7DF46762-EF75-4F80-BE3C-1E31E708D34B}|Homework2\\Homework2.csproj|solutionrelative:homework2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7DF46762-EF75-4F80-BE3C-1E31E708D34B}|Homework2\\Homework2.csproj|c:\\users\\tutis\\source\\repos\\homework2\\homework2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7DF46762-EF75-4F80-BE3C-1E31E708D34B}|Homework2\\Homework2.csproj|solutionrelative:homework2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7DF46762-EF75-4F80-BE3C-1E31E708D34B}|Homework2\\Homework2.csproj|c:\\users\\tutis\\source\\repos\\homework2\\homework2\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{7DF46762-EF75-4F80-BE3C-1E31E708D34B}|Homework2\\Homework2.csproj|c:\\users\\lab321student10\\source\\repos\\homework2\\homework2\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{7DF46762-EF75-4F80-BE3C-1E31E708D34B}|Homework2\\Homework2.csproj|solutionrelative:homework2\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7DF46762-EF75-4F80-BE3C-1E31E708D34B}|Homework2\\Homework2.csproj|c:\\users\\tutis\\source\\repos\\homework2\\homework2\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7DF46762-EF75-4F80-BE3C-1E31E708D34B}|Homework2\\Homework2.csproj|solutionrelative:homework2\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7DF46762-EF75-4F80-BE3C-1E31E708D34B}|Homework2\\Homework2.csproj|c:\\users\\tutis\\source\\repos\\homework2\\homework2\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7DF46762-EF75-4F80-BE3C-1E31E708D34B}|Homework2\\Homework2.csproj|solutionrelative:homework2\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7DF46762-EF75-4F80-BE3C-1E31E708D34B}|Homework2\\Homework2.csproj|c:\\users\\tutis\\source\\repos\\homework2\\homework2\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7DF46762-EF75-4F80-BE3C-1E31E708D34B}|Homework2\\Homework2.csproj|solutionrelative:homework2\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7DF46762-EF75-4F80-BE3C-1E31E708D34B}|Homework2\\Homework2.csproj|c:\\users\\tutis\\source\\repos\\homework2\\homework2\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7DF46762-EF75-4F80-BE3C-1E31E708D34B}|Homework2\\Homework2.csproj|solutionrelative:homework2\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7DF46762-EF75-4F80-BE3C-1E31E708D34B}|Homework2\\Homework2.csproj|c:\\users\\tutis\\source\\repos\\homework2\\homework2\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7DF46762-EF75-4F80-BE3C-1E31E708D34B}|Homework2\\Homework2.csproj|solutionrelative:homework2\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7DF46762-EF75-4F80-BE3C-1E31E708D34B}|Homework2\\Homework2.csproj|c:\\users\\tutis\\source\\repos\\homework2\\homework2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7DF46762-EF75-4F80-BE3C-1E31E708D34B}|Homework2\\Homework2.csproj|solutionrelative:homework2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7DF46762-EF75-4F80-BE3C-1E31E708D34B}|Homework2\\Homework2.csproj|c:\\users\\tutis\\source\\repos\\homework2\\homework2\\wwwroot\\css\\details.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{7DF46762-EF75-4F80-BE3C-1E31E708D34B}|Homework2\\Homework2.csproj|c:\\users\\lab321student10\\source\\repos\\homework2\\homework2\\wwwroot\\css\\details.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{7DF46762-EF75-4F80-BE3C-1E31E708D34B}|Homework2\\Homework2.csproj|solutionrelative:homework2\\wwwroot\\css\\details.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7DF46762-EF75-4F80-BE3C-1E31E708D34B}|Homework2\\Homework2.csproj|c:\\users\\tutis\\source\\repos\\homework2\\homework2\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{7DF46762-EF75-4F80-BE3C-1E31E708D34B}|Homework2\\Homework2.csproj|c:\\users\\lab321student10\\source\\repos\\homework2\\homework2\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7DF46762-EF75-4F80-BE3C-1E31E708D34B}|Homework2\\Homework2.csproj|solutionrelative:homework2\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DF46762-EF75-4F80-BE3C-1E31E708D34B}|Homework2\\Homework2.csproj|c:\\users\\lab321student10\\source\\repos\\homework2\\homework2\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DF46762-EF75-4F80-BE3C-1E31E708D34B}|Homework2\\Homework2.csproj|solutionrelative:homework2\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DF46762-EF75-4F80-BE3C-1E31E708D34B}|Homework2\\Homework2.csproj|c:\\users\\lab321student10\\source\\repos\\homework2\\homework2\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DF46762-EF75-4F80-BE3C-1E31E708D34B}|Homework2\\Homework2.csproj|solutionrelative:homework2\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DF46762-EF75-4F80-BE3C-1E31E708D34B}|Homework2\\Homework2.csproj|c:\\users\\lab321student10\\source\\repos\\homework2\\homework2\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DF46762-EF75-4F80-BE3C-1E31E708D34B}|Homework2\\Homework2.csproj|solutionrelative:homework2\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DF46762-EF75-4F80-BE3C-1E31E708D34B}|Homework2\\Homework2.csproj|c:\\users\\lab321student10\\source\\repos\\homework2\\homework2\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DF46762-EF75-4F80-BE3C-1E31E708D34B}|Homework2\\Homework2.csproj|solutionrelative:homework2\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lab321student10\\source\\repos\\Homework2\\Homework2\\Migrations\\20251202150122_InitialCreatee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Homework2\\Migrations\\20251202150122_InitialCreatee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DF46762-EF75-4F80-BE3C-1E31E708D34B}|Homework2\\Homework2.csproj|c:\\users\\lab321student10\\source\\repos\\homework2\\homework2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7DF46762-EF75-4F80-BE3C-1E31E708D34B}|Homework2\\Homework2.csproj|solutionrelative:homework2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DF46762-EF75-4F80-BE3C-1E31E708D34B}|Homework2\\Homework2.csproj|c:\\users\\lab321student10\\source\\repos\\homework2\\homework2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DF46762-EF75-4F80-BE3C-1E31E708D34B}|Homework2\\Homework2.csproj|solutionrelative:homework2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DF46762-EF75-4F80-BE3C-1E31E708D34B}|Homework2\\Homework2.csproj|c:\\users\\lab321student10\\source\\repos\\homework2\\homework2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7DF46762-EF75-4F80-BE3C-1E31E708D34B}|Homework2\\Homework2.csproj|solutionrelative:homework2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DF46762-EF75-4F80-BE3C-1E31E708D34B}|Homework2\\Homework2.csproj|c:\\users\\lab321student10\\source\\repos\\homework2\\homework2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DF46762-EF75-4F80-BE3C-1E31E708D34B}|Homework2\\Homework2.csproj|solutionrelative:homework2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DF46762-EF75-4F80-BE3C-1E31E708D34B}|Homework2\\Homework2.csproj|c:\\users\\lab321student10\\source\\repos\\homework2\\homework2\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{7DF46762-EF75-4F80-BE3C-1E31E708D34B}|Homework2\\Homework2.csproj|solutionrelative:homework2\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7DF46762-EF75-4F80-BE3C-1E31E708D34B}|Homework2\\Homework2.csproj|c:\\users\\tutis\\source\\repos\\homework2\\homework2\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{7DF46762-EF75-4F80-BE3C-1E31E708D34B}|Homework2\\Homework2.csproj|c:\\users\\lab321student10\\source\\repos\\homework2\\homework2\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{7DF46762-EF75-4F80-BE3C-1E31E708D34B}|Homework2\\Homework2.csproj|solutionrelative:homework2\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\tutis\\source\\repos\\Homework2\\Homework2\\Migrations\\20251201194625_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Homework2\\Migrations\\20251201194625_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -70,53 +70,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\tutis\\source\\repos\\Homework2\\Homework2\\Views\\Product\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab321student10\\source\\repos\\Homework2\\Homework2\\Views\\Product\\Index.cshtml",
               "RelativeDocumentMoniker": "Homework2\\Views\\Product\\Index.cshtml",
-              "ToolTip": "C:\\Users\\tutis\\source\\repos\\Homework2\\Homework2\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\lab321student10\\source\\repos\\Homework2\\Homework2\\Views\\Product\\Index.cshtml",
               "RelativeToolTip": "Homework2\\Views\\Product\\Index.cshtml",
-              "ViewState": "AgIAAHQAAAAAAAAAAADwv5QAAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-12-01T19:54:06.732Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 6,
               "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\tutis\\source\\repos\\Homework2\\Homework2\\Data\\AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\lab321student10\\source\\repos\\Homework2\\Homework2\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Homework2\\Data\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\tutis\\source\\repos\\Homework2\\Homework2\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\lab321student10\\source\\repos\\Homework2\\Homework2\\Data\\AppDbContext.cs",
               "RelativeToolTip": "Homework2\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAA3wCwAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAUwCwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-01T19:43:52.963Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 5,
               "Title": "Category.cs",
-              "DocumentMoniker": "C:\\Users\\tutis\\source\\repos\\Homework2\\Homework2\\Models\\Category.cs",
+              "DocumentMoniker": "C:\\Users\\lab321student10\\source\\repos\\Homework2\\Homework2\\Models\\Category.cs",
               "RelativeDocumentMoniker": "Homework2\\Models\\Category.cs",
-              "ToolTip": "C:\\Users\\tutis\\source\\repos\\Homework2\\Homework2\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\lab321student10\\source\\repos\\Homework2\\Homework2\\Models\\Category.cs",
               "RelativeToolTip": "Homework2\\Models\\Category.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -125,11 +117,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\tutis\\source\\repos\\Homework2\\Homework2\\Models\\Product.cs",
+              "DocumentMoniker": "C:\\Users\\lab321student10\\source\\repos\\Homework2\\Homework2\\Models\\Product.cs",
               "RelativeDocumentMoniker": "Homework2\\Models\\Product.cs",
-              "ToolTip": "C:\\Users\\tutis\\source\\repos\\Homework2\\Homework2\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\lab321student10\\source\\repos\\Homework2\\Homework2\\Models\\Product.cs",
               "RelativeToolTip": "Homework2\\Models\\Product.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -138,37 +130,36 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\tutis\\source\\repos\\Homework2\\Homework2\\Views\\Product\\Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab321student10\\source\\repos\\Homework2\\Homework2\\Views\\Product\\Details.cshtml",
               "RelativeDocumentMoniker": "Homework2\\Views\\Product\\Details.cshtml",
-              "ToolTip": "C:\\Users\\tutis\\source\\repos\\Homework2\\Homework2\\Views\\Product\\Details.cshtml",
+              "ToolTip": "C:\\Users\\lab321student10\\source\\repos\\Homework2\\Homework2\\Views\\Product\\Details.cshtml",
               "RelativeToolTip": "Homework2\\Views\\Product\\Details.cshtml",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAwwD8AAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAuwD8AAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-12-01T19:54:22.576Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 11,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\tutis\\source\\repos\\Homework2\\Homework2\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab321student10\\source\\repos\\Homework2\\Homework2\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Homework2\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\tutis\\source\\repos\\Homework2\\Homework2\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\lab321student10\\source\\repos\\Homework2\\Homework2\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Homework2\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-01T19:52:57.552Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-01T19:52:57.552Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\tutis\\source\\repos\\Homework2\\Homework2\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\lab321student10\\source\\repos\\Homework2\\Homework2\\appsettings.json",
               "RelativeDocumentMoniker": "Homework2\\appsettings.json",
-              "ToolTip": "C:\\Users\\tutis\\source\\repos\\Homework2\\Homework2\\appsettings.json",
+              "ToolTip": "C:\\Users\\lab321student10\\source\\repos\\Homework2\\Homework2\\appsettings.json",
               "RelativeToolTip": "Homework2\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -177,65 +168,64 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 10,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\tutis\\source\\repos\\Homework2\\Homework2\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\lab321student10\\source\\repos\\Homework2\\Homework2\\Program.cs",
               "RelativeDocumentMoniker": "Homework2\\Program.cs",
-              "ToolTip": "C:\\Users\\tutis\\source\\repos\\Homework2\\Homework2\\Program.cs",
+              "ToolTip": "C:\\Users\\lab321student10\\source\\repos\\Homework2\\Homework2\\Program.cs",
               "RelativeToolTip": "Homework2\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAADwvyAAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-01T19:44:07.068Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-01T19:44:07.068Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "site.css",
-              "DocumentMoniker": "C:\\Users\\tutis\\source\\repos\\Homework2\\Homework2\\wwwroot\\css\\site.css",
+              "DocumentMoniker": "C:\\Users\\lab321student10\\source\\repos\\Homework2\\Homework2\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "Homework2\\wwwroot\\css\\site.css",
-              "ToolTip": "C:\\Users\\tutis\\source\\repos\\Homework2\\Homework2\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\lab321student10\\source\\repos\\Homework2\\Homework2\\wwwroot\\css\\site.css",
               "RelativeToolTip": "Homework2\\wwwroot\\css\\site.css",
-              "ViewState": "AgIAADcBAAAAAAAAAAAwwEcBAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAGwBAAAAAAAAAAAowIoBAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2025-12-01T19:52:02.466Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 8,
+              "Title": "20251202150122_InitialCreatee.cs",
+              "DocumentMoniker": "C:\\Users\\lab321student10\\source\\repos\\Homework2\\Homework2\\Migrations\\20251202150122_InitialCreatee.cs",
+              "RelativeDocumentMoniker": "Homework2\\Migrations\\20251202150122_InitialCreatee.cs",
+              "ToolTip": "C:\\Users\\lab321student10\\source\\repos\\Homework2\\Homework2\\Migrations\\20251202150122_InitialCreatee.cs",
+              "RelativeToolTip": "Homework2\\Migrations\\20251202150122_InitialCreatee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T15:01:23.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "ProductController.cs",
-              "DocumentMoniker": "C:\\Users\\tutis\\source\\repos\\Homework2\\Homework2\\Controllers\\ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\lab321student10\\source\\repos\\Homework2\\Homework2\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "Homework2\\Controllers\\ProductController.cs",
-              "ToolTip": "C:\\Users\\tutis\\source\\repos\\Homework2\\Homework2\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\lab321student10\\source\\repos\\Homework2\\Homework2\\Controllers\\ProductController.cs",
               "RelativeToolTip": "Homework2\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAAFwAAAAAAAAAAAAkwHsAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAiwHsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-01T19:47:25.484Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\tutis\\source\\repos\\Homework2\\Homework2\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Homework2\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\tutis\\source\\repos\\Homework2\\Homework2\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Homework2\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-01T20:28:02.569Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 2,
               "Title": "details.css",
-              "DocumentMoniker": "C:\\Users\\tutis\\source\\repos\\Homework2\\Homework2\\wwwroot\\css\\details.css",
+              "DocumentMoniker": "C:\\Users\\lab321student10\\source\\repos\\Homework2\\Homework2\\wwwroot\\css\\details.css",
               "RelativeDocumentMoniker": "Homework2\\wwwroot\\css\\details.css",
-              "ToolTip": "C:\\Users\\tutis\\source\\repos\\Homework2\\Homework2\\wwwroot\\css\\details.css",
+              "ToolTip": "C:\\Users\\lab321student10\\source\\repos\\Homework2\\Homework2\\wwwroot\\css\\details.css",
               "RelativeToolTip": "Homework2\\wwwroot\\css\\details.css",
-              "ViewState": "AgIAAEIAAAAAAAAAAAAqwGQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAowGQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2025-12-01T19:52:35.927Z",
               "EditorCaption": ""
@@ -243,73 +233,38 @@
             {
               "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\tutis\\source\\repos\\Homework2\\Homework2\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "Homework2\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\tutis\\source\\repos\\Homework2\\Homework2\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "Homework2\\Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-01T19:54:29.742Z",
-              "EditorCaption": ""
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\lab321student10\\source\\repos\\Homework2\\Homework2\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Homework2\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\lab321student10\\source\\repos\\Homework2\\Homework2\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Homework2\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T20:28:02.569Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\tutis\\source\\repos\\Homework2\\Homework2\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "Homework2\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\tutis\\source\\repos\\Homework2\\Homework2\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "Homework2\\Views\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab321student10\\source\\repos\\Homework2\\Homework2\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Homework2\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\lab321student10\\source\\repos\\Homework2\\Homework2\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Homework2\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-01T19:57:29.759Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-01T19:54:29.742Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
-              "Title": "20251201194625_InitialCreate.cs",
-              "DocumentMoniker": "C:\\Users\\tutis\\source\\repos\\Homework2\\Homework2\\Migrations\\20251201194625_InitialCreate.cs",
-              "RelativeDocumentMoniker": "Homework2\\Migrations\\20251201194625_InitialCreate.cs",
-              "ToolTip": "C:\\Users\\tutis\\source\\repos\\Homework2\\Homework2\\Migrations\\20251201194625_InitialCreate.cs",
-              "RelativeToolTip": "Homework2\\Migrations\\20251201194625_InitialCreate.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA/AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-01T19:46:25.994Z",
-              "EditorCaption": ""
-            }
-          ]
-        },
-        {
-          "DockedWidth": 57,
-          "SelectedChildIndex": -1,
-          "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
-            }
-          ]
-        },
-        {
-          "DockedWidth": 57,
-          "SelectedChildIndex": -1,
-          "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab321student10\\source\\repos\\Homework2\\Homework2\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Homework2\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\lab321student10\\source\\repos\\Homework2\\Homework2\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Homework2\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-01T19:57:29.759Z"
             }
           ]
         }
