@@ -1,0 +1,120 @@
+.form-card {
+    background: white;
+    border-radius: 16px;
+    padding: 32px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+}
+
+.form-section {
+    margin-bottom: 32px;
+    padding-bottom: 32px;
+    border-bottom: 1px solid #F5F5F7;
+}
+
+    .form-section:last-of-type {
+        border-bottom: none;
+        margin-bottom: 0;
+        padding-bottom: 0;
+    }
+
+    .form-section h3 {
+        font-size: 18px;
+        font-weight: 600;
+        color: #1E1E1E;
+        margin-bottom: 20px;
+    }
+
+.required {
+    color: #FF4D4D;
+}
+
+.form-actions {
+    display: flex;
+    justify-content: flex-end;
+    gap: 16px;
+    margin-top: 32px;
+}
+
+.btn-cancel-form,
+.btn-submit-form {
+    padding: 14px 32px;
+    border-radius: 12px;
+    font-size: 14px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all 0.2s;
+    border: none;
+    text-decoration: none;
+    display: inline-block;
+}
+
+.btn-cancel-form {
+    background-color: #F5F5F7;
+    color: #1E1E1E;
+}
+
+    .btn-cancel-form:hover {
+        background-color: #E5E5EA;
+    }
+
+.btn-submit-form {
+    background: linear-gradient(135deg, #4D44B5 0%, #6B5DD3 100%);
+    color: white;
+}
+
+    .btn-submit-form:hover {
+        transform: translateY(-2px);
+        box-shadow: 0 4px 12px rgba(77, 68, 181, 0.3);
+    }
+
+/* Success Modal Styles */
+.success-modal {
+    text-align: center;
+    max-width: 400px;
+}
+
+.success-icon {
+    width: 80px;
+    height: 80px;
+    background: linear-gradient(135deg, #4CAF50 0%, #45a049 100%);
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto 24px;
+}
+
+    .success-icon svg {
+        color: white;
+    }
+
+.success-modal h2 {
+    font-size: 24px;
+    color: #1E1E1E;
+    margin-bottom: 12px;
+}
+
+.success-modal p {
+    color: #8E8E93;
+    margin-bottom: 24px;
+}
+
+.success-modal .modal-actions {
+    justify-content: center;
+}
+
+.btn-return {
+    display: inline-block;
+    padding: 14px 32px;
+    background: linear-gradient(135deg, #4D44B5 0%, #6B5DD3 100%);
+    color: white;
+    border-radius: 12px;
+    text-decoration: none;
+    font-weight: 600;
+    transition: all 0.2s;
+}
+
+    .btn-return:hover {
+        transform: translateY(-2px);
+        box-shadow: 0 4px 12px rgba(77, 68, 181, 0.3);
+    }

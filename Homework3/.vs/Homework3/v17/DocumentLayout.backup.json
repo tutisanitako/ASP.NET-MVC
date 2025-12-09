@@ -1,0 +1,415 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lab321student10\\Desktop\\Homework3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5849F008-B06A-4A71-A39F-D69EDAAFF295}|Homework3.API\\Homework3.API.csproj|c:\\users\\lab321student10\\desktop\\homework3\\homework3.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5849F008-B06A-4A71-A39F-D69EDAAFF295}|Homework3.API\\Homework3.API.csproj|solutionrelative:homework3.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5849F008-B06A-4A71-A39F-D69EDAAFF295}|Homework3.API\\Homework3.API.csproj|c:\\users\\lab321student10\\desktop\\homework3\\homework3.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5849F008-B06A-4A71-A39F-D69EDAAFF295}|Homework3.API\\Homework3.API.csproj|solutionrelative:homework3.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{198697FF-FE4C-448D-B264-36D5C5C1B362}|Homework3.Web\\Homework3.Web.csproj|c:\\users\\lab321student10\\desktop\\homework3\\homework3.web\\wwwroot\\js\\students.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{198697FF-FE4C-448D-B264-36D5C5C1B362}|Homework3.Web\\Homework3.Web.csproj|solutionrelative:homework3.web\\wwwroot\\js\\students.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{198697FF-FE4C-448D-B264-36D5C5C1B362}|Homework3.Web\\Homework3.Web.csproj|c:\\users\\lab321student10\\desktop\\homework3\\homework3.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{198697FF-FE4C-448D-B264-36D5C5C1B362}|Homework3.Web\\Homework3.Web.csproj|solutionrelative:homework3.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{198697FF-FE4C-448D-B264-36D5C5C1B362}|Homework3.Web\\Homework3.Web.csproj|c:\\users\\lab321student10\\desktop\\homework3\\homework3.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{198697FF-FE4C-448D-B264-36D5C5C1B362}|Homework3.Web\\Homework3.Web.csproj|solutionrelative:homework3.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{198697FF-FE4C-448D-B264-36D5C5C1B362}|Homework3.Web\\Homework3.Web.csproj|c:\\users\\lab321student10\\desktop\\homework3\\homework3.web\\views\\students\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{198697FF-FE4C-448D-B264-36D5C5C1B362}|Homework3.Web\\Homework3.Web.csproj|solutionrelative:homework3.web\\views\\students\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{198697FF-FE4C-448D-B264-36D5C5C1B362}|Homework3.Web\\Homework3.Web.csproj|c:\\users\\lab321student10\\desktop\\homework3\\homework3.web\\views\\students\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{198697FF-FE4C-448D-B264-36D5C5C1B362}|Homework3.Web\\Homework3.Web.csproj|solutionrelative:homework3.web\\views\\students\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{198697FF-FE4C-448D-B264-36D5C5C1B362}|Homework3.Web\\Homework3.Web.csproj|c:\\users\\lab321student10\\desktop\\homework3\\homework3.web\\wwwroot\\css\\create-student.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{198697FF-FE4C-448D-B264-36D5C5C1B362}|Homework3.Web\\Homework3.Web.csproj|solutionrelative:homework3.web\\wwwroot\\css\\create-student.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{198697FF-FE4C-448D-B264-36D5C5C1B362}|Homework3.Web\\Homework3.Web.csproj|c:\\users\\lab321student10\\desktop\\homework3\\homework3.web\\wwwroot\\css\\student.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{198697FF-FE4C-448D-B264-36D5C5C1B362}|Homework3.Web\\Homework3.Web.csproj|solutionrelative:homework3.web\\wwwroot\\css\\student.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{198697FF-FE4C-448D-B264-36D5C5C1B362}|Homework3.Web\\Homework3.Web.csproj|c:\\users\\lab321student10\\desktop\\homework3\\homework3.web\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{198697FF-FE4C-448D-B264-36D5C5C1B362}|Homework3.Web\\Homework3.Web.csproj|solutionrelative:homework3.web\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{198697FF-FE4C-448D-B264-36D5C5C1B362}|Homework3.Web\\Homework3.Web.csproj|c:\\users\\lab321student10\\desktop\\homework3\\homework3.web\\wwwroot\\js\\create-student.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{198697FF-FE4C-448D-B264-36D5C5C1B362}|Homework3.Web\\Homework3.Web.csproj|solutionrelative:homework3.web\\wwwroot\\js\\create-student.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lab321student10\\Desktop\\Homework3\\Homework3.Infrastructure\\Migrations\\20251209163104_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Homework3.Infrastructure\\Migrations\\20251209163104_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E2BD0A7-98F7-4020-8F53-3C89B2AB593F}|Homework3.Application\\Homework3.Application.csproj|c:\\users\\lab321student10\\desktop\\homework3\\homework3.application\\interfaces\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E2BD0A7-98F7-4020-8F53-3C89B2AB593F}|Homework3.Application\\Homework3.Application.csproj|solutionrelative:homework3.application\\interfaces\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E92FABE-6DAC-455E-9A7C-8FCEC17C8D39}|Homework3.Domain\\Homework3.Domain.csproj|c:\\users\\lab321student10\\desktop\\homework3\\homework3.domain\\interfaces\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E92FABE-6DAC-455E-9A7C-8FCEC17C8D39}|Homework3.Domain\\Homework3.Domain.csproj|solutionrelative:homework3.domain\\interfaces\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5849F008-B06A-4A71-A39F-D69EDAAFF295}|Homework3.API\\Homework3.API.csproj|c:\\users\\lab321student10\\desktop\\homework3\\homework3.api\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5849F008-B06A-4A71-A39F-D69EDAAFF295}|Homework3.API\\Homework3.API.csproj|solutionrelative:homework3.api\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{176D89C8-00EA-4EDB-A2A4-DE6207B246C5}|Homework3.Infrastructure\\Homework3.Infrastructure.csproj|c:\\users\\lab321student10\\desktop\\homework3\\homework3.infrastructure\\repositories\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{176D89C8-00EA-4EDB-A2A4-DE6207B246C5}|Homework3.Infrastructure\\Homework3.Infrastructure.csproj|solutionrelative:homework3.infrastructure\\repositories\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{176D89C8-00EA-4EDB-A2A4-DE6207B246C5}|Homework3.Infrastructure\\Homework3.Infrastructure.csproj|c:\\users\\lab321student10\\desktop\\homework3\\homework3.infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{176D89C8-00EA-4EDB-A2A4-DE6207B246C5}|Homework3.Infrastructure\\Homework3.Infrastructure.csproj|solutionrelative:homework3.infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E2BD0A7-98F7-4020-8F53-3C89B2AB593F}|Homework3.Application\\Homework3.Application.csproj|c:\\users\\lab321student10\\desktop\\homework3\\homework3.application\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E2BD0A7-98F7-4020-8F53-3C89B2AB593F}|Homework3.Application\\Homework3.Application.csproj|solutionrelative:homework3.application\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E2BD0A7-98F7-4020-8F53-3C89B2AB593F}|Homework3.Application\\Homework3.Application.csproj|c:\\users\\lab321student10\\desktop\\homework3\\homework3.application\\dtos\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E2BD0A7-98F7-4020-8F53-3C89B2AB593F}|Homework3.Application\\Homework3.Application.csproj|solutionrelative:homework3.application\\dtos\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E92FABE-6DAC-455E-9A7C-8FCEC17C8D39}|Homework3.Domain\\Homework3.Domain.csproj|c:\\users\\lab321student10\\desktop\\homework3\\homework3.domain\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E92FABE-6DAC-455E-9A7C-8FCEC17C8D39}|Homework3.Domain\\Homework3.Domain.csproj|solutionrelative:homework3.domain\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{176D89C8-00EA-4EDB-A2A4-DE6207B246C5}|Homework3.Infrastructure\\Homework3.Infrastructure.csproj|c:\\users\\lab321student10\\desktop\\homework3\\homework3.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{176D89C8-00EA-4EDB-A2A4-DE6207B246C5}|Homework3.Infrastructure\\Homework3.Infrastructure.csproj|solutionrelative:homework3.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E2BD0A7-98F7-4020-8F53-3C89B2AB593F}|Homework3.Application\\Homework3.Application.csproj|c:\\users\\lab321student10\\desktop\\homework3\\homework3.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E2BD0A7-98F7-4020-8F53-3C89B2AB593F}|Homework3.Application\\Homework3.Application.csproj|solutionrelative:homework3.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E92FABE-6DAC-455E-9A7C-8FCEC17C8D39}|Homework3.Domain\\Homework3.Domain.csproj|c:\\users\\lab321student10\\desktop\\homework3\\homework3.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E92FABE-6DAC-455E-9A7C-8FCEC17C8D39}|Homework3.Domain\\Homework3.Domain.csproj|solutionrelative:homework3.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "C:\\Users\\lab321student10\\Desktop\\Homework3\\Homework3.Web\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "Homework3.Web\\Controllers\\StudentsController.cs",
+              "ToolTip": "C:\\Users\\lab321student10\\Desktop\\Homework3\\Homework3.Web\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "Homework3.Web\\Controllers\\StudentsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T16:11:55.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "student.css",
+              "DocumentMoniker": "C:\\Users\\lab321student10\\Desktop\\Homework3\\Homework3.Web\\wwwroot\\css\\student.css",
+              "RelativeDocumentMoniker": "Homework3.Web\\wwwroot\\css\\student.css",
+              "ToolTip": "C:\\Users\\lab321student10\\Desktop\\Homework3\\Homework3.Web\\wwwroot\\css\\student.css",
+              "RelativeToolTip": "Homework3.Web\\wwwroot\\css\\student.css",
+              "ViewState": "AgIAAAEDAAAAAAAAAAAgwCIDAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-12-09T16:22:04.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "create-student.css",
+              "DocumentMoniker": "C:\\Users\\lab321student10\\Desktop\\Homework3\\Homework3.Web\\wwwroot\\css\\create-student.css",
+              "RelativeDocumentMoniker": "Homework3.Web\\wwwroot\\css\\create-student.css",
+              "ToolTip": "C:\\Users\\lab321student10\\Desktop\\Homework3\\Homework3.Web\\wwwroot\\css\\create-student.css",
+              "RelativeToolTip": "Homework3.Web\\wwwroot\\css\\create-student.css",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAgwHgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-12-09T16:21:44.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab321student10\\Desktop\\Homework3\\Homework3.Web\\Views\\Students\\Create.cshtml",
+              "RelativeDocumentMoniker": "Homework3.Web\\Views\\Students\\Create.cshtml",
+              "ToolTip": "C:\\Users\\lab321student10\\Desktop\\Homework3\\Homework3.Web\\Views\\Students\\Create.cshtml",
+              "RelativeToolTip": "Homework3.Web\\Views\\Students\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-09T16:36:04.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "create-student.js",
+              "DocumentMoniker": "C:\\Users\\lab321student10\\Desktop\\Homework3\\Homework3.Web\\wwwroot\\js\\create-student.js",
+              "RelativeDocumentMoniker": "Homework3.Web\\wwwroot\\js\\create-student.js",
+              "ToolTip": "C:\\Users\\lab321student10\\Desktop\\Homework3\\Homework3.Web\\wwwroot\\js\\create-student.js",
+              "RelativeToolTip": "Homework3.Web\\wwwroot\\js\\create-student.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-12-09T16:13:03.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "students.js",
+              "DocumentMoniker": "C:\\Users\\lab321student10\\Desktop\\Homework3\\Homework3.Web\\wwwroot\\js\\students.js",
+              "RelativeDocumentMoniker": "Homework3.Web\\wwwroot\\js\\students.js",
+              "ToolTip": "C:\\Users\\lab321student10\\Desktop\\Homework3\\Homework3.Web\\wwwroot\\js\\students.js*",
+              "RelativeToolTip": "Homework3.Web\\wwwroot\\js\\students.js*",
+              "ViewState": "AgIAAAEBAAAAAAAAAAAQwEcBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-12-09T16:12:41.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab321student10\\Desktop\\Homework3\\Homework3.Web\\Views\\Students\\Index.cshtml",
+              "RelativeDocumentMoniker": "Homework3.Web\\Views\\Students\\Index.cshtml",
+              "ToolTip": "C:\\Users\\lab321student10\\Desktop\\Homework3\\Homework3.Web\\Views\\Students\\Index.cshtml",
+              "RelativeToolTip": "Homework3.Web\\Views\\Students\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-09T16:23:33.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\lab321student10\\Desktop\\Homework3\\Homework3.Web\\appsettings.json",
+              "RelativeDocumentMoniker": "Homework3.Web\\appsettings.json",
+              "ToolTip": "C:\\Users\\lab321student10\\Desktop\\Homework3\\Homework3.Web\\appsettings.json",
+              "RelativeToolTip": "Homework3.Web\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-09T16:12:05.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lab321student10\\Desktop\\Homework3\\Homework3.API\\Program.cs",
+              "RelativeDocumentMoniker": "Homework3.API\\Program.cs",
+              "ToolTip": "C:\\Users\\lab321student10\\Desktop\\Homework3\\Homework3.API\\Program.cs*",
+              "RelativeToolTip": "Homework3.API\\Program.cs*",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAUwCAAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T16:11:18.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IStudentService.cs",
+              "DocumentMoniker": "C:\\Users\\lab321student10\\Desktop\\Homework3\\Homework3.Application\\Interfaces\\IStudentService.cs",
+              "RelativeDocumentMoniker": "Homework3.Application\\Interfaces\\IStudentService.cs",
+              "ToolTip": "C:\\Users\\lab321student10\\Desktop\\Homework3\\Homework3.Application\\Interfaces\\IStudentService.cs",
+              "RelativeToolTip": "Homework3.Application\\Interfaces\\IStudentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T16:29:09.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lab321student10\\Desktop\\Homework3\\Homework3.Web\\Program.cs",
+              "RelativeDocumentMoniker": "Homework3.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\lab321student10\\Desktop\\Homework3\\Homework3.Web\\Program.cs",
+              "RelativeToolTip": "Homework3.Web\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T16:48:16.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\lab321student10\\Desktop\\Homework3\\Homework3.API\\appsettings.json",
+              "RelativeDocumentMoniker": "Homework3.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\lab321student10\\Desktop\\Homework3\\Homework3.API\\appsettings.json",
+              "RelativeToolTip": "Homework3.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-09T16:13:20.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20251209163104_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\lab321student10\\Desktop\\Homework3\\Homework3.Infrastructure\\Migrations\\20251209163104_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Homework3.Infrastructure\\Migrations\\20251209163104_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\lab321student10\\Desktop\\Homework3\\Homework3.Infrastructure\\Migrations\\20251209163104_InitialCreate.cs",
+              "RelativeToolTip": "Homework3.Infrastructure\\Migrations\\20251209163104_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T16:31:04.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IStudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\lab321student10\\Desktop\\Homework3\\Homework3.Domain\\Interfaces\\IStudentRepository.cs",
+              "RelativeDocumentMoniker": "Homework3.Domain\\Interfaces\\IStudentRepository.cs",
+              "ToolTip": "C:\\Users\\lab321student10\\Desktop\\Homework3\\Homework3.Domain\\Interfaces\\IStudentRepository.cs",
+              "RelativeToolTip": "Homework3.Domain\\Interfaces\\IStudentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T16:20:01.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "C:\\Users\\lab321student10\\Desktop\\Homework3\\Homework3.API\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "Homework3.API\\Controllers\\StudentsController.cs",
+              "ToolTip": "C:\\Users\\lab321student10\\Desktop\\Homework3\\Homework3.API\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "Homework3.API\\Controllers\\StudentsController.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAswE4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T16:11:09.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "StudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\lab321student10\\Desktop\\Homework3\\Homework3.Infrastructure\\Repositories\\StudentRepository.cs",
+              "RelativeDocumentMoniker": "Homework3.Infrastructure\\Repositories\\StudentRepository.cs",
+              "ToolTip": "C:\\Users\\lab321student10\\Desktop\\Homework3\\Homework3.Infrastructure\\Repositories\\StudentRepository.cs",
+              "RelativeToolTip": "Homework3.Infrastructure\\Repositories\\StudentRepository.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAswFoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T16:09:51.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\lab321student10\\Desktop\\Homework3\\Homework3.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Homework3.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\lab321student10\\Desktop\\Homework3\\Homework3.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Homework3.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAswCYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T16:09:12.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "C:\\Users\\lab321student10\\Desktop\\Homework3\\Homework3.Application\\Services\\StudentService.cs",
+              "RelativeDocumentMoniker": "Homework3.Application\\Services\\StudentService.cs",
+              "ToolTip": "C:\\Users\\lab321student10\\Desktop\\Homework3\\Homework3.Application\\Services\\StudentService.cs",
+              "RelativeToolTip": "Homework3.Application\\Services\\StudentService.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAswGIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T16:08:39.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "StudentDTO.cs",
+              "DocumentMoniker": "C:\\Users\\lab321student10\\Desktop\\Homework3\\Homework3.Application\\DTOs\\StudentDTO.cs",
+              "RelativeDocumentMoniker": "Homework3.Application\\DTOs\\StudentDTO.cs",
+              "ToolTip": "C:\\Users\\lab321student10\\Desktop\\Homework3\\Homework3.Application\\DTOs\\StudentDTO.cs",
+              "RelativeToolTip": "Homework3.Application\\DTOs\\StudentDTO.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAA3wDMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T16:08:00.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\lab321student10\\Desktop\\Homework3\\Homework3.Domain\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "Homework3.Domain\\Entities\\Student.cs",
+              "ToolTip": "C:\\Users\\lab321student10\\Desktop\\Homework3\\Homework3.Domain\\Entities\\Student.cs",
+              "RelativeToolTip": "Homework3.Domain\\Entities\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T16:06:48.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\lab321student10\\Desktop\\Homework3\\Homework3.Infrastructure\\Class1.cs",
+              "RelativeDocumentMoniker": "Homework3.Infrastructure\\Class1.cs",
+              "ToolTip": "C:\\Users\\lab321student10\\Desktop\\Homework3\\Homework3.Infrastructure\\Class1.cs",
+              "RelativeToolTip": "Homework3.Infrastructure\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T16:02:53.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\lab321student10\\Desktop\\Homework3\\Homework3.Application\\Class1.cs",
+              "RelativeDocumentMoniker": "Homework3.Application\\Class1.cs",
+              "ToolTip": "C:\\Users\\lab321student10\\Desktop\\Homework3\\Homework3.Application\\Class1.cs",
+              "RelativeToolTip": "Homework3.Application\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T16:02:42.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\lab321student10\\Desktop\\Homework3\\Homework3.Domain\\Class1.cs",
+              "RelativeDocumentMoniker": "Homework3.Domain\\Class1.cs",
+              "ToolTip": "C:\\Users\\lab321student10\\Desktop\\Homework3\\Homework3.Domain\\Class1.cs",
+              "RelativeToolTip": "Homework3.Domain\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T16:02:30.297Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
