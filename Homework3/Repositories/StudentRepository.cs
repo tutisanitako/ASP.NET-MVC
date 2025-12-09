@@ -1,0 +1,60 @@
+﻿using Homework3.Data;
+using Homework3.Models;
+using Microsoft.EntityFrameworkCore;
+
+namespace Homework3.Repositories
+{
+    public class StudentRepository : IRepository
+    {
+        private readonly ApplicationDbContext _context;
+
+        public StudentRepository(ApplicationDbContext context)
+        {
+            _context = context;
+        }
+
+        public async Task<IEnumerable<Student>> GetAllAsync()
+        {
+            return await _context.Students.ToListAsync();
+        }
+
+        public async Task<IEnumerable<Student>> GetFilteredAndSortedAsync(string filter, string orderBy, int pageNumber, int pageSize)
+        {
+            var query = _context.Students.AsQueryable();
+
+            // Apply filtering
+            if (!string.IsNullOrEmpty(filter))
+            {
+                query = query.Where(s => s.FirstName.Contains(filter) || s.LastName.Contains(filter));
+            }
+
+            // Apply sorting
+            query = orderBy?.ToLower() switch
+            {
+                "name_asc" => query.OrderBy(s => s.FirstName).ThenBy(s => s.LastName),
+                "name_desc" => query.OrderByDescending(s => s.FirstName).ThenByDescending(s => s.LastName),
+                "date_asc" => query.OrderBy(s => s.BirthDate),
+                "date_desc" => query.OrderByDescending(s => s.BirthDate),
+                _ => query.OrderBy(s => s.Id)
+            };
+
+            // Apply pagination
+            return await query
+                .Skip((pageNumber - 1) * pageSize)
+                .Take(pageSize)
+                .ToListAsync();
+        }
+
+        public async Task<int> GetTotalCountAsync(string filter)
+        {
+            var query = _context.Students.AsQueryable();
+
+            if (!string.IsNullOrEmpty(filter))
+            {
+                query = query.Where(s => s.FirstName.Contains(filter) || s.LastName.Contains(filter));
+            }
+
+            return await query.CountAsync();
+        }
+    }
+}
