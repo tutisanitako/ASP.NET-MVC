@@ -1,0 +1,60 @@
+﻿@model IEnumerable<AcademicResourceManagement.Domain.Entities.ResourceLog>
+
+@{
+    ViewData["Title"] = "System Logs";
+}
+
+<h2>System Activity Logs</h2>
+<hr />
+
+@if (!Model.Any())
+{
+    <div class="alert alert-info">
+        <p>No logs available.</p>
+    </div>
+}
+else
+{
+    <div class="table-responsive">
+        <table class="table table-sm table-striped">
+            <thead class="table-dark">
+                <tr>
+                    <th>Timestamp</th>
+                    <th>Resource</th>
+                    <th>Action</th>
+                    <th>Performed By</th>
+                    <th>Status Change</th>
+                    <th>Notes</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var log in Model)
+                {
+                    <tr>
+                        <td>@log.Timestamp.ToString("yyyy-MM-dd HH:mm:ss")</td>
+                        <td>
+                            <a asp-action="Details" asp-route-id="@log.ResourceId">
+                                @log.Resource.Title
+                            </a>
+                        </td>
+                        <td><strong>@log.Action</strong></td>
+                        <td>@log.PerformedBy.FirstName @log.PerformedBy.LastName</td>
+                        <td>
+                            @if (log.OldStatus != null && log.NewStatus != null)
+                            {
+                                <span class="badge bg-secondary">@log.OldStatus</span>
+                                <span>→</span>
+                                <span class="badge bg-primary">@log.NewStatus</span>
+                            }
+                        </td>
+                        <td><small>@log.Notes</small></td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+}
+
+<div>
+    <a asp-action="Index" class="btn btn-secondary">Back to Resources</a>
+</div>

@@ -1,0 +1,12 @@
+C:\Users\tutis\source\repos\AcademicResourceManagement\AcademicResourceManagement.Domain\bin\Debug\net8.0\AcademicResourceManagement.Domain.deps.json
+C:\Users\tutis\source\repos\AcademicResourceManagement\AcademicResourceManagement.Domain\bin\Debug\net8.0\AcademicResourceManagement.Domain.dll
+C:\Users\tutis\source\repos\AcademicResourceManagement\AcademicResourceManagement.Domain\bin\Debug\net8.0\AcademicResourceManagement.Domain.pdb
+C:\Users\tutis\source\repos\AcademicResourceManagement\AcademicResourceManagement.Domain\obj\Debug\net8.0\AcademicResourceManagement.Domain.csproj.AssemblyReference.cache
+C:\Users\tutis\source\repos\AcademicResourceManagement\AcademicResourceManagement.Domain\obj\Debug\net8.0\AcademicResourceManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tutis\source\repos\AcademicResourceManagement\AcademicResourceManagement.Domain\obj\Debug\net8.0\AcademicResourceManagement.Domain.AssemblyInfoInputs.cache
+C:\Users\tutis\source\repos\AcademicResourceManagement\AcademicResourceManagement.Domain\obj\Debug\net8.0\AcademicResourceManagement.Domain.AssemblyInfo.cs
+C:\Users\tutis\source\repos\AcademicResourceManagement\AcademicResourceManagement.Domain\obj\Debug\net8.0\AcademicResourceManagement.Domain.csproj.CoreCompileInputs.cache
+C:\Users\tutis\source\repos\AcademicResourceManagement\AcademicResourceManagement.Domain\obj\Debug\net8.0\AcademicResourceManagement.Domain.dll
+C:\Users\tutis\source\repos\AcademicResourceManagement\AcademicResourceManagement.Domain\obj\Debug\net8.0\refint\AcademicResourceManagement.Domain.dll
+C:\Users\tutis\source\repos\AcademicResourceManagement\AcademicResourceManagement.Domain\obj\Debug\net8.0\AcademicResourceManagement.Domain.pdb
+C:\Users\tutis\source\repos\AcademicResourceManagement\AcademicResourceManagement.Domain\obj\Debug\net8.0\ref\AcademicResourceManagement.Domain.dll

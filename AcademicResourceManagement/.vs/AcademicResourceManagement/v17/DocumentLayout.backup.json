@@ -1,0 +1,867 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tutis\\source\\repos\\AcademicResourceManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{17B7FE34-BDA0-4046-90CF-FCBAB950DF1D}|AcademicResourceManagement.Web\\AcademicResourceManagement.Web.csproj|c:\\users\\tutis\\source\\repos\\academicresourcemanagement\\academicresourcemanagement.web\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{17B7FE34-BDA0-4046-90CF-FCBAB950DF1D}|AcademicResourceManagement.Web\\AcademicResourceManagement.Web.csproj|solutionrelative:academicresourcemanagement.web\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17B7FE34-BDA0-4046-90CF-FCBAB950DF1D}|AcademicResourceManagement.Web\\AcademicResourceManagement.Web.csproj|c:\\users\\tutis\\source\\repos\\academicresourcemanagement\\academicresourcemanagement.web\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{17B7FE34-BDA0-4046-90CF-FCBAB950DF1D}|AcademicResourceManagement.Web\\AcademicResourceManagement.Web.csproj|solutionrelative:academicresourcemanagement.web\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17B7FE34-BDA0-4046-90CF-FCBAB950DF1D}|AcademicResourceManagement.Web\\AcademicResourceManagement.Web.csproj|c:\\users\\tutis\\source\\repos\\academicresourcemanagement\\academicresourcemanagement.web\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{17B7FE34-BDA0-4046-90CF-FCBAB950DF1D}|AcademicResourceManagement.Web\\AcademicResourceManagement.Web.csproj|solutionrelative:academicresourcemanagement.web\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17B7FE34-BDA0-4046-90CF-FCBAB950DF1D}|AcademicResourceManagement.Web\\AcademicResourceManagement.Web.csproj|c:\\users\\tutis\\source\\repos\\academicresourcemanagement\\academicresourcemanagement.web\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17B7FE34-BDA0-4046-90CF-FCBAB950DF1D}|AcademicResourceManagement.Web\\AcademicResourceManagement.Web.csproj|solutionrelative:academicresourcemanagement.web\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17B7FE34-BDA0-4046-90CF-FCBAB950DF1D}|AcademicResourceManagement.Web\\AcademicResourceManagement.Web.csproj|c:\\users\\tutis\\source\\repos\\academicresourcemanagement\\academicresourcemanagement.web\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{17B7FE34-BDA0-4046-90CF-FCBAB950DF1D}|AcademicResourceManagement.Web\\AcademicResourceManagement.Web.csproj|solutionrelative:academicresourcemanagement.web\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17B7FE34-BDA0-4046-90CF-FCBAB950DF1D}|AcademicResourceManagement.Web\\AcademicResourceManagement.Web.csproj|c:\\users\\tutis\\source\\repos\\academicresourcemanagement\\academicresourcemanagement.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17B7FE34-BDA0-4046-90CF-FCBAB950DF1D}|AcademicResourceManagement.Web\\AcademicResourceManagement.Web.csproj|solutionrelative:academicresourcemanagement.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{740799B1-9CFE-4A72-9D77-55745B76355F}|AcademicResourceManagement.Persistence\\AcademicResourceManagement.Persistence.csproj|c:\\users\\tutis\\source\\repos\\academicresourcemanagement\\academicresourcemanagement.persistence\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{740799B1-9CFE-4A72-9D77-55745B76355F}|AcademicResourceManagement.Persistence\\AcademicResourceManagement.Persistence.csproj|solutionrelative:academicresourcemanagement.persistence\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{740799B1-9CFE-4A72-9D77-55745B76355F}|AcademicResourceManagement.Persistence\\AcademicResourceManagement.Persistence.csproj|c:\\users\\tutis\\source\\repos\\academicresourcemanagement\\academicresourcemanagement.persistence\\migrations\\20260112232501_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{740799B1-9CFE-4A72-9D77-55745B76355F}|AcademicResourceManagement.Persistence\\AcademicResourceManagement.Persistence.csproj|solutionrelative:academicresourcemanagement.persistence\\migrations\\20260112232501_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{740799B1-9CFE-4A72-9D77-55745B76355F}|AcademicResourceManagement.Persistence\\AcademicResourceManagement.Persistence.csproj|c:\\users\\tutis\\source\\repos\\academicresourcemanagement\\academicresourcemanagement.persistence\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{740799B1-9CFE-4A72-9D77-55745B76355F}|AcademicResourceManagement.Persistence\\AcademicResourceManagement.Persistence.csproj|solutionrelative:academicresourcemanagement.persistence\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C9A0ADF-6A77-4C47-B4CC-A42EBCD07DBF}|AcademicResourceManagement.Infrastructure\\AcademicResourceManagement.Infrastructure.csproj|c:\\users\\tutis\\source\\repos\\academicresourcemanagement\\academicresourcemanagement.infrastructure\\services\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C9A0ADF-6A77-4C47-B4CC-A42EBCD07DBF}|AcademicResourceManagement.Infrastructure\\AcademicResourceManagement.Infrastructure.csproj|solutionrelative:academicresourcemanagement.infrastructure\\services\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82657877-D746-4E0E-9B47-462FB0B55702}|AcademicResourceManagement.Application\\AcademicResourceManagement.Application.csproj|c:\\users\\tutis\\source\\repos\\academicresourcemanagement\\academicresourcemanagement.application\\interfaces\\ifileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82657877-D746-4E0E-9B47-462FB0B55702}|AcademicResourceManagement.Application\\AcademicResourceManagement.Application.csproj|solutionrelative:academicresourcemanagement.application\\interfaces\\ifileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82657877-D746-4E0E-9B47-462FB0B55702}|AcademicResourceManagement.Application\\AcademicResourceManagement.Application.csproj|c:\\users\\tutis\\source\\repos\\academicresourcemanagement\\academicresourcemanagement.application\\dtos\\createresourcedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82657877-D746-4E0E-9B47-462FB0B55702}|AcademicResourceManagement.Application\\AcademicResourceManagement.Application.csproj|solutionrelative:academicresourcemanagement.application\\dtos\\createresourcedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E88D79EF-C3D1-4933-80BC-AAFD1370C413}|AcademicResourceManagement.Domain\\AcademicResourceManagement.Domain.csproj|c:\\users\\tutis\\source\\repos\\academicresourcemanagement\\academicresourcemanagement.domain\\entities\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E88D79EF-C3D1-4933-80BC-AAFD1370C413}|AcademicResourceManagement.Domain\\AcademicResourceManagement.Domain.csproj|solutionrelative:academicresourcemanagement.domain\\entities\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17B7FE34-BDA0-4046-90CF-FCBAB950DF1D}|AcademicResourceManagement.Web\\AcademicResourceManagement.Web.csproj|c:\\users\\tutis\\source\\repos\\academicresourcemanagement\\academicresourcemanagement.web\\controllers\\resourcescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17B7FE34-BDA0-4046-90CF-FCBAB950DF1D}|AcademicResourceManagement.Web\\AcademicResourceManagement.Web.csproj|solutionrelative:academicresourcemanagement.web\\controllers\\resourcescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17B7FE34-BDA0-4046-90CF-FCBAB950DF1D}|AcademicResourceManagement.Web\\AcademicResourceManagement.Web.csproj|c:\\users\\tutis\\source\\repos\\academicresourcemanagement\\academicresourcemanagement.web\\views\\resources\\logs.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{17B7FE34-BDA0-4046-90CF-FCBAB950DF1D}|AcademicResourceManagement.Web\\AcademicResourceManagement.Web.csproj|solutionrelative:academicresourcemanagement.web\\views\\resources\\logs.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17B7FE34-BDA0-4046-90CF-FCBAB950DF1D}|AcademicResourceManagement.Web\\AcademicResourceManagement.Web.csproj|c:\\users\\tutis\\source\\repos\\academicresourcemanagement\\academicresourcemanagement.web\\views\\resources\\reject.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{17B7FE34-BDA0-4046-90CF-FCBAB950DF1D}|AcademicResourceManagement.Web\\AcademicResourceManagement.Web.csproj|solutionrelative:academicresourcemanagement.web\\views\\resources\\reject.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17B7FE34-BDA0-4046-90CF-FCBAB950DF1D}|AcademicResourceManagement.Web\\AcademicResourceManagement.Web.csproj|c:\\users\\tutis\\source\\repos\\academicresourcemanagement\\academicresourcemanagement.web\\views\\resources\\pendingapprovals.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{17B7FE34-BDA0-4046-90CF-FCBAB950DF1D}|AcademicResourceManagement.Web\\AcademicResourceManagement.Web.csproj|solutionrelative:academicresourcemanagement.web\\views\\resources\\pendingapprovals.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17B7FE34-BDA0-4046-90CF-FCBAB950DF1D}|AcademicResourceManagement.Web\\AcademicResourceManagement.Web.csproj|c:\\users\\tutis\\source\\repos\\academicresourcemanagement\\academicresourcemanagement.web\\views\\resources\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{17B7FE34-BDA0-4046-90CF-FCBAB950DF1D}|AcademicResourceManagement.Web\\AcademicResourceManagement.Web.csproj|solutionrelative:academicresourcemanagement.web\\views\\resources\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17B7FE34-BDA0-4046-90CF-FCBAB950DF1D}|AcademicResourceManagement.Web\\AcademicResourceManagement.Web.csproj|c:\\users\\tutis\\source\\repos\\academicresourcemanagement\\academicresourcemanagement.web\\views\\resources\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{17B7FE34-BDA0-4046-90CF-FCBAB950DF1D}|AcademicResourceManagement.Web\\AcademicResourceManagement.Web.csproj|solutionrelative:academicresourcemanagement.web\\views\\resources\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17B7FE34-BDA0-4046-90CF-FCBAB950DF1D}|AcademicResourceManagement.Web\\AcademicResourceManagement.Web.csproj|c:\\users\\tutis\\source\\repos\\academicresourcemanagement\\academicresourcemanagement.web\\views\\resources\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{17B7FE34-BDA0-4046-90CF-FCBAB950DF1D}|AcademicResourceManagement.Web\\AcademicResourceManagement.Web.csproj|solutionrelative:academicresourcemanagement.web\\views\\resources\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17B7FE34-BDA0-4046-90CF-FCBAB950DF1D}|AcademicResourceManagement.Web\\AcademicResourceManagement.Web.csproj|c:\\users\\tutis\\source\\repos\\academicresourcemanagement\\academicresourcemanagement.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{17B7FE34-BDA0-4046-90CF-FCBAB950DF1D}|AcademicResourceManagement.Web\\AcademicResourceManagement.Web.csproj|solutionrelative:academicresourcemanagement.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17B7FE34-BDA0-4046-90CF-FCBAB950DF1D}|AcademicResourceManagement.Web\\AcademicResourceManagement.Web.csproj|c:\\users\\tutis\\source\\repos\\academicresourcemanagement\\academicresourcemanagement.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17B7FE34-BDA0-4046-90CF-FCBAB950DF1D}|AcademicResourceManagement.Web\\AcademicResourceManagement.Web.csproj|solutionrelative:academicresourcemanagement.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17B7FE34-BDA0-4046-90CF-FCBAB950DF1D}|AcademicResourceManagement.Web\\AcademicResourceManagement.Web.csproj|c:\\users\\tutis\\source\\repos\\academicresourcemanagement\\academicresourcemanagement.web\\viewmodels\\approvalviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17B7FE34-BDA0-4046-90CF-FCBAB950DF1D}|AcademicResourceManagement.Web\\AcademicResourceManagement.Web.csproj|solutionrelative:academicresourcemanagement.web\\viewmodels\\approvalviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17B7FE34-BDA0-4046-90CF-FCBAB950DF1D}|AcademicResourceManagement.Web\\AcademicResourceManagement.Web.csproj|c:\\users\\tutis\\source\\repos\\academicresourcemanagement\\academicresourcemanagement.web\\viewmodels\\createresourceviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17B7FE34-BDA0-4046-90CF-FCBAB950DF1D}|AcademicResourceManagement.Web\\AcademicResourceManagement.Web.csproj|solutionrelative:academicresourcemanagement.web\\viewmodels\\createresourceviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17B7FE34-BDA0-4046-90CF-FCBAB950DF1D}|AcademicResourceManagement.Web\\AcademicResourceManagement.Web.csproj|c:\\users\\tutis\\source\\repos\\academicresourcemanagement\\academicresourcemanagement.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{17B7FE34-BDA0-4046-90CF-FCBAB950DF1D}|AcademicResourceManagement.Web\\AcademicResourceManagement.Web.csproj|solutionrelative:academicresourcemanagement.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C9A0ADF-6A77-4C47-B4CC-A42EBCD07DBF}|AcademicResourceManagement.Infrastructure\\AcademicResourceManagement.Infrastructure.csproj|c:\\users\\tutis\\source\\repos\\academicresourcemanagement\\academicresourcemanagement.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C9A0ADF-6A77-4C47-B4CC-A42EBCD07DBF}|AcademicResourceManagement.Infrastructure\\AcademicResourceManagement.Infrastructure.csproj|solutionrelative:academicresourcemanagement.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C9A0ADF-6A77-4C47-B4CC-A42EBCD07DBF}|AcademicResourceManagement.Infrastructure\\AcademicResourceManagement.Infrastructure.csproj|c:\\users\\tutis\\source\\repos\\academicresourcemanagement\\academicresourcemanagement.infrastructure\\academicresourcemanagement.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0C9A0ADF-6A77-4C47-B4CC-A42EBCD07DBF}|AcademicResourceManagement.Infrastructure\\AcademicResourceManagement.Infrastructure.csproj|solutionrelative:academicresourcemanagement.infrastructure\\academicresourcemanagement.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{740799B1-9CFE-4A72-9D77-55745B76355F}|AcademicResourceManagement.Persistence\\AcademicResourceManagement.Persistence.csproj|c:\\users\\tutis\\source\\repos\\academicresourcemanagement\\academicresourcemanagement.persistence\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{740799B1-9CFE-4A72-9D77-55745B76355F}|AcademicResourceManagement.Persistence\\AcademicResourceManagement.Persistence.csproj|solutionrelative:academicresourcemanagement.persistence\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{740799B1-9CFE-4A72-9D77-55745B76355F}|AcademicResourceManagement.Persistence\\AcademicResourceManagement.Persistence.csproj|c:\\users\\tutis\\source\\repos\\academicresourcemanagement\\academicresourcemanagement.persistence\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{740799B1-9CFE-4A72-9D77-55745B76355F}|AcademicResourceManagement.Persistence\\AcademicResourceManagement.Persistence.csproj|solutionrelative:academicresourcemanagement.persistence\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{740799B1-9CFE-4A72-9D77-55745B76355F}|AcademicResourceManagement.Persistence\\AcademicResourceManagement.Persistence.csproj|c:\\users\\tutis\\source\\repos\\academicresourcemanagement\\academicresourcemanagement.persistence\\repositories\\resourcelogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{740799B1-9CFE-4A72-9D77-55745B76355F}|AcademicResourceManagement.Persistence\\AcademicResourceManagement.Persistence.csproj|solutionrelative:academicresourcemanagement.persistence\\repositories\\resourcelogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{740799B1-9CFE-4A72-9D77-55745B76355F}|AcademicResourceManagement.Persistence\\AcademicResourceManagement.Persistence.csproj|c:\\users\\tutis\\source\\repos\\academicresourcemanagement\\academicresourcemanagement.persistence\\repositories\\learningresourcerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{740799B1-9CFE-4A72-9D77-55745B76355F}|AcademicResourceManagement.Persistence\\AcademicResourceManagement.Persistence.csproj|solutionrelative:academicresourcemanagement.persistence\\repositories\\learningresourcerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{740799B1-9CFE-4A72-9D77-55745B76355F}|AcademicResourceManagement.Persistence\\AcademicResourceManagement.Persistence.csproj|c:\\users\\tutis\\source\\repos\\academicresourcemanagement\\academicresourcemanagement.persistence\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{740799B1-9CFE-4A72-9D77-55745B76355F}|AcademicResourceManagement.Persistence\\AcademicResourceManagement.Persistence.csproj|solutionrelative:academicresourcemanagement.persistence\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82657877-D746-4E0E-9B47-462FB0B55702}|AcademicResourceManagement.Application\\AcademicResourceManagement.Application.csproj|c:\\users\\tutis\\source\\repos\\academicresourcemanagement\\academicresourcemanagement.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82657877-D746-4E0E-9B47-462FB0B55702}|AcademicResourceManagement.Application\\AcademicResourceManagement.Application.csproj|solutionrelative:academicresourcemanagement.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82657877-D746-4E0E-9B47-462FB0B55702}|AcademicResourceManagement.Application\\AcademicResourceManagement.Application.csproj|c:\\users\\tutis\\source\\repos\\academicresourcemanagement\\academicresourcemanagement.application\\services\\resourceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82657877-D746-4E0E-9B47-462FB0B55702}|AcademicResourceManagement.Application\\AcademicResourceManagement.Application.csproj|solutionrelative:academicresourcemanagement.application\\services\\resourceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82657877-D746-4E0E-9B47-462FB0B55702}|AcademicResourceManagement.Application\\AcademicResourceManagement.Application.csproj|c:\\users\\tutis\\source\\repos\\academicresourcemanagement\\academicresourcemanagement.application\\services\\loggingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82657877-D746-4E0E-9B47-462FB0B55702}|AcademicResourceManagement.Application\\AcademicResourceManagement.Application.csproj|solutionrelative:academicresourcemanagement.application\\services\\loggingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82657877-D746-4E0E-9B47-462FB0B55702}|AcademicResourceManagement.Application\\AcademicResourceManagement.Application.csproj|c:\\users\\tutis\\source\\repos\\academicresourcemanagement\\academicresourcemanagement.application\\interfaces\\iloggingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82657877-D746-4E0E-9B47-462FB0B55702}|AcademicResourceManagement.Application\\AcademicResourceManagement.Application.csproj|solutionrelative:academicresourcemanagement.application\\interfaces\\iloggingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82657877-D746-4E0E-9B47-462FB0B55702}|AcademicResourceManagement.Application\\AcademicResourceManagement.Application.csproj|c:\\users\\tutis\\source\\repos\\academicresourcemanagement\\academicresourcemanagement.application\\interfaces\\iresourceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82657877-D746-4E0E-9B47-462FB0B55702}|AcademicResourceManagement.Application\\AcademicResourceManagement.Application.csproj|solutionrelative:academicresourcemanagement.application\\interfaces\\iresourceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82657877-D746-4E0E-9B47-462FB0B55702}|AcademicResourceManagement.Application\\AcademicResourceManagement.Application.csproj|c:\\users\\tutis\\source\\repos\\academicresourcemanagement\\academicresourcemanagement.application\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82657877-D746-4E0E-9B47-462FB0B55702}|AcademicResourceManagement.Application\\AcademicResourceManagement.Application.csproj|solutionrelative:academicresourcemanagement.application\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82657877-D746-4E0E-9B47-462FB0B55702}|AcademicResourceManagement.Application\\AcademicResourceManagement.Application.csproj|c:\\users\\tutis\\source\\repos\\academicresourcemanagement\\academicresourcemanagement.application\\interfaces\\iresourcelogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82657877-D746-4E0E-9B47-462FB0B55702}|AcademicResourceManagement.Application\\AcademicResourceManagement.Application.csproj|solutionrelative:academicresourcemanagement.application\\interfaces\\iresourcelogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82657877-D746-4E0E-9B47-462FB0B55702}|AcademicResourceManagement.Application\\AcademicResourceManagement.Application.csproj|c:\\users\\tutis\\source\\repos\\academicresourcemanagement\\academicresourcemanagement.application\\interfaces\\ilearningresourcerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82657877-D746-4E0E-9B47-462FB0B55702}|AcademicResourceManagement.Application\\AcademicResourceManagement.Application.csproj|solutionrelative:academicresourcemanagement.application\\interfaces\\ilearningresourcerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82657877-D746-4E0E-9B47-462FB0B55702}|AcademicResourceManagement.Application\\AcademicResourceManagement.Application.csproj|c:\\users\\tutis\\source\\repos\\academicresourcemanagement\\academicresourcemanagement.application\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82657877-D746-4E0E-9B47-462FB0B55702}|AcademicResourceManagement.Application\\AcademicResourceManagement.Application.csproj|solutionrelative:academicresourcemanagement.application\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82657877-D746-4E0E-9B47-462FB0B55702}|AcademicResourceManagement.Application\\AcademicResourceManagement.Application.csproj|c:\\users\\tutis\\source\\repos\\academicresourcemanagement\\academicresourcemanagement.application\\dtos\\approvaldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82657877-D746-4E0E-9B47-462FB0B55702}|AcademicResourceManagement.Application\\AcademicResourceManagement.Application.csproj|solutionrelative:academicresourcemanagement.application\\dtos\\approvaldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82657877-D746-4E0E-9B47-462FB0B55702}|AcademicResourceManagement.Application\\AcademicResourceManagement.Application.csproj|c:\\users\\tutis\\source\\repos\\academicresourcemanagement\\academicresourcemanagement.application\\dtos\\resourcedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82657877-D746-4E0E-9B47-462FB0B55702}|AcademicResourceManagement.Application\\AcademicResourceManagement.Application.csproj|solutionrelative:academicresourcemanagement.application\\dtos\\resourcedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E88D79EF-C3D1-4933-80BC-AAFD1370C413}|AcademicResourceManagement.Domain\\AcademicResourceManagement.Domain.csproj|c:\\users\\tutis\\source\\repos\\academicresourcemanagement\\academicresourcemanagement.domain\\entities\\resourcelog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E88D79EF-C3D1-4933-80BC-AAFD1370C413}|AcademicResourceManagement.Domain\\AcademicResourceManagement.Domain.csproj|solutionrelative:academicresourcemanagement.domain\\entities\\resourcelog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E88D79EF-C3D1-4933-80BC-AAFD1370C413}|AcademicResourceManagement.Domain\\AcademicResourceManagement.Domain.csproj|c:\\users\\tutis\\source\\repos\\academicresourcemanagement\\academicresourcemanagement.domain\\entities\\learningresource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E88D79EF-C3D1-4933-80BC-AAFD1370C413}|AcademicResourceManagement.Domain\\AcademicResourceManagement.Domain.csproj|solutionrelative:academicresourcemanagement.domain\\entities\\learningresource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E88D79EF-C3D1-4933-80BC-AAFD1370C413}|AcademicResourceManagement.Domain\\AcademicResourceManagement.Domain.csproj|c:\\users\\tutis\\source\\repos\\academicresourcemanagement\\academicresourcemanagement.domain\\enums\\resourcetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E88D79EF-C3D1-4933-80BC-AAFD1370C413}|AcademicResourceManagement.Domain\\AcademicResourceManagement.Domain.csproj|solutionrelative:academicresourcemanagement.domain\\enums\\resourcetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E88D79EF-C3D1-4933-80BC-AAFD1370C413}|AcademicResourceManagement.Domain\\AcademicResourceManagement.Domain.csproj|c:\\users\\tutis\\source\\repos\\academicresourcemanagement\\academicresourcemanagement.domain\\enums\\resourcestatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E88D79EF-C3D1-4933-80BC-AAFD1370C413}|AcademicResourceManagement.Domain\\AcademicResourceManagement.Domain.csproj|solutionrelative:academicresourcemanagement.domain\\enums\\resourcestatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 111,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\tutis\\source\\repos\\AcademicResourceManagement\\AcademicResourceManagement.Web\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "AcademicResourceManagement.Web\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\tutis\\source\\repos\\AcademicResourceManagement\\AcademicResourceManagement.Web\\Views\\Account\\Register.cshtml*",
+              "RelativeToolTip": "AcademicResourceManagement.Web\\Views\\Account\\Register.cshtml*",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAcwCsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-12T23:38:09.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\tutis\\source\\repos\\AcademicResourceManagement\\AcademicResourceManagement.Web\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "AcademicResourceManagement.Web\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\tutis\\source\\repos\\AcademicResourceManagement\\AcademicResourceManagement.Web\\Views\\Account\\Login.cshtml*",
+              "RelativeToolTip": "AcademicResourceManagement.Web\\Views\\Account\\Login.cshtml*",
+              "ViewState": "AgIAABcAAAAAAAAAAAAcwDQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-12T23:37:58.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\tutis\\source\\repos\\AcademicResourceManagement\\AcademicResourceManagement.Web\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "AcademicResourceManagement.Web\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\tutis\\source\\repos\\AcademicResourceManagement\\AcademicResourceManagement.Web\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "AcademicResourceManagement.Web\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-12T23:28:22.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\tutis\\source\\repos\\AcademicResourceManagement\\AcademicResourceManagement.Web\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "AcademicResourceManagement.Web\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\tutis\\source\\repos\\AcademicResourceManagement\\AcademicResourceManagement.Web\\Views\\Shared\\_LoginPartial.cshtml*",
+              "RelativeToolTip": "AcademicResourceManagement.Web\\Views\\Shared\\_LoginPartial.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAcwBsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-12T23:28:13.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20260112232501_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\tutis\\source\\repos\\AcademicResourceManagement\\AcademicResourceManagement.Persistence\\Migrations\\20260112232501_InitialCreate.cs",
+              "RelativeDocumentMoniker": "AcademicResourceManagement.Persistence\\Migrations\\20260112232501_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\tutis\\source\\repos\\AcademicResourceManagement\\AcademicResourceManagement.Persistence\\Migrations\\20260112232501_InitialCreate.cs",
+              "RelativeToolTip": "AcademicResourceManagement.Persistence\\Migrations\\20260112232501_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T23:25:02.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IFileService.cs",
+              "DocumentMoniker": "C:\\Users\\tutis\\source\\repos\\AcademicResourceManagement\\AcademicResourceManagement.Application\\Interfaces\\IFileService.cs",
+              "RelativeDocumentMoniker": "AcademicResourceManagement.Application\\Interfaces\\IFileService.cs",
+              "ToolTip": "C:\\Users\\tutis\\source\\repos\\AcademicResourceManagement\\AcademicResourceManagement.Application\\Interfaces\\IFileService.cs",
+              "RelativeToolTip": "AcademicResourceManagement.Application\\Interfaces\\IFileService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T22:53:32.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\tutis\\source\\repos\\AcademicResourceManagement\\AcademicResourceManagement.Persistence\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "AcademicResourceManagement.Persistence\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\tutis\\source\\repos\\AcademicResourceManagement\\AcademicResourceManagement.Persistence\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "AcademicResourceManagement.Persistence\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAiwDcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T22:55:59.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\tutis\\source\\repos\\AcademicResourceManagement\\AcademicResourceManagement.Web\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "AcademicResourceManagement.Web\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\tutis\\source\\repos\\AcademicResourceManagement\\AcademicResourceManagement.Web\\Controllers\\AccountController.cs*",
+              "RelativeToolTip": "AcademicResourceManagement.Web\\Controllers\\AccountController.cs*",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAiwHYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T22:59:48.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\tutis\\source\\repos\\AcademicResourceManagement\\AcademicResourceManagement.Domain\\Entities\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "AcademicResourceManagement.Domain\\Entities\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\tutis\\source\\repos\\AcademicResourceManagement\\AcademicResourceManagement.Domain\\Entities\\ApplicationUser.cs",
+              "RelativeToolTip": "AcademicResourceManagement.Domain\\Entities\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T22:50:46.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\tutis\\source\\repos\\AcademicResourceManagement\\AcademicResourceManagement.Web\\Views\\Resources\\Details.cshtml",
+              "RelativeDocumentMoniker": "AcademicResourceManagement.Web\\Views\\Resources\\Details.cshtml",
+              "ToolTip": "C:\\Users\\tutis\\source\\repos\\AcademicResourceManagement\\AcademicResourceManagement.Web\\Views\\Resources\\Details.cshtml",
+              "RelativeToolTip": "AcademicResourceManagement.Web\\Views\\Resources\\Details.cshtml",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAwwIEAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-12T23:01:32.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tutis\\source\\repos\\AcademicResourceManagement\\AcademicResourceManagement.Web\\Program.cs",
+              "RelativeDocumentMoniker": "AcademicResourceManagement.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\tutis\\source\\repos\\AcademicResourceManagement\\AcademicResourceManagement.Web\\Program.cs",
+              "RelativeToolTip": "AcademicResourceManagement.Web\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAiwB8AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T22:58:30.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DbInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\tutis\\source\\repos\\AcademicResourceManagement\\AcademicResourceManagement.Persistence\\Data\\DbInitializer.cs",
+              "RelativeDocumentMoniker": "AcademicResourceManagement.Persistence\\Data\\DbInitializer.cs",
+              "ToolTip": "C:\\Users\\tutis\\source\\repos\\AcademicResourceManagement\\AcademicResourceManagement.Persistence\\Data\\DbInitializer.cs",
+              "RelativeToolTip": "AcademicResourceManagement.Persistence\\Data\\DbInitializer.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAiwGIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T23:25:50.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PendingApprovals.cshtml",
+              "DocumentMoniker": "C:\\Users\\tutis\\source\\repos\\AcademicResourceManagement\\AcademicResourceManagement.Web\\Views\\Resources\\PendingApprovals.cshtml",
+              "RelativeDocumentMoniker": "AcademicResourceManagement.Web\\Views\\Resources\\PendingApprovals.cshtml",
+              "ToolTip": "C:\\Users\\tutis\\source\\repos\\AcademicResourceManagement\\AcademicResourceManagement.Web\\Views\\Resources\\PendingApprovals.cshtml",
+              "RelativeToolTip": "AcademicResourceManagement.Web\\Views\\Resources\\PendingApprovals.cshtml",
+              "ViewState": "AgIAABcAAAAAAAAAAAAwwDgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-12T23:03:11.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Reject.cshtml",
+              "DocumentMoniker": "C:\\Users\\tutis\\source\\repos\\AcademicResourceManagement\\AcademicResourceManagement.Web\\Views\\Resources\\Reject.cshtml",
+              "RelativeDocumentMoniker": "AcademicResourceManagement.Web\\Views\\Resources\\Reject.cshtml",
+              "ToolTip": "C:\\Users\\tutis\\source\\repos\\AcademicResourceManagement\\AcademicResourceManagement.Web\\Views\\Resources\\Reject.cshtml",
+              "RelativeToolTip": "AcademicResourceManagement.Web\\Views\\Resources\\Reject.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAwwCYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-12T23:03:26.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FileService.cs",
+              "DocumentMoniker": "C:\\Users\\tutis\\source\\repos\\AcademicResourceManagement\\AcademicResourceManagement.Infrastructure\\Services\\FileService.cs",
+              "RelativeDocumentMoniker": "AcademicResourceManagement.Infrastructure\\Services\\FileService.cs",
+              "ToolTip": "C:\\Users\\tutis\\source\\repos\\AcademicResourceManagement\\AcademicResourceManagement.Infrastructure\\Services\\FileService.cs",
+              "RelativeToolTip": "AcademicResourceManagement.Infrastructure\\Services\\FileService.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAiwEcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T22:57:51.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Logs.cshtml",
+              "DocumentMoniker": "C:\\Users\\tutis\\source\\repos\\AcademicResourceManagement\\AcademicResourceManagement.Web\\Views\\Resources\\Logs.cshtml",
+              "RelativeDocumentMoniker": "AcademicResourceManagement.Web\\Views\\Resources\\Logs.cshtml",
+              "ToolTip": "C:\\Users\\tutis\\source\\repos\\AcademicResourceManagement\\AcademicResourceManagement.Web\\Views\\Resources\\Logs.cshtml",
+              "RelativeToolTip": "AcademicResourceManagement.Web\\Views\\Resources\\Logs.cshtml",
+              "ViewState": "AgIAABoAAAAAAAAAAAAwwDsAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-12T23:03:39.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CreateResourceDTO.cs",
+              "DocumentMoniker": "C:\\Users\\tutis\\source\\repos\\AcademicResourceManagement\\AcademicResourceManagement.Application\\DTOs\\CreateResourceDTO.cs",
+              "RelativeDocumentMoniker": "AcademicResourceManagement.Application\\DTOs\\CreateResourceDTO.cs",
+              "ToolTip": "C:\\Users\\tutis\\source\\repos\\AcademicResourceManagement\\AcademicResourceManagement.Application\\DTOs\\CreateResourceDTO.cs",
+              "RelativeToolTip": "AcademicResourceManagement.Application\\DTOs\\CreateResourceDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T22:51:41.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ResourcesController.cs",
+              "DocumentMoniker": "C:\\Users\\tutis\\source\\repos\\AcademicResourceManagement\\AcademicResourceManagement.Web\\Controllers\\ResourcesController.cs",
+              "RelativeDocumentMoniker": "AcademicResourceManagement.Web\\Controllers\\ResourcesController.cs",
+              "ToolTip": "C:\\Users\\tutis\\source\\repos\\AcademicResourceManagement\\AcademicResourceManagement.Web\\Controllers\\ResourcesController.cs",
+              "RelativeToolTip": "AcademicResourceManagement.Web\\Controllers\\ResourcesController.cs",
+              "ViewState": "AgIAANIAAAAAAAAAAAAUwOIAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T22:59:31.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AcademicResourceManagement.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\tutis\\source\\repos\\AcademicResourceManagement\\AcademicResourceManagement.Infrastructure\\AcademicResourceManagement.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "AcademicResourceManagement.Infrastructure\\AcademicResourceManagement.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\tutis\\source\\repos\\AcademicResourceManagement\\AcademicResourceManagement.Infrastructure\\AcademicResourceManagement.Infrastructure.csproj",
+              "RelativeToolTip": "AcademicResourceManagement.Infrastructure\\AcademicResourceManagement.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-12T22:58:04.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\tutis\\source\\repos\\AcademicResourceManagement\\AcademicResourceManagement.Web\\Views\\Resources\\Create.cshtml",
+              "RelativeDocumentMoniker": "AcademicResourceManagement.Web\\Views\\Resources\\Create.cshtml",
+              "ToolTip": "C:\\Users\\tutis\\source\\repos\\AcademicResourceManagement\\AcademicResourceManagement.Web\\Views\\Resources\\Create.cshtml",
+              "RelativeToolTip": "AcademicResourceManagement.Web\\Views\\Resources\\Create.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAwwDUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-12T23:00:56.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\tutis\\source\\repos\\AcademicResourceManagement\\AcademicResourceManagement.Web\\Views\\Resources\\Index.cshtml",
+              "RelativeDocumentMoniker": "AcademicResourceManagement.Web\\Views\\Resources\\Index.cshtml",
+              "ToolTip": "C:\\Users\\tutis\\source\\repos\\AcademicResourceManagement\\AcademicResourceManagement.Web\\Views\\Resources\\Index.cshtml",
+              "RelativeToolTip": "AcademicResourceManagement.Web\\Views\\Resources\\Index.cshtml",
+              "ViewState": "AgIAACsAAAAAAAAAAAAwwEwAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-12T23:00:42.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\tutis\\source\\repos\\AcademicResourceManagement\\AcademicResourceManagement.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "AcademicResourceManagement.Web\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\tutis\\source\\repos\\AcademicResourceManagement\\AcademicResourceManagement.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "AcademicResourceManagement.Web\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACkAAAAAAAAAAAAwwEoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-12T23:00:12.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\tutis\\source\\repos\\AcademicResourceManagement\\AcademicResourceManagement.Web\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "AcademicResourceManagement.Web\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\tutis\\source\\repos\\AcademicResourceManagement\\AcademicResourceManagement.Web\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "AcademicResourceManagement.Web\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T23:00:00.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ApprovalViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\tutis\\source\\repos\\AcademicResourceManagement\\AcademicResourceManagement.Web\\ViewModels\\ApprovalViewModel.cs",
+              "RelativeDocumentMoniker": "AcademicResourceManagement.Web\\ViewModels\\ApprovalViewModel.cs",
+              "ToolTip": "C:\\Users\\tutis\\source\\repos\\AcademicResourceManagement\\AcademicResourceManagement.Web\\ViewModels\\ApprovalViewModel.cs",
+              "RelativeToolTip": "AcademicResourceManagement.Web\\ViewModels\\ApprovalViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T22:59:10.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CreateResourceViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\tutis\\source\\repos\\AcademicResourceManagement\\AcademicResourceManagement.Web\\ViewModels\\CreateResourceViewModel.cs",
+              "RelativeDocumentMoniker": "AcademicResourceManagement.Web\\ViewModels\\CreateResourceViewModel.cs",
+              "ToolTip": "C:\\Users\\tutis\\source\\repos\\AcademicResourceManagement\\AcademicResourceManagement.Web\\ViewModels\\CreateResourceViewModel.cs",
+              "RelativeToolTip": "AcademicResourceManagement.Web\\ViewModels\\CreateResourceViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T22:58:59.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\tutis\\source\\repos\\AcademicResourceManagement\\AcademicResourceManagement.Web\\appsettings.json",
+              "RelativeDocumentMoniker": "AcademicResourceManagement.Web\\appsettings.json",
+              "ToolTip": "C:\\Users\\tutis\\source\\repos\\AcademicResourceManagement\\AcademicResourceManagement.Web\\appsettings.json",
+              "RelativeToolTip": "AcademicResourceManagement.Web\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-12T22:58:19.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\tutis\\source\\repos\\AcademicResourceManagement\\AcademicResourceManagement.Infrastructure\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "AcademicResourceManagement.Infrastructure\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\tutis\\source\\repos\\AcademicResourceManagement\\AcademicResourceManagement.Infrastructure\\DependencyInjection.cs",
+              "RelativeToolTip": "AcademicResourceManagement.Infrastructure\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T22:58:06.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\tutis\\source\\repos\\AcademicResourceManagement\\AcademicResourceManagement.Persistence\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "AcademicResourceManagement.Persistence\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\tutis\\source\\repos\\AcademicResourceManagement\\AcademicResourceManagement.Persistence\\DependencyInjection.cs",
+              "RelativeToolTip": "AcademicResourceManagement.Persistence\\DependencyInjection.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAADwvyoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T22:57:17.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\tutis\\source\\repos\\AcademicResourceManagement\\AcademicResourceManagement.Persistence\\Repositories\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "AcademicResourceManagement.Persistence\\Repositories\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\tutis\\source\\repos\\AcademicResourceManagement\\AcademicResourceManagement.Persistence\\Repositories\\UnitOfWork.cs",
+              "RelativeToolTip": "AcademicResourceManagement.Persistence\\Repositories\\UnitOfWork.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAADwvyoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T22:56:56.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ResourceLogRepository.cs",
+              "DocumentMoniker": "C:\\Users\\tutis\\source\\repos\\AcademicResourceManagement\\AcademicResourceManagement.Persistence\\Repositories\\ResourceLogRepository.cs",
+              "RelativeDocumentMoniker": "AcademicResourceManagement.Persistence\\Repositories\\ResourceLogRepository.cs",
+              "ToolTip": "C:\\Users\\tutis\\source\\repos\\AcademicResourceManagement\\AcademicResourceManagement.Persistence\\Repositories\\ResourceLogRepository.cs",
+              "RelativeToolTip": "AcademicResourceManagement.Persistence\\Repositories\\ResourceLogRepository.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAADwvyoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T22:56:48.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "LearningResourceRepository.cs",
+              "DocumentMoniker": "C:\\Users\\tutis\\source\\repos\\AcademicResourceManagement\\AcademicResourceManagement.Persistence\\Repositories\\LearningResourceRepository.cs",
+              "RelativeDocumentMoniker": "AcademicResourceManagement.Persistence\\Repositories\\LearningResourceRepository.cs",
+              "ToolTip": "C:\\Users\\tutis\\source\\repos\\AcademicResourceManagement\\AcademicResourceManagement.Persistence\\Repositories\\LearningResourceRepository.cs",
+              "RelativeToolTip": "AcademicResourceManagement.Persistence\\Repositories\\LearningResourceRepository.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAUwDUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T22:56:26.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\tutis\\source\\repos\\AcademicResourceManagement\\AcademicResourceManagement.Persistence\\Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "AcademicResourceManagement.Persistence\\Repositories\\Repository.cs",
+              "ToolTip": "C:\\Users\\tutis\\source\\repos\\AcademicResourceManagement\\AcademicResourceManagement.Persistence\\Repositories\\Repository.cs",
+              "RelativeToolTip": "AcademicResourceManagement.Persistence\\Repositories\\Repository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T22:56:15.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\tutis\\source\\repos\\AcademicResourceManagement\\AcademicResourceManagement.Application\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "AcademicResourceManagement.Application\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\tutis\\source\\repos\\AcademicResourceManagement\\AcademicResourceManagement.Application\\DependencyInjection.cs",
+              "RelativeToolTip": "AcademicResourceManagement.Application\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T22:55:09.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "LoggingService.cs",
+              "DocumentMoniker": "C:\\Users\\tutis\\source\\repos\\AcademicResourceManagement\\AcademicResourceManagement.Application\\Services\\LoggingService.cs",
+              "RelativeDocumentMoniker": "AcademicResourceManagement.Application\\Services\\LoggingService.cs",
+              "ToolTip": "C:\\Users\\tutis\\source\\repos\\AcademicResourceManagement\\AcademicResourceManagement.Application\\Services\\LoggingService.cs",
+              "RelativeToolTip": "AcademicResourceManagement.Application\\Services\\LoggingService.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAADwvy8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T22:54:03.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ResourceService.cs",
+              "DocumentMoniker": "C:\\Users\\tutis\\source\\repos\\AcademicResourceManagement\\AcademicResourceManagement.Application\\Services\\ResourceService.cs",
+              "RelativeDocumentMoniker": "AcademicResourceManagement.Application\\Services\\ResourceService.cs",
+              "ToolTip": "C:\\Users\\tutis\\source\\repos\\AcademicResourceManagement\\AcademicResourceManagement.Application\\Services\\ResourceService.cs",
+              "RelativeToolTip": "AcademicResourceManagement.Application\\Services\\ResourceService.cs",
+              "ViewState": "AgIAAOMAAAAAAAAAAADwvwMBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T22:53:52.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ILoggingService.cs",
+              "DocumentMoniker": "C:\\Users\\tutis\\source\\repos\\AcademicResourceManagement\\AcademicResourceManagement.Application\\Interfaces\\ILoggingService.cs",
+              "RelativeDocumentMoniker": "AcademicResourceManagement.Application\\Interfaces\\ILoggingService.cs",
+              "ToolTip": "C:\\Users\\tutis\\source\\repos\\AcademicResourceManagement\\AcademicResourceManagement.Application\\Interfaces\\ILoggingService.cs",
+              "RelativeToolTip": "AcademicResourceManagement.Application\\Interfaces\\ILoggingService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T22:53:25.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "IResourceService.cs",
+              "DocumentMoniker": "C:\\Users\\tutis\\source\\repos\\AcademicResourceManagement\\AcademicResourceManagement.Application\\Interfaces\\IResourceService.cs",
+              "RelativeDocumentMoniker": "AcademicResourceManagement.Application\\Interfaces\\IResourceService.cs",
+              "ToolTip": "C:\\Users\\tutis\\source\\repos\\AcademicResourceManagement\\AcademicResourceManagement.Application\\Interfaces\\IResourceService.cs",
+              "RelativeToolTip": "AcademicResourceManagement.Application\\Interfaces\\IResourceService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T22:53:14.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\tutis\\source\\repos\\AcademicResourceManagement\\AcademicResourceManagement.Application\\Interfaces\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "AcademicResourceManagement.Application\\Interfaces\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\tutis\\source\\repos\\AcademicResourceManagement\\AcademicResourceManagement.Application\\Interfaces\\IUnitOfWork.cs",
+              "RelativeToolTip": "AcademicResourceManagement.Application\\Interfaces\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T22:53:05.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "IResourceLogRepository.cs",
+              "DocumentMoniker": "C:\\Users\\tutis\\source\\repos\\AcademicResourceManagement\\AcademicResourceManagement.Application\\Interfaces\\IResourceLogRepository.cs",
+              "RelativeDocumentMoniker": "AcademicResourceManagement.Application\\Interfaces\\IResourceLogRepository.cs",
+              "ToolTip": "C:\\Users\\tutis\\source\\repos\\AcademicResourceManagement\\AcademicResourceManagement.Application\\Interfaces\\IResourceLogRepository.cs",
+              "RelativeToolTip": "AcademicResourceManagement.Application\\Interfaces\\IResourceLogRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T22:52:57.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ILearningResourceRepository.cs",
+              "DocumentMoniker": "C:\\Users\\tutis\\source\\repos\\AcademicResourceManagement\\AcademicResourceManagement.Application\\Interfaces\\ILearningResourceRepository.cs",
+              "RelativeDocumentMoniker": "AcademicResourceManagement.Application\\Interfaces\\ILearningResourceRepository.cs",
+              "ToolTip": "C:\\Users\\tutis\\source\\repos\\AcademicResourceManagement\\AcademicResourceManagement.Application\\Interfaces\\ILearningResourceRepository.cs",
+              "RelativeToolTip": "AcademicResourceManagement.Application\\Interfaces\\ILearningResourceRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T22:52:44.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\tutis\\source\\repos\\AcademicResourceManagement\\AcademicResourceManagement.Application\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "AcademicResourceManagement.Application\\Interfaces\\IRepository.cs",
+              "ToolTip": "C:\\Users\\tutis\\source\\repos\\AcademicResourceManagement\\AcademicResourceManagement.Application\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "AcademicResourceManagement.Application\\Interfaces\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T22:52:36.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ApprovalDTO.cs",
+              "DocumentMoniker": "C:\\Users\\tutis\\source\\repos\\AcademicResourceManagement\\AcademicResourceManagement.Application\\DTOs\\ApprovalDTO.cs",
+              "RelativeDocumentMoniker": "AcademicResourceManagement.Application\\DTOs\\ApprovalDTO.cs",
+              "ToolTip": "C:\\Users\\tutis\\source\\repos\\AcademicResourceManagement\\AcademicResourceManagement.Application\\DTOs\\ApprovalDTO.cs",
+              "RelativeToolTip": "AcademicResourceManagement.Application\\DTOs\\ApprovalDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T22:52:04.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "ResourceDTO.cs",
+              "DocumentMoniker": "C:\\Users\\tutis\\source\\repos\\AcademicResourceManagement\\AcademicResourceManagement.Application\\DTOs\\ResourceDTO.cs",
+              "RelativeDocumentMoniker": "AcademicResourceManagement.Application\\DTOs\\ResourceDTO.cs",
+              "ToolTip": "C:\\Users\\tutis\\source\\repos\\AcademicResourceManagement\\AcademicResourceManagement.Application\\DTOs\\ResourceDTO.cs",
+              "RelativeToolTip": "AcademicResourceManagement.Application\\DTOs\\ResourceDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T22:51:32.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "ResourceLog.cs",
+              "DocumentMoniker": "C:\\Users\\tutis\\source\\repos\\AcademicResourceManagement\\AcademicResourceManagement.Domain\\Entities\\ResourceLog.cs",
+              "RelativeDocumentMoniker": "AcademicResourceManagement.Domain\\Entities\\ResourceLog.cs",
+              "ToolTip": "C:\\Users\\tutis\\source\\repos\\AcademicResourceManagement\\AcademicResourceManagement.Domain\\Entities\\ResourceLog.cs",
+              "RelativeToolTip": "AcademicResourceManagement.Domain\\Entities\\ResourceLog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T22:50:37.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "LearningResource.cs",
+              "DocumentMoniker": "C:\\Users\\tutis\\source\\repos\\AcademicResourceManagement\\AcademicResourceManagement.Domain\\Entities\\LearningResource.cs",
+              "RelativeDocumentMoniker": "AcademicResourceManagement.Domain\\Entities\\LearningResource.cs",
+              "ToolTip": "C:\\Users\\tutis\\source\\repos\\AcademicResourceManagement\\AcademicResourceManagement.Domain\\Entities\\LearningResource.cs",
+              "RelativeToolTip": "AcademicResourceManagement.Domain\\Entities\\LearningResource.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T22:50:26.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "ResourceType.cs",
+              "DocumentMoniker": "C:\\Users\\tutis\\source\\repos\\AcademicResourceManagement\\AcademicResourceManagement.Domain\\Enums\\ResourceType.cs",
+              "RelativeDocumentMoniker": "AcademicResourceManagement.Domain\\Enums\\ResourceType.cs",
+              "ToolTip": "C:\\Users\\tutis\\source\\repos\\AcademicResourceManagement\\AcademicResourceManagement.Domain\\Enums\\ResourceType.cs",
+              "RelativeToolTip": "AcademicResourceManagement.Domain\\Enums\\ResourceType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T22:50:13.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "ResourceStatus.cs",
+              "DocumentMoniker": "C:\\Users\\tutis\\source\\repos\\AcademicResourceManagement\\AcademicResourceManagement.Domain\\Enums\\ResourceStatus.cs",
+              "RelativeDocumentMoniker": "AcademicResourceManagement.Domain\\Enums\\ResourceStatus.cs",
+              "ToolTip": "C:\\Users\\tutis\\source\\repos\\AcademicResourceManagement\\AcademicResourceManagement.Domain\\Enums\\ResourceStatus.cs",
+              "RelativeToolTip": "AcademicResourceManagement.Domain\\Enums\\ResourceStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T22:50:02.277Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 146,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 57,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

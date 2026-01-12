@@ -1,0 +1,17 @@
+C:\Users\tutis\source\repos\AcademicResourceManagement\AcademicResourceManagement.Infrastructure\bin\Debug\net8.0\AcademicResourceManagement.Infrastructure.deps.json
+C:\Users\tutis\source\repos\AcademicResourceManagement\AcademicResourceManagement.Infrastructure\bin\Debug\net8.0\AcademicResourceManagement.Infrastructure.dll
+C:\Users\tutis\source\repos\AcademicResourceManagement\AcademicResourceManagement.Infrastructure\bin\Debug\net8.0\AcademicResourceManagement.Infrastructure.pdb
+C:\Users\tutis\source\repos\AcademicResourceManagement\AcademicResourceManagement.Infrastructure\bin\Debug\net8.0\AcademicResourceManagement.Application.dll
+C:\Users\tutis\source\repos\AcademicResourceManagement\AcademicResourceManagement.Infrastructure\bin\Debug\net8.0\AcademicResourceManagement.Domain.dll
+C:\Users\tutis\source\repos\AcademicResourceManagement\AcademicResourceManagement.Infrastructure\bin\Debug\net8.0\AcademicResourceManagement.Application.pdb
+C:\Users\tutis\source\repos\AcademicResourceManagement\AcademicResourceManagement.Infrastructure\bin\Debug\net8.0\AcademicResourceManagement.Domain.pdb
+C:\Users\tutis\source\repos\AcademicResourceManagement\AcademicResourceManagement.Infrastructure\obj\Debug\net8.0\AcademicResourceManagement.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\tutis\source\repos\AcademicResourceManagement\AcademicResourceManagement.Infrastructure\obj\Debug\net8.0\AcademicResourceManagement.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tutis\source\repos\AcademicResourceManagement\AcademicResourceManagement.Infrastructure\obj\Debug\net8.0\AcademicResourceManagement.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\tutis\source\repos\AcademicResourceManagement\AcademicResourceManagement.Infrastructure\obj\Debug\net8.0\AcademicResourceManagement.Infrastructure.AssemblyInfo.cs
+C:\Users\tutis\source\repos\AcademicResourceManagement\AcademicResourceManagement.Infrastructure\obj\Debug\net8.0\AcademicResourceManagement.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\tutis\source\repos\AcademicResourceManagement\AcademicResourceManagement.Infrastructure\obj\Debug\net8.0\Academic.8C556166.Up2Date
+C:\Users\tutis\source\repos\AcademicResourceManagement\AcademicResourceManagement.Infrastructure\obj\Debug\net8.0\AcademicResourceManagement.Infrastructure.dll
+C:\Users\tutis\source\repos\AcademicResourceManagement\AcademicResourceManagement.Infrastructure\obj\Debug\net8.0\refint\AcademicResourceManagement.Infrastructure.dll
+C:\Users\tutis\source\repos\AcademicResourceManagement\AcademicResourceManagement.Infrastructure\obj\Debug\net8.0\AcademicResourceManagement.Infrastructure.pdb
+C:\Users\tutis\source\repos\AcademicResourceManagement\AcademicResourceManagement.Infrastructure\obj\Debug\net8.0\ref\AcademicResourceManagement.Infrastructure.dll

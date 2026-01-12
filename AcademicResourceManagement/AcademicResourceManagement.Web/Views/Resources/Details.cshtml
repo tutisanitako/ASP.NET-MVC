@@ -1,0 +1,130 @@
+﻿@model AcademicResourceManagement.Application.DTOs.ResourceDTO
+@{
+    ViewData["Title"] = "Resource Details";
+    var logs = ViewBag.Logs as IEnumerable<AcademicResourceManagement.Domain.Entities.ResourceLog>;
+}
+<h2>Resource Details</h2>
+<hr />
+<div class="row">
+    <div class="col-md-8">
+        <dl class="row">
+            <dt class="col-sm-3">Title</dt>
+            <dd class="col-sm-9">@Model.Title</dd>
+            <dt class="col-sm-3">Description</dt>
+            <dd class="col-sm-9">@Model.Description</dd>
+
+            <dt class="col-sm-3">Type</dt>
+            <dd class="col-sm-9">@Model.ResourceType</dd>
+
+            <dt class="col-sm-3">Status</dt>
+            <dd class="col-sm-9">
+                @switch (Model.Status)
+                {
+                    case AcademicResourceManagement.Domain.Enums.ResourceStatus.Draft:
+                        <span class="badge bg-secondary">Draft</span>
+                        break;
+                    case AcademicResourceManagement.Domain.Enums.ResourceStatus.PendingApproval:
+                        <span class="badge bg-warning text-dark">Pending Approval</span>
+                        break;
+                    case AcademicResourceManagement.Domain.Enums.ResourceStatus.Approved:
+                        <span class="badge bg-success">Approved</span>
+                        break;
+                    case AcademicResourceManagement.Domain.Enums.ResourceStatus.Rejected:
+                        <span class="badge bg-danger">Rejected</span>
+                        break;
+                    case AcademicResourceManagement.Domain.Enums.ResourceStatus.Published:
+                        <span class="badge bg-info">Published</span>
+                        break;
+                }
+            </dd>
+
+            <dt class="col-sm-3">Uploaded By</dt>
+            <dd class="col-sm-9">@Model.UploadedByName</dd>
+
+            <dt class="col-sm-3">Uploaded Date</dt>
+            <dd class="col-sm-9">@Model.UploadedDate.ToString("yyyy-MM-dd HH:mm")</dd>
+
+            @if (Model.ApprovedByName != null)
+            {
+                <dt class="col-sm-3">Approved By</dt>
+                <dd class="col-sm-9">@Model.ApprovedByName</dd>
+
+                <dt class="col-sm-3">Approved Date</dt>
+                <dd class="col-sm-9">@Model.ApprovedDate?.ToString("yyyy-MM-dd HH:mm")</dd>
+            }
+
+            @if (!string.IsNullOrEmpty(Model.RejectionReason))
+            {
+                <dt class="col-sm-3">Rejection Reason</dt>
+                <dd class="col-sm-9"><span class="text-danger">@Model.RejectionReason</span></dd>
+            }
+
+            @if (!string.IsNullOrEmpty(Model.FilePath))
+            {
+                <dt class="col-sm-3">File</dt>
+                <dd class="col-sm-9">
+                    <a href="/@Model.FilePath" target="_blank" class="btn btn-sm btn-success">
+                        <i class="bi bi-download"></i> Download File
+                    </a>
+                </dd>
+            }
+        </dl>
+
+        <div class="mb-3">
+            @if (User.IsInRole("Lecturer") && Model.Status == AcademicResourceManagement.Domain.Enums.ResourceStatus.Draft)
+            {
+                <form asp-action="Submit" asp-route-id="@Model.Id" method="post" style="display:inline;">
+                    <button type="submit" class="btn btn-primary" onclick="return confirm('Submit this resource for approval?');">
+                        Submit for Approval
+                    </button>
+                </form>
+            }
+
+            @if (User.IsInRole("Administrator") && Model.Status == AcademicResourceManagement.Domain.Enums.ResourceStatus.Approved)
+            {
+                <form asp-action="Publish" asp-route-id="@Model.Id" method="post" style="display:inline;">
+                    <button type="submit" class="btn btn-success" onclick="return confirm('Publish this resource?');">
+                        Publish Resource
+                    </button>
+                </form>
+            }
+
+            <a asp-action="Index" class="btn btn-secondary">Back to List</a>
+        </div>
+
+        @if (logs != null && logs.Any())
+        {
+            <h4 class="mt-4">Activity Log</h4>
+            <div class="table-responsive">
+                <table class="table table-sm table-bordered">
+                    <thead class="table-light">
+                        <tr>
+                            <th>Timestamp</th>
+                            <th>Action</th>
+                            <th>Performed By</th>
+                            <th>Status Change</th>
+                            <th>Notes</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var log in logs)
+                        {
+                            <tr>
+                                <td>@log.Timestamp.ToString("yyyy-MM-dd HH:mm:ss")</td>
+                                <td><strong>@log.Action</strong></td>
+                                <td>@log.PerformedBy.FirstName @log.PerformedBy.LastName</td>
+                                <td>
+                                    @if (log.OldStatus != null && log.NewStatus != null)
+                                    {
+                                        <span>@log.OldStatus → @log.NewStatus</span>
+                                    }
+                                </td>
+                                <td>@log.Notes</td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+        }
+    </div>
+</div>

@@ -1,0 +1,15 @@
+C:\Users\tutis\source\repos\AcademicResourceManagement\AcademicResourceManagement.Application\bin\Debug\net8.0\AcademicResourceManagement.Application.deps.json
+C:\Users\tutis\source\repos\AcademicResourceManagement\AcademicResourceManagement.Application\bin\Debug\net8.0\AcademicResourceManagement.Application.dll
+C:\Users\tutis\source\repos\AcademicResourceManagement\AcademicResourceManagement.Application\bin\Debug\net8.0\AcademicResourceManagement.Application.pdb
+C:\Users\tutis\source\repos\AcademicResourceManagement\AcademicResourceManagement.Application\bin\Debug\net8.0\AcademicResourceManagement.Domain.dll
+C:\Users\tutis\source\repos\AcademicResourceManagement\AcademicResourceManagement.Application\bin\Debug\net8.0\AcademicResourceManagement.Domain.pdb
+C:\Users\tutis\source\repos\AcademicResourceManagement\AcademicResourceManagement.Application\obj\Debug\net8.0\AcademicResourceManagement.Application.csproj.AssemblyReference.cache
+C:\Users\tutis\source\repos\AcademicResourceManagement\AcademicResourceManagement.Application\obj\Debug\net8.0\AcademicResourceManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tutis\source\repos\AcademicResourceManagement\AcademicResourceManagement.Application\obj\Debug\net8.0\AcademicResourceManagement.Application.AssemblyInfoInputs.cache
+C:\Users\tutis\source\repos\AcademicResourceManagement\AcademicResourceManagement.Application\obj\Debug\net8.0\AcademicResourceManagement.Application.AssemblyInfo.cs
+C:\Users\tutis\source\repos\AcademicResourceManagement\AcademicResourceManagement.Application\obj\Debug\net8.0\AcademicResourceManagement.Application.csproj.CoreCompileInputs.cache
+C:\Users\tutis\source\repos\AcademicResourceManagement\AcademicResourceManagement.Application\obj\Debug\net8.0\Academic.D2350631.Up2Date
+C:\Users\tutis\source\repos\AcademicResourceManagement\AcademicResourceManagement.Application\obj\Debug\net8.0\AcademicResourceManagement.Application.dll
+C:\Users\tutis\source\repos\AcademicResourceManagement\AcademicResourceManagement.Application\obj\Debug\net8.0\refint\AcademicResourceManagement.Application.dll
+C:\Users\tutis\source\repos\AcademicResourceManagement\AcademicResourceManagement.Application\obj\Debug\net8.0\AcademicResourceManagement.Application.pdb
+C:\Users\tutis\source\repos\AcademicResourceManagement\AcademicResourceManagement.Application\obj\Debug\net8.0\ref\AcademicResourceManagement.Application.dll
