@@ -1,0 +1,80 @@
+﻿@model WebMVC.Models.OrderDetailsViewModel
+
+@{
+    ViewData["Title"] = "Order Details";
+}
+
+<div class="container">
+    <div class="breadcrumb">
+        <a asp-controller="Home" asp-action="Index">Home</a>
+        <i class="fas fa-chevron-right"></i>
+        <span>Order #@Model.OrderNumber</span>
+    </div>
+
+    <div class="order-details-container">
+        <div class="order-details-header">
+            <div>
+                <h1>Order #@Model.OrderNumber</h1>
+                <p class="order-date"><i class="fas fa-calendar"></i> Placed on @Model.OrderDate.ToString("MMMM dd, yyyy")</p>
+            </div>
+            <span class="status-badge status-@Model.Status.ToLower()">@Model.Status</span>
+        </div>
+
+        <div class="order-details-grid">
+            <div class="order-details-section">
+                <h3><i class="fas fa-box"></i> Order Items</h3>
+                <div class="order-items-list">
+                    @foreach (var item in Model.Items)
+                    {
+                        <div class="order-detail-item">
+                            <img src="@item.ProductImage" alt="@item.ProductName">
+                            <div class="order-detail-item-info">
+                                <h4>@item.ProductName</h4>
+                                <p>Quantity: @item.Quantity</p>
+                                <p class="item-price">$@item.Price.ToString("N2") × @item.Quantity = $@item.Total.ToString("N2")</p>
+                            </div>
+                        </div>
+                    }
+                </div>
+                <div class="order-total-summary">
+                    <strong>Total:</strong> <span class="order-total-amount">$@Model.TotalAmount.ToString("N2")</span>
+                </div>
+            </div>
+
+            <div class="order-details-section">
+                <h3><i class="fas fa-truck"></i> Tracking Information</h3>
+                <div class="tracking-info-box">
+                    <div class="tracking-code-display">
+                        <label>Tracking Code:</label>
+                        <strong>@Model.TrackingCode</strong>
+                    </div>
+                    <p class="tracking-hint">Save this code to track your order anytime</p>
+                </div>
+
+                <h3><i class="fas fa-user"></i> Customer Information</h3>
+                <div class="info-box">
+                    <p><strong>Name:</strong> @Model.CustomerName</p>
+                    <p><strong>Email:</strong> @Model.CustomerEmail</p>
+                    <p><strong>Phone:</strong> @Model.Phone</p>
+                </div>
+
+                <h3><i class="fas fa-map-marker-alt"></i> Shipping Address</h3>
+                <div class="info-box">
+                    <p>@Model.Address</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="order-details-actions">
+            <a asp-controller="Home" asp-action="Index" class="btn btn-primary">
+                <i class="fas fa-shopping-bag"></i> Continue Shopping
+            </a>
+            @if (User.Identity?.IsAuthenticated ?? false)
+            {
+                <a asp-controller="Account" asp-action="MyOrders" class="btn btn-secondary">
+                    <i class="fas fa-receipt"></i> View All Orders
+                </a>
+            }
+        </div>
+    </div>
+</div>

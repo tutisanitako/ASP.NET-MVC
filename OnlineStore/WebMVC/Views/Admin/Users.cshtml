@@ -1,0 +1,83 @@
+﻿@model List<WebMVC.Models.UserViewModel>
+
+@{
+    ViewData["Title"] = "Admin - Users";
+}
+
+<div class="container">
+    <div class="admin-header">
+        <h1 class="page-title">
+            <i class="fas fa-users"></i> User Management
+        </h1>
+        <div class="admin-nav">
+            <a asp-controller="Admin" asp-action="Index" class="btn btn-secondary">
+                <i class="fas fa-box"></i> Products
+            </a>
+            <a asp-controller="Admin" asp-action="Orders" class="btn btn-secondary">
+                <i class="fas fa-receipt"></i> Orders
+            </a>
+        </div>
+    </div>
+
+    @if (Model != null && Model.Any())
+    {
+        <div class="admin-table-container">
+            <table class="admin-table">
+                <thead>
+                    <tr>
+                        <th>Name</th>
+                        <th>Email</th>
+                        <th>Phone</th>
+                        <th>Role</th>
+                        <th>Joined</th>
+                        <th>Actions</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var user in Model)
+                    {
+                        <tr>
+                            <td><strong>@user.FullName</strong></td>
+                            <td>@user.Email</td>
+                            <td>@(user.PhoneNumber ?? "N/A")</td>
+                            <td>
+                                @if (user.IsAdmin)
+                                {
+                                    <span class="badge badge-danger">Admin</span>
+                                }
+                                else
+                                {
+                                    <span class="badge badge-success">User</span>
+                                }
+                            </td>
+                            <td>@user.CreatedAt.ToString("MMM dd, yyyy")</td>
+                            <td class="admin-actions">
+                                @if (!user.IsAdmin)
+                                {
+                                    <form asp-controller="Admin" asp-action="DeleteUser" method="post" style="display: inline;">
+                                        <input type="hidden" name="id" value="@user.Id" />
+                                        <button type="submit" class="btn btn-sm btn-danger"
+                                                onclick="return confirm('Delete this user? This action cannot be undone.')">
+                                            <i class="fas fa-trash"></i> Delete
+                                        </button>
+                                    </form>
+                                }
+                                else
+                                {
+                                    <span class="text-muted">Protected</span>
+                                }
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    }
+    else
+    {
+        <div class="empty-state">
+            <i class="fas fa-users"></i>
+            <h3>No users found</h3>
+        </div>
+    }
+</div>

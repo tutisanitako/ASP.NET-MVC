@@ -1,0 +1,67 @@
+﻿@model List<WebMVC.Models.OrderDetailsViewModel>
+
+@{
+    ViewData["Title"] = "My Orders";
+}
+
+<div class="container">
+    <h1 class="page-title">
+        <i class="fas fa-receipt"></i> My Orders
+    </h1>
+
+    @if (Model != null && Model.Any())
+    {
+        <div class="orders-list">
+            @foreach (var order in Model)
+            {
+                <div class="order-card">
+                    <div class="order-header">
+                        <div class="order-info">
+                            <h3>Order #@order.OrderNumber</h3>
+                            <span class="order-date">
+                                <i class="fas fa-calendar"></i> @order.OrderDate.ToString("MMM dd, yyyy")
+                            </span>
+                        </div>
+                        <div class="order-status">
+                            <span class="status-badge status-@order.Status.ToLower()">@order.Status</span>
+                            <span class="order-total">$@order.TotalAmount.ToString("N2")</span>
+                        </div>
+                    </div>
+
+                    <div class="order-items">
+                        @foreach (var item in order.Items)
+                        {
+                            <div class="order-item">
+                                <img src="@item.ProductImage" alt="@item.ProductName">
+                                <div class="order-item-info">
+                                    <h4>@item.ProductName</h4>
+                                    <p>Qty: @item.Quantity × $@item.Price.ToString("N2")</p>
+                                </div>
+                            </div>
+                        }
+                    </div>
+
+                    <div class="order-actions">
+                        <a asp-controller="Order" asp-action="Details" asp-route-id="@order.Id" class="btn btn-secondary">
+                            <i class="fas fa-eye"></i> View Details
+                        </a>
+                        <a asp-controller="Order" asp-action="Track" asp-route-code="@order.TrackingCode" class="btn btn-primary">
+                            <i class="fas fa-truck"></i> Track: @order.TrackingCode
+                        </a>
+                    </div>
+                </div>
+            }
+        </div>
+    }
+    else
+    {
+        <div class="empty-state">
+            <i class="fas fa-receipt"></i>
+            <h3>No orders yet</h3>
+            <p>Start shopping to see your orders here!</p>
+            <a asp-controller="Home" asp-action="Index" class="btn btn-primary">
+                <i class="fas fa-shopping-bag"></i> Start Shopping
+            </a>
+        </div>
+    }
+</div>

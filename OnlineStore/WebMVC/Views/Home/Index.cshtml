@@ -1,0 +1,62 @@
+﻿@model List<WebMVC.Models.ProductViewModel>
+
+@{
+    ViewData["Title"] = "Home";
+}
+
+<div class="hero-section">
+    <div class="container">
+        <h1 class="hero-title">Discover Amazing Products</h1>
+        <p class="hero-subtitle">Shop the latest trends at unbeatable prices</p>
+    </div>
+</div>
+
+<div class="container">
+    <div class="section-header">
+        <h2>Featured Products</h2>
+        <p>Explore our curated collection</p>
+    </div>
+
+    @if (Model != null && Model.Any())
+    {
+        <div class="products-grid">
+            @foreach (var product in Model)
+            {
+                <div class="product-card">
+                    <div class="product-image">
+                        <img src="@product.ImageUrl" alt="@product.Name">
+                        <span class="product-category">@product.Category</span>
+                        @if (product.Stock < 10)
+                        {
+                            <span class="badge badge-warning">Only @product.Stock left!</span>
+                        }
+                    </div>
+                    <div class="product-info">
+                        <h3 class="product-name">@product.Name</h3>
+                        <p class="product-price">$@product.Price.ToString("N2")</p>
+                        <div class="product-actions">
+                            <a asp-controller="Home" asp-action="Details" asp-route-id="@product.Id" class="btn btn-secondary btn-sm">
+                                <i class="fas fa-eye"></i> Details
+                            </a>
+                            <form asp-controller="Cart" asp-action="AddToCart" method="post" style="display: inline;">
+                                <input type="hidden" name="productId" value="@product.Id" />
+                                <input type="hidden" name="quantity" value="1" />
+                                <button type="submit" class="btn btn-primary btn-sm">
+                                    <i class="fas fa-cart-plus"></i> Add to Cart
+                                </button>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    }
+    else
+    {
+        <div class="empty-state">
+            <i class="fas fa-box-open"></i>
+            <h3>No products available</h3>
+            <p>Check back soon for new items!</p>
+        </div>
+    }
+</div>

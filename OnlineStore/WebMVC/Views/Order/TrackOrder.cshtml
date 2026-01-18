@@ -1,0 +1,25 @@
+﻿@{
+    ViewData["Title"] = "Track Order";
+}
+
+<div class="container">
+    <h1 class="page-title">
+        <i class="fas fa-truck"></i> Track Your Order
+    </h1>
+
+    <div class="track-order-container">
+        <div class="track-order-card">
+            <h2>Enter Your Tracking Code</h2>
+            <p>Enter the tracking code from your order confirmation email</p>
+
+            <form asp-controller="Order" asp-action="Track" method="get" class="track-form">
+                <div class="form-group">
+                    <input type="text" name="code" class="form-control" placeholder="Enter tracking code" required />
+                </div>
+                <button type="submit" class="btn btn-primary btn-large btn-block">
+                    <i class="fas fa-search"></i> Track Order
+                </button>
+            </form>
+        </div>
+    </div>
+</div>

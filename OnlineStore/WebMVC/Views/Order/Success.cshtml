@@ -1,0 +1,33 @@
+﻿@{
+    ViewData["Title"] = "Order Success";
+    var trackingCode = TempData["TrackingCode"]?.ToString() ?? "";
+    var orderId = TempData["OrderId"]?.ToString() ?? "";
+}
+
+<div class="container">
+    <div class="success-container">
+        <div class="success-icon">
+            <i class="fas fa-check-circle"></i>
+        </div>
+        <h1>Order Placed Successfully!</h1>
+        <p>Thank you for your order. A confirmation email has been sent to your email address.</p>
+
+        @if (!string.IsNullOrEmpty(trackingCode))
+        {
+            <div class="tracking-info">
+                <h3>Your Tracking Code</h3>
+                <div class="tracking-code">@trackingCode</div>
+                <p>Use this code to track your order</p>
+            </div>
+        }
+
+        <div class="success-actions">
+            <a asp-controller="Order" asp-action="Track" asp-route-code="@trackingCode" class="btn btn-primary">
+                <i class="fas fa-truck"></i> Track Your Order
+            </a>
+            <a asp-controller="Home" asp-action="Index" class="btn btn-secondary">
+                <i class="fas fa-home"></i> Continue Shopping
+            </a>
+        </div>
+    </div>
+</div>

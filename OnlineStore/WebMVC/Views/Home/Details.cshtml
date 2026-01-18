@@ -1,0 +1,60 @@
+﻿@model WebMVC.Models.ProductViewModel
+
+@{
+    ViewData["Title"] = Model.Name;
+}
+
+<div class="container">
+    <div class="breadcrumb">
+        <a asp-controller="Home" asp-action="Index">Home</a>
+        <i class="fas fa-chevron-right"></i>
+        <span>@Model.Category</span>
+        <i class="fas fa-chevron-right"></i>
+        <span>@Model.Name</span>
+    </div>
+
+    <div class="product-details">
+        <div class="product-details-image">
+            <img src="@Model.ImageUrl" alt="@Model.Name">
+        </div>
+        <div class="product-details-info">
+            <span class="product-category-badge">@Model.Category</span>
+            <h1>@Model.Name</h1>
+            <div class="product-details-price">$@Model.Price.ToString("N2")</div>
+            <div class="product-details-stock">
+                @if (Model.Stock > 0)
+                {
+                    <span class="stock-available">
+                        <i class="fas fa-check-circle"></i> In Stock (@Model.Stock available)
+                    </span>
+                }
+                else
+                {
+                    <span class="stock-unavailable">
+                        <i class="fas fa-times-circle"></i> Out of Stock
+                    </span>
+                }
+            </div>
+            <div class="product-details-description">
+                <h3>Description</h3>
+                <p>@Model.Description</p>
+            </div>
+            @if (Model.Stock > 0)
+            {
+                <form asp-controller="Cart" asp-action="AddToCart" method="post" class="add-to-cart-form">
+                    <input type="hidden" name="productId" value="@Model.Id" />
+                    <div class="quantity-selector">
+                        <label>Quantity:</label>
+                        <input type="number" name="quantity" value="1" min="1" max="@Model.Stock" class="quantity-input" />
+                    </div>
+                    <button type="submit" class="btn btn-primary btn-large">
+                        <i class="fas fa-cart-plus"></i> Add to Cart
+                    </button>
+                </form>
+            }
+            <a asp-controller="Home" asp-action="Index" class="btn btn-secondary">
+                <i class="fas fa-arrow-left"></i> Back to Products
+            </a>
+        </div>
+    </div>
+</div>

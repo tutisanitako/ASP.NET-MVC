@@ -1,0 +1,89 @@
+﻿@model List<WebMVC.Models.ProductViewModel>
+
+@{
+    ViewData["Title"] = "Admin - Products";
+}
+
+<div class="container">
+    <div class="admin-header">
+        <h1 class="page-title">
+            <i class="fas fa-box"></i> Product Management
+        </h1>
+        <div class="admin-nav">
+            <a asp-controller="Admin" asp-action="Orders" class="btn btn-secondary">
+                <i class="fas fa-receipt"></i> Orders
+            </a>
+            <a asp-controller="Admin" asp-action="Users" class="btn btn-secondary">
+                <i class="fas fa-users"></i> Users
+            </a>
+            <a asp-controller="Admin" asp-action="Create" class="btn btn-primary">
+                <i class="fas fa-plus"></i> Add Product
+            </a>
+        </div>
+    </div>
+
+    @if (Model != null && Model.Any())
+    {
+        <div class="admin-table-container">
+            <table class="admin-table">
+                <thead>
+                    <tr>
+                        <th>Image</th>
+                        <th>Name</th>
+                        <th>Category</th>
+                        <th>Price</th>
+                        <th>Stock</th>
+                        <th>Actions</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var product in Model)
+                    {
+                        <tr>
+                            <td>
+                                <img src="@product.ImageUrl" alt="@product.Name" class="admin-product-image">
+                            </td>
+                            <td>
+                                <strong>@product.Name</strong>
+                                <p class="product-description-short">@product.Description</p>
+                            </td>
+                            <td><span class="category-badge">@product.Category</span></td>
+                            <td><strong>$@product.Price.ToString("N2")</strong></td>
+                            <td>
+                                @if (product.Stock < 10)
+                                {
+                                    <span class="badge badge-warning">@product.Stock</span>
+                                }
+                                else
+                                {
+                                    <span class="badge badge-success">@product.Stock</span>
+                                }
+                            </td>
+                            <td class="admin-actions">
+                                <a asp-controller="Admin" asp-action="Edit" asp-route-id="@product.Id"
+                                   class="btn btn-sm btn-secondary">
+                                    <i class="fas fa-edit"></i> Edit
+                                </a>
+                                <form asp-controller="Admin" asp-action="Delete" method="post" style="display: inline;">
+                                    <input type="hidden" name="id" value="@product.Id" />
+                                    <button type="submit" class="btn btn-sm btn-danger"
+                                            onclick="return confirm('Delete this product?')">
+                                        <i class="fas fa-trash"></i> Delete
+                                    </button>
+                                </form>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    }
+    else
+    {
+        <div class="empty-state">
+            <i class="fas fa-box-open"></i>
+            <h3>No products yet</h3>
+            <p>Start by adding your first product!</p>
+        </div>
+    }
+</div>

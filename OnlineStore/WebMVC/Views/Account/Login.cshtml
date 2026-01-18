@@ -1,0 +1,50 @@
+﻿@model WebMVC.Models.LoginViewModel
+
+@{
+    ViewData["Title"] = "Login";
+}
+
+<div class="auth-container">
+    <div class="auth-card">
+        <div class="auth-header">
+            <i class="fas fa-sign-in-alt"></i>
+            <h1>Welcome Back</h1>
+            <p>Login to your account</p>
+        </div>
+
+        <form asp-controller="Account" asp-action="Login" method="post" class="auth-form">
+            <div class="form-group">
+                <label asp-for="Email">
+                    <i class="fas fa-envelope"></i> Email
+                </label>
+                <input asp-for="Email" class="form-control" />
+                <span asp-validation-for="Email" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Password">
+                    <i class="fas fa-lock"></i> Password
+                </label>
+                <input asp-for="Password" class="form-control" type="password" />
+                <span asp-validation-for="Password" class="text-danger"></span>
+            </div>
+
+            <button type="submit" class="btn btn-primary btn-block btn-large">
+                <i class="fas fa-sign-in-alt"></i> Login
+            </button>
+        </form>
+
+        <div class="auth-footer">
+            <p>Don't have an account? <a asp-controller="Account" asp-action="Register">Register here</a></p>
+            <div class="demo-accounts">
+                <p class="demo-title">Demo Accounts:</p>
+                <p><strong>Admin:</strong> admin@shophub.com / Admin123!</p>
+                <p><strong>User:</strong> john.doe@example.com / Password123!</p>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

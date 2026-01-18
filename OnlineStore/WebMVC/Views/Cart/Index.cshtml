@@ -1,0 +1,111 @@
+﻿@model List<WebMVC.Models.CartItemViewModel>
+
+@{
+    ViewData["Title"] = "Shopping Cart";
+    var total = Model?.Sum(x => x.Total) ?? 0;
+}
+
+<div class="container">
+    <h1 class="page-title">
+        <i class="fas fa-shopping-cart"></i> Shopping Cart
+    </h1>
+
+    @if (Model != null && Model.Any())
+    {
+        <div class="cart-container">
+            <div class="cart-items">
+                @foreach (var item in Model)
+                {
+                    <div class="cart-item" data-item-id="@item.Id">
+                        <img src="@item.ImageUrl" alt="@item.ProductName" class="cart-item-image">
+                        <div class="cart-item-details">
+                            <h3>@item.ProductName</h3>
+                            <p class="cart-item-price">$@item.Price.ToString("N2")</p>
+                        </div>
+                        <div class="cart-item-quantity">
+                            <button class="qty-btn qty-decrease" onclick="updateQuantity(@item.Id, @(item.Quantity - 1))">
+                                <i class="fas fa-minus"></i>
+                            </button>
+                            <input type="number" value="@item.Quantity" min="1" max="99"
+                                   class="quantity-input-small" readonly />
+                            <button class="qty-btn qty-increase" onclick="updateQuantity(@item.Id, @(item.Quantity + 1))">
+                                <i class="fas fa-plus"></i>
+                            </button>
+                        </div>
+                        <div class="cart-item-total">
+                            <span class="cart-item-total-label">Total:</span>
+                            <span class="cart-item-total-price">$@item.Total.ToString("N2")</span>
+                        </div>
+                        <form asp-controller="Cart" asp-action="Remove" method="post" class="cart-item-remove">
+                            <input type="hidden" name="id" value="@item.Id" />
+                            <button type="submit" class="btn-remove" onclick="return confirm('Remove this item?')">
+                                <i class="fas fa-trash"></i>
+                            </button>
+                        </form>
+                    </div>
+                }
+            </div>
+
+            <div class="cart-summary">
+                <h2>Order Summary</h2>
+                <div class="cart-summary-row">
+                    <span>Subtotal:</span>
+                    <span>$@total.ToString("N2")</span>
+                </div>
+                <div class="cart-summary-row">
+                    <span>Shipping:</span>
+                    <span class="text-success">Free</span>
+                </div>
+                <div class="cart-summary-row">
+                    <span>Tax:</span>
+                    <span>$0.00</span>
+                </div>
+                <div class="cart-summary-total">
+                    <span>Total:</span>
+                    <span>$@total.ToString("N2")</span>
+                </div>
+                <a asp-controller="Order" asp-action="Checkout" class="btn btn-primary btn-large btn-block">
+                    <i class="fas fa-credit-card"></i> Proceed to Checkout
+                </a>
+                <a asp-controller="Home" asp-action="Index" class="btn btn-secondary btn-block">
+                    <i class="fas fa-arrow-left"></i> Continue Shopping
+                </a>
+            </div>
+        </div>
+    }
+    else
+    {
+        <div class="empty-state">
+            <i class="fas fa-shopping-cart"></i>
+            <h3>Your cart is empty</h3>
+            <p>Add some products to get started!</p>
+            <a asp-controller="Home" asp-action="Index" class="btn btn-primary">
+                <i class="fas fa-shopping-bag"></i> Start Shopping
+            </a>
+        </div>
+    }
+</div>
+
+@section Scripts {
+    <script>
+        function updateQuantity(id, quantity) {
+            if (quantity < 1) return;
+
+            $.ajax({
+                url: '@Url.Action("UpdateQuantity", "Cart")',
+                type: 'POST',
+                data: { id: id, quantity: quantity },
+                success: function(response) {
+                    if (response.success) {
+                        location.reload();
+                    } else {
+                        alert('Failed to update quantity');
+                    }
+                },
+                error: function() {
+                    alert('An error occurred');
+                }
+            });
+        }
+    </script>
+}
