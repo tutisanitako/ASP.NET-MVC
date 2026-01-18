@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tutis\\source\\repos\\OnlineStore\\WebAPI\\WebAPI.csproj": {}
+    "C:\\Users\\tutis\\OneDrive\\Desktop\\ASP.NET-MVC\\OnlineStore\\WebAPI\\WebAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tutis\\source\\repos\\OnlineStore\\Application\\Application.csproj": {
+    "C:\\Users\\tutis\\OneDrive\\Desktop\\ASP.NET-MVC\\OnlineStore\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tutis\\source\\repos\\OnlineStore\\Application\\Application.csproj",
+        "projectUniqueName": "C:\\Users\\tutis\\OneDrive\\Desktop\\ASP.NET-MVC\\OnlineStore\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "C:\\Users\\tutis\\source\\repos\\OnlineStore\\Application\\Application.csproj",
+        "projectPath": "C:\\Users\\tutis\\OneDrive\\Desktop\\ASP.NET-MVC\\OnlineStore\\Application\\Application.csproj",
         "packagesPath": "C:\\Users\\tutis\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tutis\\source\\repos\\OnlineStore\\Application\\obj\\",
+        "outputPath": "C:\\Users\\tutis\\OneDrive\\Desktop\\ASP.NET-MVC\\OnlineStore\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,8 +33,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\tutis\\source\\repos\\OnlineStore\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\tutis\\source\\repos\\OnlineStore\\Domain\\Domain.csproj"
+              "C:\\Users\\tutis\\OneDrive\\Desktop\\ASP.NET-MVC\\OnlineStore\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\tutis\\OneDrive\\Desktop\\ASP.NET-MVC\\OnlineStore\\Domain\\Domain.csproj"
               }
             }
           }
@@ -80,14 +80,14 @@
         }
       }
     },
-    "C:\\Users\\tutis\\source\\repos\\OnlineStore\\Domain\\Domain.csproj": {
+    "C:\\Users\\tutis\\OneDrive\\Desktop\\ASP.NET-MVC\\OnlineStore\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tutis\\source\\repos\\OnlineStore\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\tutis\\OneDrive\\Desktop\\ASP.NET-MVC\\OnlineStore\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\tutis\\source\\repos\\OnlineStore\\Domain\\Domain.csproj",
+        "projectPath": "C:\\Users\\tutis\\OneDrive\\Desktop\\ASP.NET-MVC\\OnlineStore\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\tutis\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tutis\\source\\repos\\OnlineStore\\Domain\\obj\\",
+        "outputPath": "C:\\Users\\tutis\\OneDrive\\Desktop\\ASP.NET-MVC\\OnlineStore\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -152,14 +152,14 @@
         }
       }
     },
-    "C:\\Users\\tutis\\source\\repos\\OnlineStore\\Infrastructure\\Infrastructure.csproj": {
+    "C:\\Users\\tutis\\OneDrive\\Desktop\\ASP.NET-MVC\\OnlineStore\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tutis\\source\\repos\\OnlineStore\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\tutis\\OneDrive\\Desktop\\ASP.NET-MVC\\OnlineStore\\Infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "C:\\Users\\tutis\\source\\repos\\OnlineStore\\Infrastructure\\Infrastructure.csproj",
+        "projectPath": "C:\\Users\\tutis\\OneDrive\\Desktop\\ASP.NET-MVC\\OnlineStore\\Infrastructure\\Infrastructure.csproj",
         "packagesPath": "C:\\Users\\tutis\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tutis\\source\\repos\\OnlineStore\\Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\tutis\\OneDrive\\Desktop\\ASP.NET-MVC\\OnlineStore\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -181,11 +181,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\tutis\\source\\repos\\OnlineStore\\Application\\Application.csproj": {
-                "projectPath": "C:\\Users\\tutis\\source\\repos\\OnlineStore\\Application\\Application.csproj"
+              "C:\\Users\\tutis\\OneDrive\\Desktop\\ASP.NET-MVC\\OnlineStore\\Application\\Application.csproj": {
+                "projectPath": "C:\\Users\\tutis\\OneDrive\\Desktop\\ASP.NET-MVC\\OnlineStore\\Application\\Application.csproj"
               },
-              "C:\\Users\\tutis\\source\\repos\\OnlineStore\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\tutis\\source\\repos\\OnlineStore\\Domain\\Domain.csproj"
+              "C:\\Users\\tutis\\OneDrive\\Desktop\\ASP.NET-MVC\\OnlineStore\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\tutis\\OneDrive\\Desktop\\ASP.NET-MVC\\OnlineStore\\Domain\\Domain.csproj"
               }
             }
           }
@@ -255,14 +255,14 @@
         }
       }
     },
-    "C:\\Users\\tutis\\source\\repos\\OnlineStore\\WebAPI\\WebAPI.csproj": {
+    "C:\\Users\\tutis\\OneDrive\\Desktop\\ASP.NET-MVC\\OnlineStore\\WebAPI\\WebAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tutis\\source\\repos\\OnlineStore\\WebAPI\\WebAPI.csproj",
+        "projectUniqueName": "C:\\Users\\tutis\\OneDrive\\Desktop\\ASP.NET-MVC\\OnlineStore\\WebAPI\\WebAPI.csproj",
         "projectName": "WebAPI",
-        "projectPath": "C:\\Users\\tutis\\source\\repos\\OnlineStore\\WebAPI\\WebAPI.csproj",
+        "projectPath": "C:\\Users\\tutis\\OneDrive\\Desktop\\ASP.NET-MVC\\OnlineStore\\WebAPI\\WebAPI.csproj",
         "packagesPath": "C:\\Users\\tutis\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tutis\\source\\repos\\OnlineStore\\WebAPI\\obj\\",
+        "outputPath": "C:\\Users\\tutis\\OneDrive\\Desktop\\ASP.NET-MVC\\OnlineStore\\WebAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -284,11 +284,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\tutis\\source\\repos\\OnlineStore\\Application\\Application.csproj": {
-                "projectPath": "C:\\Users\\tutis\\source\\repos\\OnlineStore\\Application\\Application.csproj"
+              "C:\\Users\\tutis\\OneDrive\\Desktop\\ASP.NET-MVC\\OnlineStore\\Application\\Application.csproj": {
+                "projectPath": "C:\\Users\\tutis\\OneDrive\\Desktop\\ASP.NET-MVC\\OnlineStore\\Application\\Application.csproj"
               },
-              "C:\\Users\\tutis\\source\\repos\\OnlineStore\\Infrastructure\\Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\tutis\\source\\repos\\OnlineStore\\Infrastructure\\Infrastructure.csproj"
+              "C:\\Users\\tutis\\OneDrive\\Desktop\\ASP.NET-MVC\\OnlineStore\\Infrastructure\\Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\tutis\\OneDrive\\Desktop\\ASP.NET-MVC\\OnlineStore\\Infrastructure\\Infrastructure.csproj"
               }
             }
           }

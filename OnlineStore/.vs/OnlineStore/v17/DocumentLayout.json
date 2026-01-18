@@ -1,302 +1,302 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\tutis\\source\\repos\\OnlineStore\\",
+  "WorkspaceRootPath": "C:\\Users\\tutis\\OneDrive\\Desktop\\ASP.NET-MVC\\OnlineStore\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{802D14FF-CE2A-4C68-B89E-A27A29B679C3}|WebMVC\\WebMVC.csproj|c:\\users\\tutis\\source\\repos\\onlinestore\\webmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{802D14FF-CE2A-4C68-B89E-A27A29B679C3}|WebMVC\\WebMVC.csproj|solutionrelative:webmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{802D14FF-CE2A-4C68-B89E-A27A29B679C3}|WebMVC\\WebMVC.csproj|c:\\users\\tutis\\source\\repos\\onlinestore\\webmvc\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{802D14FF-CE2A-4C68-B89E-A27A29B679C3}|WebMVC\\WebMVC.csproj|solutionrelative:webmvc\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{802D14FF-CE2A-4C68-B89E-A27A29B679C3}|WebMVC\\WebMVC.csproj|c:\\users\\tutis\\source\\repos\\onlinestore\\webmvc\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{802D14FF-CE2A-4C68-B89E-A27A29B679C3}|WebMVC\\WebMVC.csproj|solutionrelative:webmvc\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{802D14FF-CE2A-4C68-B89E-A27A29B679C3}|WebMVC\\WebMVC.csproj|c:\\users\\tutis\\source\\repos\\onlinestore\\webmvc\\views\\admin\\orders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{802D14FF-CE2A-4C68-B89E-A27A29B679C3}|WebMVC\\WebMVC.csproj|solutionrelative:webmvc\\views\\admin\\orders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{802D14FF-CE2A-4C68-B89E-A27A29B679C3}|WebMVC\\WebMVC.csproj|c:\\users\\tutis\\source\\repos\\onlinestore\\webmvc\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{802D14FF-CE2A-4C68-B89E-A27A29B679C3}|WebMVC\\WebMVC.csproj|solutionrelative:webmvc\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{802D14FF-CE2A-4C68-B89E-A27A29B679C3}|WebMVC\\WebMVC.csproj|c:\\users\\tutis\\source\\repos\\onlinestore\\webmvc\\views\\admin\\users.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{802D14FF-CE2A-4C68-B89E-A27A29B679C3}|WebMVC\\WebMVC.csproj|solutionrelative:webmvc\\views\\admin\\users.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{802D14FF-CE2A-4C68-B89E-A27A29B679C3}|WebMVC\\WebMVC.csproj|c:\\users\\tutis\\source\\repos\\onlinestore\\webmvc\\views\\admin\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{802D14FF-CE2A-4C68-B89E-A27A29B679C3}|WebMVC\\WebMVC.csproj|solutionrelative:webmvc\\views\\admin\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{802D14FF-CE2A-4C68-B89E-A27A29B679C3}|WebMVC\\WebMVC.csproj|c:\\users\\tutis\\source\\repos\\onlinestore\\webmvc\\views\\admin\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{802D14FF-CE2A-4C68-B89E-A27A29B679C3}|WebMVC\\WebMVC.csproj|solutionrelative:webmvc\\views\\admin\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{802D14FF-CE2A-4C68-B89E-A27A29B679C3}|WebMVC\\WebMVC.csproj|c:\\users\\tutis\\source\\repos\\onlinestore\\webmvc\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{802D14FF-CE2A-4C68-B89E-A27A29B679C3}|WebMVC\\WebMVC.csproj|solutionrelative:webmvc\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{802D14FF-CE2A-4C68-B89E-A27A29B679C3}|WebMVC\\WebMVC.csproj|c:\\users\\tutis\\source\\repos\\onlinestore\\webmvc\\views\\order\\orderdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{802D14FF-CE2A-4C68-B89E-A27A29B679C3}|WebMVC\\WebMVC.csproj|solutionrelative:webmvc\\views\\order\\orderdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{802D14FF-CE2A-4C68-B89E-A27A29B679C3}|WebMVC\\WebMVC.csproj|c:\\users\\tutis\\source\\repos\\onlinestore\\webmvc\\views\\order\\trackorder.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{802D14FF-CE2A-4C68-B89E-A27A29B679C3}|WebMVC\\WebMVC.csproj|solutionrelative:webmvc\\views\\order\\trackorder.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{802D14FF-CE2A-4C68-B89E-A27A29B679C3}|WebMVC\\WebMVC.csproj|c:\\users\\tutis\\source\\repos\\onlinestore\\webmvc\\views\\order\\success.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{802D14FF-CE2A-4C68-B89E-A27A29B679C3}|WebMVC\\WebMVC.csproj|solutionrelative:webmvc\\views\\order\\success.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{802D14FF-CE2A-4C68-B89E-A27A29B679C3}|WebMVC\\WebMVC.csproj|c:\\users\\tutis\\source\\repos\\onlinestore\\webmvc\\views\\order\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{802D14FF-CE2A-4C68-B89E-A27A29B679C3}|WebMVC\\WebMVC.csproj|solutionrelative:webmvc\\views\\order\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{802D14FF-CE2A-4C68-B89E-A27A29B679C3}|WebMVC\\WebMVC.csproj|c:\\users\\tutis\\source\\repos\\onlinestore\\webmvc\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{802D14FF-CE2A-4C68-B89E-A27A29B679C3}|WebMVC\\WebMVC.csproj|solutionrelative:webmvc\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{802D14FF-CE2A-4C68-B89E-A27A29B679C3}|WebMVC\\WebMVC.csproj|c:\\users\\tutis\\source\\repos\\onlinestore\\webmvc\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{802D14FF-CE2A-4C68-B89E-A27A29B679C3}|WebMVC\\WebMVC.csproj|solutionrelative:webmvc\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{802D14FF-CE2A-4C68-B89E-A27A29B679C3}|WebMVC\\WebMVC.csproj|c:\\users\\tutis\\source\\repos\\onlinestore\\webmvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{802D14FF-CE2A-4C68-B89E-A27A29B679C3}|WebMVC\\WebMVC.csproj|solutionrelative:webmvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{802D14FF-CE2A-4C68-B89E-A27A29B679C3}|WebMVC\\WebMVC.csproj|c:\\users\\tutis\\source\\repos\\onlinestore\\webmvc\\views\\account\\myorders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{802D14FF-CE2A-4C68-B89E-A27A29B679C3}|WebMVC\\WebMVC.csproj|solutionrelative:webmvc\\views\\account\\myorders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{802D14FF-CE2A-4C68-B89E-A27A29B679C3}|WebMVC\\WebMVC.csproj|c:\\users\\tutis\\source\\repos\\onlinestore\\webmvc\\views\\account\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{802D14FF-CE2A-4C68-B89E-A27A29B679C3}|WebMVC\\WebMVC.csproj|solutionrelative:webmvc\\views\\account\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{802D14FF-CE2A-4C68-B89E-A27A29B679C3}|WebMVC\\WebMVC.csproj|c:\\users\\tutis\\source\\repos\\onlinestore\\webmvc\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{802D14FF-CE2A-4C68-B89E-A27A29B679C3}|WebMVC\\WebMVC.csproj|solutionrelative:webmvc\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{802D14FF-CE2A-4C68-B89E-A27A29B679C3}|WebMVC\\WebMVC.csproj|c:\\users\\tutis\\source\\repos\\onlinestore\\webmvc\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{802D14FF-CE2A-4C68-B89E-A27A29B679C3}|WebMVC\\WebMVC.csproj|solutionrelative:webmvc\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{802D14FF-CE2A-4C68-B89E-A27A29B679C3}|WebMVC\\WebMVC.csproj|c:\\users\\tutis\\source\\repos\\onlinestore\\webmvc\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{802D14FF-CE2A-4C68-B89E-A27A29B679C3}|WebMVC\\WebMVC.csproj|solutionrelative:webmvc\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{802D14FF-CE2A-4C68-B89E-A27A29B679C3}|WebMVC\\WebMVC.csproj|c:\\users\\tutis\\source\\repos\\onlinestore\\webmvc\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{802D14FF-CE2A-4C68-B89E-A27A29B679C3}|WebMVC\\WebMVC.csproj|solutionrelative:webmvc\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{802D14FF-CE2A-4C68-B89E-A27A29B679C3}|WebMVC\\WebMVC.csproj|c:\\users\\tutis\\source\\repos\\onlinestore\\webmvc\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{802D14FF-CE2A-4C68-B89E-A27A29B679C3}|WebMVC\\WebMVC.csproj|solutionrelative:webmvc\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{802D14FF-CE2A-4C68-B89E-A27A29B679C3}|WebMVC\\WebMVC.csproj|c:\\users\\tutis\\source\\repos\\onlinestore\\webmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{802D14FF-CE2A-4C68-B89E-A27A29B679C3}|WebMVC\\WebMVC.csproj|solutionrelative:webmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{802D14FF-CE2A-4C68-B89E-A27A29B679C3}|WebMVC\\WebMVC.csproj|c:\\users\\tutis\\source\\repos\\onlinestore\\webmvc\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{802D14FF-CE2A-4C68-B89E-A27A29B679C3}|WebMVC\\WebMVC.csproj|solutionrelative:webmvc\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{802D14FF-CE2A-4C68-B89E-A27A29B679C3}|WebMVC\\WebMVC.csproj|c:\\users\\tutis\\source\\repos\\onlinestore\\webmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{802D14FF-CE2A-4C68-B89E-A27A29B679C3}|WebMVC\\WebMVC.csproj|solutionrelative:webmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{802D14FF-CE2A-4C68-B89E-A27A29B679C3}|WebMVC\\WebMVC.csproj|c:\\users\\tutis\\source\\repos\\onlinestore\\webmvc\\helpers\\sessionhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{802D14FF-CE2A-4C68-B89E-A27A29B679C3}|WebMVC\\WebMVC.csproj|solutionrelative:webmvc\\helpers\\sessionhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{802D14FF-CE2A-4C68-B89E-A27A29B679C3}|WebMVC\\WebMVC.csproj|c:\\users\\tutis\\source\\repos\\onlinestore\\webmvc\\models\\createproductviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{802D14FF-CE2A-4C68-B89E-A27A29B679C3}|WebMVC\\WebMVC.csproj|solutionrelative:webmvc\\models\\createproductviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{802D14FF-CE2A-4C68-B89E-A27A29B679C3}|WebMVC\\WebMVC.csproj|c:\\users\\tutis\\source\\repos\\onlinestore\\webmvc\\models\\productviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{802D14FF-CE2A-4C68-B89E-A27A29B679C3}|WebMVC\\WebMVC.csproj|solutionrelative:webmvc\\models\\productviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{802D14FF-CE2A-4C68-B89E-A27A29B679C3}|WebMVC\\WebMVC.csproj|c:\\users\\tutis\\source\\repos\\onlinestore\\webmvc\\models\\orderitemviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{802D14FF-CE2A-4C68-B89E-A27A29B679C3}|WebMVC\\WebMVC.csproj|solutionrelative:webmvc\\models\\orderitemviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{802D14FF-CE2A-4C68-B89E-A27A29B679C3}|WebMVC\\WebMVC.csproj|c:\\users\\tutis\\source\\repos\\onlinestore\\webmvc\\models\\orderdetailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{802D14FF-CE2A-4C68-B89E-A27A29B679C3}|WebMVC\\WebMVC.csproj|solutionrelative:webmvc\\models\\orderdetailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{802D14FF-CE2A-4C68-B89E-A27A29B679C3}|WebMVC\\WebMVC.csproj|c:\\users\\tutis\\source\\repos\\onlinestore\\webmvc\\models\\orderviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{802D14FF-CE2A-4C68-B89E-A27A29B679C3}|WebMVC\\WebMVC.csproj|solutionrelative:webmvc\\models\\orderviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{802D14FF-CE2A-4C68-B89E-A27A29B679C3}|WebMVC\\WebMVC.csproj|c:\\users\\tutis\\source\\repos\\onlinestore\\webmvc\\models\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{802D14FF-CE2A-4C68-B89E-A27A29B679C3}|WebMVC\\WebMVC.csproj|solutionrelative:webmvc\\models\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{802D14FF-CE2A-4C68-B89E-A27A29B679C3}|WebMVC\\WebMVC.csproj|c:\\users\\tutis\\source\\repos\\onlinestore\\webmvc\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{802D14FF-CE2A-4C68-B89E-A27A29B679C3}|WebMVC\\WebMVC.csproj|solutionrelative:webmvc\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{802D14FF-CE2A-4C68-B89E-A27A29B679C3}|WebMVC\\WebMVC.csproj|c:\\users\\tutis\\source\\repos\\onlinestore\\webmvc\\models\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{802D14FF-CE2A-4C68-B89E-A27A29B679C3}|WebMVC\\WebMVC.csproj|solutionrelative:webmvc\\models\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\tutis\\source\\repos\\OnlineStore\\Infrastructure\\Migrations\\20260118141602_CompleteRebuild.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Infrastructure\\Migrations\\20260118141602_CompleteRebuild.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A60981E0-74EB-48CC-9073-A909914DA1BA}|Infrastructure\\Infrastructure.csproj|c:\\users\\tutis\\source\\repos\\onlinestore\\infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A60981E0-74EB-48CC-9073-A909914DA1BA}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{802D14FF-CE2A-4C68-B89E-A27A29B679C3}|WebMVC\\WebMVC.csproj|c:\\users\\tutis\\source\\repos\\onlinestore\\webmvc\\services\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{802D14FF-CE2A-4C68-B89E-A27A29B679C3}|WebMVC\\WebMVC.csproj|c:\\users\\tutis\\onedrive\\desktop\\asp.net-mvc\\onlinestore\\webmvc\\services\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{802D14FF-CE2A-4C68-B89E-A27A29B679C3}|WebMVC\\WebMVC.csproj|solutionrelative:webmvc\\services\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9057D260-0BB7-4ED3-BDC0-C4D291442DB5}|Application\\Application.csproj|c:\\users\\tutis\\source\\repos\\onlinestore\\application\\dtos\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{802D14FF-CE2A-4C68-B89E-A27A29B679C3}|WebMVC\\WebMVC.csproj|c:\\users\\tutis\\onedrive\\desktop\\asp.net-mvc\\onlinestore\\webmvc\\views\\admin\\orders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{802D14FF-CE2A-4C68-B89E-A27A29B679C3}|WebMVC\\WebMVC.csproj|solutionrelative:webmvc\\views\\admin\\orders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{802D14FF-CE2A-4C68-B89E-A27A29B679C3}|WebMVC\\WebMVC.csproj|c:\\users\\tutis\\onedrive\\desktop\\asp.net-mvc\\onlinestore\\webmvc\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{802D14FF-CE2A-4C68-B89E-A27A29B679C3}|WebMVC\\WebMVC.csproj|solutionrelative:webmvc\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{802D14FF-CE2A-4C68-B89E-A27A29B679C3}|WebMVC\\WebMVC.csproj|c:\\users\\tutis\\onedrive\\desktop\\asp.net-mvc\\onlinestore\\webmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{802D14FF-CE2A-4C68-B89E-A27A29B679C3}|WebMVC\\WebMVC.csproj|solutionrelative:webmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{802D14FF-CE2A-4C68-B89E-A27A29B679C3}|WebMVC\\WebMVC.csproj|c:\\users\\tutis\\onedrive\\desktop\\asp.net-mvc\\onlinestore\\webmvc\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{802D14FF-CE2A-4C68-B89E-A27A29B679C3}|WebMVC\\WebMVC.csproj|solutionrelative:webmvc\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{802D14FF-CE2A-4C68-B89E-A27A29B679C3}|WebMVC\\WebMVC.csproj|c:\\users\\tutis\\onedrive\\desktop\\asp.net-mvc\\onlinestore\\webmvc\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{802D14FF-CE2A-4C68-B89E-A27A29B679C3}|WebMVC\\WebMVC.csproj|solutionrelative:webmvc\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{802D14FF-CE2A-4C68-B89E-A27A29B679C3}|WebMVC\\WebMVC.csproj|c:\\users\\tutis\\onedrive\\desktop\\asp.net-mvc\\onlinestore\\webmvc\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{802D14FF-CE2A-4C68-B89E-A27A29B679C3}|WebMVC\\WebMVC.csproj|solutionrelative:webmvc\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{802D14FF-CE2A-4C68-B89E-A27A29B679C3}|WebMVC\\WebMVC.csproj|c:\\users\\tutis\\onedrive\\desktop\\asp.net-mvc\\onlinestore\\webmvc\\views\\admin\\users.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{802D14FF-CE2A-4C68-B89E-A27A29B679C3}|WebMVC\\WebMVC.csproj|solutionrelative:webmvc\\views\\admin\\users.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{802D14FF-CE2A-4C68-B89E-A27A29B679C3}|WebMVC\\WebMVC.csproj|c:\\users\\tutis\\onedrive\\desktop\\asp.net-mvc\\onlinestore\\webmvc\\views\\admin\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{802D14FF-CE2A-4C68-B89E-A27A29B679C3}|WebMVC\\WebMVC.csproj|solutionrelative:webmvc\\views\\admin\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{802D14FF-CE2A-4C68-B89E-A27A29B679C3}|WebMVC\\WebMVC.csproj|c:\\users\\tutis\\onedrive\\desktop\\asp.net-mvc\\onlinestore\\webmvc\\views\\admin\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{802D14FF-CE2A-4C68-B89E-A27A29B679C3}|WebMVC\\WebMVC.csproj|solutionrelative:webmvc\\views\\admin\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{802D14FF-CE2A-4C68-B89E-A27A29B679C3}|WebMVC\\WebMVC.csproj|c:\\users\\tutis\\onedrive\\desktop\\asp.net-mvc\\onlinestore\\webmvc\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{802D14FF-CE2A-4C68-B89E-A27A29B679C3}|WebMVC\\WebMVC.csproj|solutionrelative:webmvc\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{802D14FF-CE2A-4C68-B89E-A27A29B679C3}|WebMVC\\WebMVC.csproj|c:\\users\\tutis\\onedrive\\desktop\\asp.net-mvc\\onlinestore\\webmvc\\views\\order\\orderdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{802D14FF-CE2A-4C68-B89E-A27A29B679C3}|WebMVC\\WebMVC.csproj|solutionrelative:webmvc\\views\\order\\orderdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{802D14FF-CE2A-4C68-B89E-A27A29B679C3}|WebMVC\\WebMVC.csproj|c:\\users\\tutis\\onedrive\\desktop\\asp.net-mvc\\onlinestore\\webmvc\\views\\order\\trackorder.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{802D14FF-CE2A-4C68-B89E-A27A29B679C3}|WebMVC\\WebMVC.csproj|solutionrelative:webmvc\\views\\order\\trackorder.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{802D14FF-CE2A-4C68-B89E-A27A29B679C3}|WebMVC\\WebMVC.csproj|c:\\users\\tutis\\onedrive\\desktop\\asp.net-mvc\\onlinestore\\webmvc\\views\\order\\success.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{802D14FF-CE2A-4C68-B89E-A27A29B679C3}|WebMVC\\WebMVC.csproj|solutionrelative:webmvc\\views\\order\\success.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{802D14FF-CE2A-4C68-B89E-A27A29B679C3}|WebMVC\\WebMVC.csproj|c:\\users\\tutis\\onedrive\\desktop\\asp.net-mvc\\onlinestore\\webmvc\\views\\order\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{802D14FF-CE2A-4C68-B89E-A27A29B679C3}|WebMVC\\WebMVC.csproj|solutionrelative:webmvc\\views\\order\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{802D14FF-CE2A-4C68-B89E-A27A29B679C3}|WebMVC\\WebMVC.csproj|c:\\users\\tutis\\onedrive\\desktop\\asp.net-mvc\\onlinestore\\webmvc\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{802D14FF-CE2A-4C68-B89E-A27A29B679C3}|WebMVC\\WebMVC.csproj|solutionrelative:webmvc\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{802D14FF-CE2A-4C68-B89E-A27A29B679C3}|WebMVC\\WebMVC.csproj|c:\\users\\tutis\\onedrive\\desktop\\asp.net-mvc\\onlinestore\\webmvc\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{802D14FF-CE2A-4C68-B89E-A27A29B679C3}|WebMVC\\WebMVC.csproj|solutionrelative:webmvc\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{802D14FF-CE2A-4C68-B89E-A27A29B679C3}|WebMVC\\WebMVC.csproj|c:\\users\\tutis\\onedrive\\desktop\\asp.net-mvc\\onlinestore\\webmvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{802D14FF-CE2A-4C68-B89E-A27A29B679C3}|WebMVC\\WebMVC.csproj|solutionrelative:webmvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{802D14FF-CE2A-4C68-B89E-A27A29B679C3}|WebMVC\\WebMVC.csproj|c:\\users\\tutis\\onedrive\\desktop\\asp.net-mvc\\onlinestore\\webmvc\\views\\account\\myorders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{802D14FF-CE2A-4C68-B89E-A27A29B679C3}|WebMVC\\WebMVC.csproj|solutionrelative:webmvc\\views\\account\\myorders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{802D14FF-CE2A-4C68-B89E-A27A29B679C3}|WebMVC\\WebMVC.csproj|c:\\users\\tutis\\onedrive\\desktop\\asp.net-mvc\\onlinestore\\webmvc\\views\\account\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{802D14FF-CE2A-4C68-B89E-A27A29B679C3}|WebMVC\\WebMVC.csproj|solutionrelative:webmvc\\views\\account\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{802D14FF-CE2A-4C68-B89E-A27A29B679C3}|WebMVC\\WebMVC.csproj|c:\\users\\tutis\\onedrive\\desktop\\asp.net-mvc\\onlinestore\\webmvc\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{802D14FF-CE2A-4C68-B89E-A27A29B679C3}|WebMVC\\WebMVC.csproj|solutionrelative:webmvc\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{802D14FF-CE2A-4C68-B89E-A27A29B679C3}|WebMVC\\WebMVC.csproj|c:\\users\\tutis\\onedrive\\desktop\\asp.net-mvc\\onlinestore\\webmvc\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{802D14FF-CE2A-4C68-B89E-A27A29B679C3}|WebMVC\\WebMVC.csproj|solutionrelative:webmvc\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{802D14FF-CE2A-4C68-B89E-A27A29B679C3}|WebMVC\\WebMVC.csproj|c:\\users\\tutis\\onedrive\\desktop\\asp.net-mvc\\onlinestore\\webmvc\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{802D14FF-CE2A-4C68-B89E-A27A29B679C3}|WebMVC\\WebMVC.csproj|solutionrelative:webmvc\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{802D14FF-CE2A-4C68-B89E-A27A29B679C3}|WebMVC\\WebMVC.csproj|c:\\users\\tutis\\onedrive\\desktop\\asp.net-mvc\\onlinestore\\webmvc\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{802D14FF-CE2A-4C68-B89E-A27A29B679C3}|WebMVC\\WebMVC.csproj|solutionrelative:webmvc\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{802D14FF-CE2A-4C68-B89E-A27A29B679C3}|WebMVC\\WebMVC.csproj|c:\\users\\tutis\\onedrive\\desktop\\asp.net-mvc\\onlinestore\\webmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{802D14FF-CE2A-4C68-B89E-A27A29B679C3}|WebMVC\\WebMVC.csproj|solutionrelative:webmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{802D14FF-CE2A-4C68-B89E-A27A29B679C3}|WebMVC\\WebMVC.csproj|c:\\users\\tutis\\onedrive\\desktop\\asp.net-mvc\\onlinestore\\webmvc\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{802D14FF-CE2A-4C68-B89E-A27A29B679C3}|WebMVC\\WebMVC.csproj|solutionrelative:webmvc\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{802D14FF-CE2A-4C68-B89E-A27A29B679C3}|WebMVC\\WebMVC.csproj|c:\\users\\tutis\\onedrive\\desktop\\asp.net-mvc\\onlinestore\\webmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{802D14FF-CE2A-4C68-B89E-A27A29B679C3}|WebMVC\\WebMVC.csproj|solutionrelative:webmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{802D14FF-CE2A-4C68-B89E-A27A29B679C3}|WebMVC\\WebMVC.csproj|c:\\users\\tutis\\onedrive\\desktop\\asp.net-mvc\\onlinestore\\webmvc\\helpers\\sessionhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{802D14FF-CE2A-4C68-B89E-A27A29B679C3}|WebMVC\\WebMVC.csproj|solutionrelative:webmvc\\helpers\\sessionhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{802D14FF-CE2A-4C68-B89E-A27A29B679C3}|WebMVC\\WebMVC.csproj|c:\\users\\tutis\\onedrive\\desktop\\asp.net-mvc\\onlinestore\\webmvc\\models\\createproductviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{802D14FF-CE2A-4C68-B89E-A27A29B679C3}|WebMVC\\WebMVC.csproj|solutionrelative:webmvc\\models\\createproductviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{802D14FF-CE2A-4C68-B89E-A27A29B679C3}|WebMVC\\WebMVC.csproj|c:\\users\\tutis\\onedrive\\desktop\\asp.net-mvc\\onlinestore\\webmvc\\models\\productviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{802D14FF-CE2A-4C68-B89E-A27A29B679C3}|WebMVC\\WebMVC.csproj|solutionrelative:webmvc\\models\\productviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{802D14FF-CE2A-4C68-B89E-A27A29B679C3}|WebMVC\\WebMVC.csproj|c:\\users\\tutis\\onedrive\\desktop\\asp.net-mvc\\onlinestore\\webmvc\\models\\orderitemviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{802D14FF-CE2A-4C68-B89E-A27A29B679C3}|WebMVC\\WebMVC.csproj|solutionrelative:webmvc\\models\\orderitemviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{802D14FF-CE2A-4C68-B89E-A27A29B679C3}|WebMVC\\WebMVC.csproj|c:\\users\\tutis\\onedrive\\desktop\\asp.net-mvc\\onlinestore\\webmvc\\models\\orderdetailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{802D14FF-CE2A-4C68-B89E-A27A29B679C3}|WebMVC\\WebMVC.csproj|solutionrelative:webmvc\\models\\orderdetailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{802D14FF-CE2A-4C68-B89E-A27A29B679C3}|WebMVC\\WebMVC.csproj|c:\\users\\tutis\\onedrive\\desktop\\asp.net-mvc\\onlinestore\\webmvc\\models\\orderviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{802D14FF-CE2A-4C68-B89E-A27A29B679C3}|WebMVC\\WebMVC.csproj|solutionrelative:webmvc\\models\\orderviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{802D14FF-CE2A-4C68-B89E-A27A29B679C3}|WebMVC\\WebMVC.csproj|c:\\users\\tutis\\onedrive\\desktop\\asp.net-mvc\\onlinestore\\webmvc\\models\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{802D14FF-CE2A-4C68-B89E-A27A29B679C3}|WebMVC\\WebMVC.csproj|solutionrelative:webmvc\\models\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{802D14FF-CE2A-4C68-B89E-A27A29B679C3}|WebMVC\\WebMVC.csproj|c:\\users\\tutis\\onedrive\\desktop\\asp.net-mvc\\onlinestore\\webmvc\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{802D14FF-CE2A-4C68-B89E-A27A29B679C3}|WebMVC\\WebMVC.csproj|solutionrelative:webmvc\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{802D14FF-CE2A-4C68-B89E-A27A29B679C3}|WebMVC\\WebMVC.csproj|c:\\users\\tutis\\onedrive\\desktop\\asp.net-mvc\\onlinestore\\webmvc\\models\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{802D14FF-CE2A-4C68-B89E-A27A29B679C3}|WebMVC\\WebMVC.csproj|solutionrelative:webmvc\\models\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A60981E0-74EB-48CC-9073-A909914DA1BA}|Infrastructure\\Infrastructure.csproj|c:\\users\\tutis\\onedrive\\desktop\\asp.net-mvc\\onlinestore\\infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A60981E0-74EB-48CC-9073-A909914DA1BA}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9057D260-0BB7-4ED3-BDC0-C4D291442DB5}|Application\\Application.csproj|c:\\users\\tutis\\onedrive\\desktop\\asp.net-mvc\\onlinestore\\application\\dtos\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9057D260-0BB7-4ED3-BDC0-C4D291442DB5}|Application\\Application.csproj|solutionrelative:application\\dtos\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9057D260-0BB7-4ED3-BDC0-C4D291442DB5}|Application\\Application.csproj|c:\\users\\tutis\\source\\repos\\onlinestore\\application\\dtos\\createproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9057D260-0BB7-4ED3-BDC0-C4D291442DB5}|Application\\Application.csproj|c:\\users\\tutis\\onedrive\\desktop\\asp.net-mvc\\onlinestore\\application\\dtos\\createproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9057D260-0BB7-4ED3-BDC0-C4D291442DB5}|Application\\Application.csproj|solutionrelative:application\\dtos\\createproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9057D260-0BB7-4ED3-BDC0-C4D291442DB5}|Application\\Application.csproj|c:\\users\\tutis\\source\\repos\\onlinestore\\application\\dtos\\cartitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9057D260-0BB7-4ED3-BDC0-C4D291442DB5}|Application\\Application.csproj|c:\\users\\tutis\\onedrive\\desktop\\asp.net-mvc\\onlinestore\\application\\dtos\\cartitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9057D260-0BB7-4ED3-BDC0-C4D291442DB5}|Application\\Application.csproj|solutionrelative:application\\dtos\\cartitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1341644F-9EBC-4D3E-9A38-342C78D17021}|Domain\\Domain.csproj|c:\\users\\tutis\\source\\repos\\onlinestore\\domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1341644F-9EBC-4D3E-9A38-342C78D17021}|Domain\\Domain.csproj|c:\\users\\tutis\\onedrive\\desktop\\asp.net-mvc\\onlinestore\\domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1341644F-9EBC-4D3E-9A38-342C78D17021}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9057D260-0BB7-4ED3-BDC0-C4D291442DB5}|Application\\Application.csproj|c:\\users\\tutis\\source\\repos\\onlinestore\\application\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9057D260-0BB7-4ED3-BDC0-C4D291442DB5}|Application\\Application.csproj|c:\\users\\tutis\\onedrive\\desktop\\asp.net-mvc\\onlinestore\\application\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9057D260-0BB7-4ED3-BDC0-C4D291442DB5}|Application\\Application.csproj|solutionrelative:application\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A60981E0-74EB-48CC-9073-A909914DA1BA}|Infrastructure\\Infrastructure.csproj|c:\\users\\tutis\\source\\repos\\onlinestore\\infrastructure\\data\\dbseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A60981E0-74EB-48CC-9073-A909914DA1BA}|Infrastructure\\Infrastructure.csproj|c:\\users\\tutis\\onedrive\\desktop\\asp.net-mvc\\onlinestore\\infrastructure\\data\\dbseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A60981E0-74EB-48CC-9073-A909914DA1BA}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\data\\dbseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{29F1526E-7557-4081-80D2-3A80EC66070F}|WebAPI\\WebAPI.csproj|c:\\users\\tutis\\source\\repos\\onlinestore\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{29F1526E-7557-4081-80D2-3A80EC66070F}|WebAPI\\WebAPI.csproj|c:\\users\\tutis\\onedrive\\desktop\\asp.net-mvc\\onlinestore\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{29F1526E-7557-4081-80D2-3A80EC66070F}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{29F1526E-7557-4081-80D2-3A80EC66070F}|WebAPI\\WebAPI.csproj|c:\\users\\tutis\\source\\repos\\onlinestore\\webapi\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{29F1526E-7557-4081-80D2-3A80EC66070F}|WebAPI\\WebAPI.csproj|c:\\users\\tutis\\onedrive\\desktop\\asp.net-mvc\\onlinestore\\webapi\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{29F1526E-7557-4081-80D2-3A80EC66070F}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{29F1526E-7557-4081-80D2-3A80EC66070F}|WebAPI\\WebAPI.csproj|c:\\users\\tutis\\source\\repos\\onlinestore\\webapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{29F1526E-7557-4081-80D2-3A80EC66070F}|WebAPI\\WebAPI.csproj|c:\\users\\tutis\\onedrive\\desktop\\asp.net-mvc\\onlinestore\\webapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{29F1526E-7557-4081-80D2-3A80EC66070F}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A60981E0-74EB-48CC-9073-A909914DA1BA}|Infrastructure\\Infrastructure.csproj|c:\\users\\tutis\\source\\repos\\onlinestore\\infrastructure\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A60981E0-74EB-48CC-9073-A909914DA1BA}|Infrastructure\\Infrastructure.csproj|c:\\users\\tutis\\onedrive\\desktop\\asp.net-mvc\\onlinestore\\infrastructure\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A60981E0-74EB-48CC-9073-A909914DA1BA}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A60981E0-74EB-48CC-9073-A909914DA1BA}|Infrastructure\\Infrastructure.csproj|c:\\users\\tutis\\source\\repos\\onlinestore\\infrastructure\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A60981E0-74EB-48CC-9073-A909914DA1BA}|Infrastructure\\Infrastructure.csproj|c:\\users\\tutis\\onedrive\\desktop\\asp.net-mvc\\onlinestore\\infrastructure\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A60981E0-74EB-48CC-9073-A909914DA1BA}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A60981E0-74EB-48CC-9073-A909914DA1BA}|Infrastructure\\Infrastructure.csproj|c:\\users\\tutis\\source\\repos\\onlinestore\\infrastructure\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A60981E0-74EB-48CC-9073-A909914DA1BA}|Infrastructure\\Infrastructure.csproj|c:\\users\\tutis\\onedrive\\desktop\\asp.net-mvc\\onlinestore\\infrastructure\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A60981E0-74EB-48CC-9073-A909914DA1BA}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9057D260-0BB7-4ED3-BDC0-C4D291442DB5}|Application\\Application.csproj|c:\\users\\tutis\\source\\repos\\onlinestore\\application\\interfaces\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9057D260-0BB7-4ED3-BDC0-C4D291442DB5}|Application\\Application.csproj|c:\\users\\tutis\\onedrive\\desktop\\asp.net-mvc\\onlinestore\\application\\interfaces\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9057D260-0BB7-4ED3-BDC0-C4D291442DB5}|Application\\Application.csproj|solutionrelative:application\\interfaces\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9057D260-0BB7-4ED3-BDC0-C4D291442DB5}|Application\\Application.csproj|c:\\users\\tutis\\source\\repos\\onlinestore\\application\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9057D260-0BB7-4ED3-BDC0-C4D291442DB5}|Application\\Application.csproj|c:\\users\\tutis\\onedrive\\desktop\\asp.net-mvc\\onlinestore\\application\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9057D260-0BB7-4ED3-BDC0-C4D291442DB5}|Application\\Application.csproj|solutionrelative:application\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9057D260-0BB7-4ED3-BDC0-C4D291442DB5}|Application\\Application.csproj|c:\\users\\tutis\\source\\repos\\onlinestore\\application\\dtos\\orderitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9057D260-0BB7-4ED3-BDC0-C4D291442DB5}|Application\\Application.csproj|c:\\users\\tutis\\onedrive\\desktop\\asp.net-mvc\\onlinestore\\application\\dtos\\orderitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9057D260-0BB7-4ED3-BDC0-C4D291442DB5}|Application\\Application.csproj|solutionrelative:application\\dtos\\orderitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9057D260-0BB7-4ED3-BDC0-C4D291442DB5}|Application\\Application.csproj|c:\\users\\tutis\\source\\repos\\onlinestore\\application\\dtos\\orderdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9057D260-0BB7-4ED3-BDC0-C4D291442DB5}|Application\\Application.csproj|c:\\users\\tutis\\onedrive\\desktop\\asp.net-mvc\\onlinestore\\application\\dtos\\orderdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9057D260-0BB7-4ED3-BDC0-C4D291442DB5}|Application\\Application.csproj|solutionrelative:application\\dtos\\orderdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9057D260-0BB7-4ED3-BDC0-C4D291442DB5}|Application\\Application.csproj|c:\\users\\tutis\\source\\repos\\onlinestore\\application\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9057D260-0BB7-4ED3-BDC0-C4D291442DB5}|Application\\Application.csproj|c:\\users\\tutis\\onedrive\\desktop\\asp.net-mvc\\onlinestore\\application\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9057D260-0BB7-4ED3-BDC0-C4D291442DB5}|Application\\Application.csproj|solutionrelative:application\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9057D260-0BB7-4ED3-BDC0-C4D291442DB5}|Application\\Application.csproj|c:\\users\\tutis\\source\\repos\\onlinestore\\application\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9057D260-0BB7-4ED3-BDC0-C4D291442DB5}|Application\\Application.csproj|c:\\users\\tutis\\onedrive\\desktop\\asp.net-mvc\\onlinestore\\application\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9057D260-0BB7-4ED3-BDC0-C4D291442DB5}|Application\\Application.csproj|solutionrelative:application\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9057D260-0BB7-4ED3-BDC0-C4D291442DB5}|Application\\Application.csproj|c:\\users\\tutis\\source\\repos\\onlinestore\\application\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9057D260-0BB7-4ED3-BDC0-C4D291442DB5}|Application\\Application.csproj|c:\\users\\tutis\\onedrive\\desktop\\asp.net-mvc\\onlinestore\\application\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9057D260-0BB7-4ED3-BDC0-C4D291442DB5}|Application\\Application.csproj|solutionrelative:application\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1341644F-9EBC-4D3E-9A38-342C78D17021}|Domain\\Domain.csproj|c:\\users\\tutis\\source\\repos\\onlinestore\\domain\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1341644F-9EBC-4D3E-9A38-342C78D17021}|Domain\\Domain.csproj|c:\\users\\tutis\\onedrive\\desktop\\asp.net-mvc\\onlinestore\\domain\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1341644F-9EBC-4D3E-9A38-342C78D17021}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1341644F-9EBC-4D3E-9A38-342C78D17021}|Domain\\Domain.csproj|c:\\users\\tutis\\source\\repos\\onlinestore\\domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1341644F-9EBC-4D3E-9A38-342C78D17021}|Domain\\Domain.csproj|c:\\users\\tutis\\onedrive\\desktop\\asp.net-mvc\\onlinestore\\domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1341644F-9EBC-4D3E-9A38-342C78D17021}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{29F1526E-7557-4081-80D2-3A80EC66070F}|WebAPI\\WebAPI.csproj|c:\\users\\tutis\\source\\repos\\onlinestore\\webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{29F1526E-7557-4081-80D2-3A80EC66070F}|WebAPI\\WebAPI.csproj|c:\\users\\tutis\\onedrive\\desktop\\asp.net-mvc\\onlinestore\\webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{29F1526E-7557-4081-80D2-3A80EC66070F}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{802D14FF-CE2A-4C68-B89E-A27A29B679C3}|WebMVC\\WebMVC.csproj|c:\\users\\tutis\\source\\repos\\onlinestore\\webmvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{802D14FF-CE2A-4C68-B89E-A27A29B679C3}|WebMVC\\WebMVC.csproj|c:\\users\\tutis\\onedrive\\desktop\\asp.net-mvc\\onlinestore\\webmvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{802D14FF-CE2A-4C68-B89E-A27A29B679C3}|WebMVC\\WebMVC.csproj|solutionrelative:webmvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{802D14FF-CE2A-4C68-B89E-A27A29B679C3}|WebMVC\\WebMVC.csproj|c:\\users\\tutis\\source\\repos\\onlinestore\\webmvc\\webmvc.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "AbsoluteMoniker": "D:0:0:{802D14FF-CE2A-4C68-B89E-A27A29B679C3}|WebMVC\\WebMVC.csproj|c:\\users\\tutis\\onedrive\\desktop\\asp.net-mvc\\onlinestore\\webmvc\\webmvc.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
       "RelativeMoniker": "D:0:0:{802D14FF-CE2A-4C68-B89E-A27A29B679C3}|WebMVC\\WebMVC.csproj|solutionrelative:webmvc\\webmvc.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{29F1526E-7557-4081-80D2-3A80EC66070F}|WebAPI\\WebAPI.csproj|c:\\users\\tutis\\source\\repos\\onlinestore\\webapi\\webapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "AbsoluteMoniker": "D:0:0:{29F1526E-7557-4081-80D2-3A80EC66070F}|WebAPI\\WebAPI.csproj|c:\\users\\tutis\\onedrive\\desktop\\asp.net-mvc\\onlinestore\\webapi\\webapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
       "RelativeMoniker": "D:0:0:{29F1526E-7557-4081-80D2-3A80EC66070F}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\webapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{29F1526E-7557-4081-80D2-3A80EC66070F}|WebAPI\\WebAPI.csproj|c:\\users\\tutis\\source\\repos\\onlinestore\\webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{29F1526E-7557-4081-80D2-3A80EC66070F}|WebAPI\\WebAPI.csproj|c:\\users\\tutis\\onedrive\\desktop\\asp.net-mvc\\onlinestore\\webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{29F1526E-7557-4081-80D2-3A80EC66070F}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{802D14FF-CE2A-4C68-B89E-A27A29B679C3}|WebMVC\\WebMVC.csproj|c:\\users\\tutis\\source\\repos\\onlinestore\\webmvc\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{802D14FF-CE2A-4C68-B89E-A27A29B679C3}|WebMVC\\WebMVC.csproj|c:\\users\\tutis\\onedrive\\desktop\\asp.net-mvc\\onlinestore\\webmvc\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{802D14FF-CE2A-4C68-B89E-A27A29B679C3}|WebMVC\\WebMVC.csproj|solutionrelative:webmvc\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{802D14FF-CE2A-4C68-B89E-A27A29B679C3}|WebMVC\\WebMVC.csproj|c:\\users\\tutis\\source\\repos\\onlinestore\\webmvc\\models\\cartitemviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{802D14FF-CE2A-4C68-B89E-A27A29B679C3}|WebMVC\\WebMVC.csproj|c:\\users\\tutis\\onedrive\\desktop\\asp.net-mvc\\onlinestore\\webmvc\\models\\cartitemviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{802D14FF-CE2A-4C68-B89E-A27A29B679C3}|WebMVC\\WebMVC.csproj|solutionrelative:webmvc\\models\\cartitemviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A60981E0-74EB-48CC-9073-A909914DA1BA}|Infrastructure\\Infrastructure.csproj|c:\\users\\tutis\\source\\repos\\onlinestore\\infrastructure\\services\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A60981E0-74EB-48CC-9073-A909914DA1BA}|Infrastructure\\Infrastructure.csproj|c:\\users\\tutis\\onedrive\\desktop\\asp.net-mvc\\onlinestore\\infrastructure\\services\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A60981E0-74EB-48CC-9073-A909914DA1BA}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\services\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9057D260-0BB7-4ED3-BDC0-C4D291442DB5}|Application\\Application.csproj|c:\\users\\tutis\\source\\repos\\onlinestore\\application\\interfaces\\icartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9057D260-0BB7-4ED3-BDC0-C4D291442DB5}|Application\\Application.csproj|c:\\users\\tutis\\onedrive\\desktop\\asp.net-mvc\\onlinestore\\application\\interfaces\\icartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9057D260-0BB7-4ED3-BDC0-C4D291442DB5}|Application\\Application.csproj|solutionrelative:application\\interfaces\\icartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9057D260-0BB7-4ED3-BDC0-C4D291442DB5}|Application\\Application.csproj|c:\\users\\tutis\\source\\repos\\onlinestore\\application\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9057D260-0BB7-4ED3-BDC0-C4D291442DB5}|Application\\Application.csproj|c:\\users\\tutis\\onedrive\\desktop\\asp.net-mvc\\onlinestore\\application\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9057D260-0BB7-4ED3-BDC0-C4D291442DB5}|Application\\Application.csproj|solutionrelative:application\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9057D260-0BB7-4ED3-BDC0-C4D291442DB5}|Application\\Application.csproj|c:\\users\\tutis\\source\\repos\\onlinestore\\application\\dtos\\addtocartdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9057D260-0BB7-4ED3-BDC0-C4D291442DB5}|Application\\Application.csproj|c:\\users\\tutis\\onedrive\\desktop\\asp.net-mvc\\onlinestore\\application\\dtos\\addtocartdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9057D260-0BB7-4ED3-BDC0-C4D291442DB5}|Application\\Application.csproj|solutionrelative:application\\dtos\\addtocartdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1341644F-9EBC-4D3E-9A38-342C78D17021}|Domain\\Domain.csproj|c:\\users\\tutis\\source\\repos\\onlinestore\\domain\\entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1341644F-9EBC-4D3E-9A38-342C78D17021}|Domain\\Domain.csproj|c:\\users\\tutis\\onedrive\\desktop\\asp.net-mvc\\onlinestore\\domain\\entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1341644F-9EBC-4D3E-9A38-342C78D17021}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1341644F-9EBC-4D3E-9A38-342C78D17021}|Domain\\Domain.csproj|c:\\users\\tutis\\source\\repos\\onlinestore\\domain\\entities\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1341644F-9EBC-4D3E-9A38-342C78D17021}|Domain\\Domain.csproj|c:\\users\\tutis\\onedrive\\desktop\\asp.net-mvc\\onlinestore\\domain\\entities\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1341644F-9EBC-4D3E-9A38-342C78D17021}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{29F1526E-7557-4081-80D2-3A80EC66070F}|WebAPI\\WebAPI.csproj|c:\\users\\tutis\\source\\repos\\onlinestore\\webapi\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{29F1526E-7557-4081-80D2-3A80EC66070F}|WebAPI\\WebAPI.csproj|c:\\users\\tutis\\onedrive\\desktop\\asp.net-mvc\\onlinestore\\webapi\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{29F1526E-7557-4081-80D2-3A80EC66070F}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{29F1526E-7557-4081-80D2-3A80EC66070F}|WebAPI\\WebAPI.csproj|c:\\users\\tutis\\source\\repos\\onlinestore\\webapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{29F1526E-7557-4081-80D2-3A80EC66070F}|WebAPI\\WebAPI.csproj|c:\\users\\tutis\\onedrive\\desktop\\asp.net-mvc\\onlinestore\\webapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{29F1526E-7557-4081-80D2-3A80EC66070F}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A60981E0-74EB-48CC-9073-A909914DA1BA}|Infrastructure\\Infrastructure.csproj|c:\\users\\tutis\\onedrive\\desktop\\asp.net-mvc\\onlinestore\\infrastructure\\migrations\\20260118141602_completerebuild.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A60981E0-74EB-48CC-9073-A909914DA1BA}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\migrations\\20260118141602_completerebuild.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -318,115 +318,71 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Orders.cshtml",
-              "DocumentMoniker": "C:\\Users\\tutis\\source\\repos\\OnlineStore\\WebMVC\\Views\\Admin\\Orders.cshtml",
-              "RelativeDocumentMoniker": "WebMVC\\Views\\Admin\\Orders.cshtml",
-              "ToolTip": "C:\\Users\\tutis\\source\\repos\\OnlineStore\\WebMVC\\Views\\Admin\\Orders.cshtml",
-              "RelativeToolTip": "WebMVC\\Views\\Admin\\Orders.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAswBUAAAABAAAAAAAAAA==",
+              "DocumentIndex": 16,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\tutis\\OneDrive\\Desktop\\ASP.NET-MVC\\OnlineStore\\WebMVC\\Views\\Home\\Details.cshtml",
+              "RelativeDocumentMoniker": "WebMVC\\Views\\Home\\Details.cshtml",
+              "ToolTip": "C:\\Users\\tutis\\OneDrive\\Desktop\\ASP.NET-MVC\\OnlineStore\\WebMVC\\Views\\Home\\Details.cshtml",
+              "RelativeToolTip": "WebMVC\\Views\\Home\\Details.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAswDsAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-18T14:23:37.969Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-17T16:42:55.823Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "OrderDetails.cshtml",
-              "DocumentMoniker": "C:\\Users\\tutis\\source\\repos\\OnlineStore\\WebMVC\\Views\\Order\\OrderDetails.cshtml",
-              "RelativeDocumentMoniker": "WebMVC\\Views\\Order\\OrderDetails.cshtml",
-              "ToolTip": "C:\\Users\\tutis\\source\\repos\\OnlineStore\\WebMVC\\Views\\Order\\OrderDetails.cshtml",
-              "RelativeToolTip": "WebMVC\\Views\\Order\\OrderDetails.cshtml",
-              "ViewState": "AgIAADUAAAAAAAAAAAAswE8AAAAGAAAAAAAAAA==",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\tutis\\OneDrive\\Desktop\\ASP.NET-MVC\\OnlineStore\\WebMVC\\Views\\Cart\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebMVC\\Views\\Cart\\Index.cshtml",
+              "ToolTip": "C:\\Users\\tutis\\OneDrive\\Desktop\\ASP.NET-MVC\\OnlineStore\\WebMVC\\Views\\Cart\\Index.cshtml",
+              "RelativeToolTip": "WebMVC\\Views\\Cart\\Index.cshtml",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAswG4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-18T14:22:57.661Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-17T16:43:26.724Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "TrackOrder.cshtml",
-              "DocumentMoniker": "C:\\Users\\tutis\\source\\repos\\OnlineStore\\WebMVC\\Views\\Order\\TrackOrder.cshtml",
-              "RelativeDocumentMoniker": "WebMVC\\Views\\Order\\TrackOrder.cshtml",
-              "ToolTip": "C:\\Users\\tutis\\source\\repos\\OnlineStore\\WebMVC\\Views\\Order\\TrackOrder.cshtml",
-              "RelativeToolTip": "WebMVC\\Views\\Order\\TrackOrder.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-18T14:22:45.289Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\tutis\\source\\repos\\OnlineStore\\WebMVC\\Views\\Home\\Details.cshtml",
-              "RelativeDocumentMoniker": "WebMVC\\Views\\Home\\Details.cshtml",
-              "ToolTip": "C:\\Users\\tutis\\source\\repos\\OnlineStore\\WebMVC\\Views\\Home\\Details.cshtml",
-              "RelativeToolTip": "WebMVC\\Views\\Home\\Details.cshtml",
-              "ViewState": "AgIAACEAAAAAAAAAAAAswDsAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-17T16:42:55.823Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\tutis\\source\\repos\\OnlineStore\\WebMVC\\Views\\Cart\\Index.cshtml",
-              "RelativeDocumentMoniker": "WebMVC\\Views\\Cart\\Index.cshtml",
-              "ToolTip": "C:\\Users\\tutis\\source\\repos\\OnlineStore\\WebMVC\\Views\\Cart\\Index.cshtml",
-              "RelativeToolTip": "WebMVC\\Views\\Cart\\Index.cshtml",
-              "ViewState": "AgIAAFQAAAAAAAAAAAAswG4AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-17T16:43:26.724Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\tutis\\source\\repos\\OnlineStore\\WebMVC\\Views\\Admin\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\tutis\\OneDrive\\Desktop\\ASP.NET-MVC\\OnlineStore\\WebMVC\\Views\\Admin\\Index.cshtml",
               "RelativeDocumentMoniker": "WebMVC\\Views\\Admin\\Index.cshtml",
-              "ToolTip": "C:\\Users\\tutis\\source\\repos\\OnlineStore\\WebMVC\\Views\\Admin\\Index.cshtml",
+              "ToolTip": "C:\\Users\\tutis\\OneDrive\\Desktop\\ASP.NET-MVC\\OnlineStore\\WebMVC\\Views\\Admin\\Index.cshtml",
               "RelativeToolTip": "WebMVC\\Views\\Admin\\Index.cshtml",
               "ViewState": "AgIAAD4AAAAAAAAAAAAswFgAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-17T16:46:21.266Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-17T16:46:21.266Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "site.css",
-              "DocumentMoniker": "C:\\Users\\tutis\\source\\repos\\OnlineStore\\WebMVC\\wwwroot\\css\\site.css",
+              "DocumentMoniker": "C:\\Users\\tutis\\OneDrive\\Desktop\\ASP.NET-MVC\\OnlineStore\\WebMVC\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "WebMVC\\wwwroot\\css\\site.css",
-              "ToolTip": "C:\\Users\\tutis\\source\\repos\\OnlineStore\\WebMVC\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\tutis\\OneDrive\\Desktop\\ASP.NET-MVC\\OnlineStore\\WebMVC\\wwwroot\\css\\site.css",
               "RelativeToolTip": "WebMVC\\wwwroot\\css\\site.css",
               "ViewState": "AgIAAAgFAAAAAAAAAAAmwCMFAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2026-01-17T16:47:06.565Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-17T16:47:06.565Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "site.js",
-              "DocumentMoniker": "C:\\Users\\tutis\\source\\repos\\OnlineStore\\WebMVC\\wwwroot\\js\\site.js",
+              "DocumentMoniker": "C:\\Users\\tutis\\OneDrive\\Desktop\\ASP.NET-MVC\\OnlineStore\\WebMVC\\wwwroot\\js\\site.js",
               "RelativeDocumentMoniker": "WebMVC\\wwwroot\\js\\site.js",
-              "ToolTip": "C:\\Users\\tutis\\source\\repos\\OnlineStore\\WebMVC\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\tutis\\OneDrive\\Desktop\\ASP.NET-MVC\\OnlineStore\\WebMVC\\wwwroot\\js\\site.js",
               "RelativeToolTip": "WebMVC\\wwwroot\\js\\site.js",
               "ViewState": "AgIAAFAAAAAAAAAAAAAswGEAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2026-01-17T16:47:25.025Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-17T16:47:25.025Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\tutis\\source\\repos\\OnlineStore\\WebMVC\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\tutis\\OneDrive\\Desktop\\ASP.NET-MVC\\OnlineStore\\WebMVC\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "WebMVC\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\tutis\\source\\repos\\OnlineStore\\WebMVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\tutis\\OneDrive\\Desktop\\ASP.NET-MVC\\OnlineStore\\WebMVC\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "WebMVC\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAADUAAAAAAAAAAAAwwE8AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -434,664 +390,654 @@
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "_ValidationScriptsPartial.cshtml",
-              "DocumentMoniker": "C:\\Users\\tutis\\source\\repos\\OnlineStore\\WebMVC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeDocumentMoniker": "WebMVC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ToolTip": "C:\\Users\\tutis\\source\\repos\\OnlineStore\\WebMVC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeToolTip": "WebMVC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-18T14:25:42.225Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Users.cshtml",
-              "DocumentMoniker": "C:\\Users\\tutis\\source\\repos\\OnlineStore\\WebMVC\\Views\\Admin\\Users.cshtml",
-              "RelativeDocumentMoniker": "WebMVC\\Views\\Admin\\Users.cshtml",
-              "ToolTip": "C:\\Users\\tutis\\source\\repos\\OnlineStore\\WebMVC\\Views\\Admin\\Users.cshtml",
-              "RelativeToolTip": "WebMVC\\Views\\Admin\\Users.cshtml",
-              "ViewState": "AgIAADgAAAAAAAAAAAAswFIAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-18T14:23:51.824Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\tutis\\source\\repos\\OnlineStore\\WebMVC\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "WebMVC\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\tutis\\source\\repos\\OnlineStore\\WebMVC\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "WebMVC\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAACMAAAAAAAAAAAAswD0AAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-17T16:42:39.688Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\tutis\\source\\repos\\OnlineStore\\WebMVC\\Views\\Admin\\Create.cshtml",
-              "RelativeDocumentMoniker": "WebMVC\\Views\\Admin\\Create.cshtml",
-              "ToolTip": "C:\\Users\\tutis\\source\\repos\\OnlineStore\\WebMVC\\Views\\Admin\\Create.cshtml",
-              "RelativeToolTip": "WebMVC\\Views\\Admin\\Create.cshtml",
-              "ViewState": "AgIAACkAAAAAAAAAAAAswEMAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-17T16:46:34.891Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\tutis\\source\\repos\\OnlineStore\\WebMVC\\Views\\Admin\\Edit.cshtml",
-              "RelativeDocumentMoniker": "WebMVC\\Views\\Admin\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\tutis\\source\\repos\\OnlineStore\\WebMVC\\Views\\Admin\\Edit.cshtml",
-              "RelativeToolTip": "WebMVC\\Views\\Admin\\Edit.cshtml",
-              "ViewState": "AgIAACgAAAAAAAAAAAAswEIAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-17T16:46:49.459Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "MyOrders.cshtml",
-              "DocumentMoniker": "C:\\Users\\tutis\\source\\repos\\OnlineStore\\WebMVC\\Views\\Account\\MyOrders.cshtml",
-              "RelativeDocumentMoniker": "WebMVC\\Views\\Account\\MyOrders.cshtml",
-              "ToolTip": "C:\\Users\\tutis\\source\\repos\\OnlineStore\\WebMVC\\Views\\Account\\MyOrders.cshtml",
-              "RelativeToolTip": "WebMVC\\Views\\Account\\MyOrders.cshtml",
-              "ViewState": "AgIAACgAAAAAAAAAAAAswEIAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-18T14:21:51.783Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "AccessDenied.cshtml",
-              "DocumentMoniker": "C:\\Users\\tutis\\source\\repos\\OnlineStore\\WebMVC\\Views\\Account\\AccessDenied.cshtml",
-              "RelativeDocumentMoniker": "WebMVC\\Views\\Account\\AccessDenied.cshtml",
-              "ToolTip": "C:\\Users\\tutis\\source\\repos\\OnlineStore\\WebMVC\\Views\\Account\\AccessDenied.cshtml",
-              "RelativeToolTip": "WebMVC\\Views\\Account\\AccessDenied.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-18T14:21:37.941Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\Users\\tutis\\source\\repos\\OnlineStore\\WebMVC\\Views\\Account\\Login.cshtml",
-              "RelativeDocumentMoniker": "WebMVC\\Views\\Account\\Login.cshtml",
-              "ToolTip": "C:\\Users\\tutis\\source\\repos\\OnlineStore\\WebMVC\\Views\\Account\\Login.cshtml",
-              "RelativeToolTip": "WebMVC\\Views\\Account\\Login.cshtml",
-              "ViewState": "AgIAABcAAAAAAAAAAAAswDEAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-18T14:21:24.309Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Checkout.cshtml",
-              "DocumentMoniker": "C:\\Users\\tutis\\source\\repos\\OnlineStore\\WebMVC\\Views\\Order\\Checkout.cshtml",
-              "RelativeDocumentMoniker": "WebMVC\\Views\\Order\\Checkout.cshtml",
-              "ToolTip": "C:\\Users\\tutis\\source\\repos\\OnlineStore\\WebMVC\\Views\\Order\\Checkout.cshtml",
-              "RelativeToolTip": "WebMVC\\Views\\Order\\Checkout.cshtml",
-              "ViewState": "AgIAACEAAAAAAAAAAAAswDsAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-17T16:43:49.378Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Success.cshtml",
-              "DocumentMoniker": "C:\\Users\\tutis\\source\\repos\\OnlineStore\\WebMVC\\Views\\Order\\Success.cshtml",
-              "RelativeDocumentMoniker": "WebMVC\\Views\\Order\\Success.cshtml",
-              "ToolTip": "C:\\Users\\tutis\\source\\repos\\OnlineStore\\WebMVC\\Views\\Order\\Success.cshtml",
-              "RelativeToolTip": "WebMVC\\Views\\Order\\Success.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAswCAAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-17T16:44:04.745Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "Register.cshtml",
-              "DocumentMoniker": "C:\\Users\\tutis\\source\\repos\\OnlineStore\\WebMVC\\Views\\Account\\Register.cshtml",
-              "RelativeDocumentMoniker": "WebMVC\\Views\\Account\\Register.cshtml",
-              "ToolTip": "C:\\Users\\tutis\\source\\repos\\OnlineStore\\WebMVC\\Views\\Account\\Register.cshtml",
-              "RelativeToolTip": "WebMVC\\Views\\Account\\Register.cshtml",
-              "ViewState": "AgIAACoAAAAAAAAAAAAswEQAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-18T14:21:08.632Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "CartController.cs",
-              "DocumentMoniker": "C:\\Users\\tutis\\source\\repos\\OnlineStore\\WebMVC\\Controllers\\CartController.cs",
-              "RelativeDocumentMoniker": "WebMVC\\Controllers\\CartController.cs",
-              "ToolTip": "C:\\Users\\tutis\\source\\repos\\OnlineStore\\WebMVC\\Controllers\\CartController.cs",
-              "RelativeToolTip": "WebMVC\\Controllers\\CartController.cs",
-              "ViewState": "AgIAAFMAAAAAAAAAAAAwwG0AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-17T16:41:42.9Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "AccountController.cs",
-              "DocumentMoniker": "C:\\Users\\tutis\\source\\repos\\OnlineStore\\WebMVC\\Controllers\\AccountController.cs",
-              "RelativeDocumentMoniker": "WebMVC\\Controllers\\AccountController.cs",
-              "ToolTip": "C:\\Users\\tutis\\source\\repos\\OnlineStore\\WebMVC\\Controllers\\AccountController.cs",
-              "RelativeToolTip": "WebMVC\\Controllers\\AccountController.cs",
-              "ViewState": "AgIAAGwAAAAAAAAAAAAwwIYAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-18T14:19:57.634Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "SessionHelper.cs",
-              "DocumentMoniker": "C:\\Users\\tutis\\source\\repos\\OnlineStore\\WebMVC\\Helpers\\SessionHelper.cs",
-              "RelativeDocumentMoniker": "WebMVC\\Helpers\\SessionHelper.cs",
-              "ToolTip": "C:\\Users\\tutis\\source\\repos\\OnlineStore\\WebMVC\\Helpers\\SessionHelper.cs",
-              "RelativeToolTip": "WebMVC\\Helpers\\SessionHelper.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-18T14:19:21.236Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\tutis\\source\\repos\\OnlineStore\\WebMVC\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "WebMVC\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\tutis\\source\\repos\\OnlineStore\\WebMVC\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "WebMVC\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAwwCsAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-17T16:41:26.861Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "OrderController.cs",
-              "DocumentMoniker": "C:\\Users\\tutis\\source\\repos\\OnlineStore\\WebMVC\\Controllers\\OrderController.cs",
-              "RelativeDocumentMoniker": "WebMVC\\Controllers\\OrderController.cs",
-              "ToolTip": "C:\\Users\\tutis\\source\\repos\\OnlineStore\\WebMVC\\Controllers\\OrderController.cs",
-              "RelativeToolTip": "WebMVC\\Controllers\\OrderController.cs",
-              "ViewState": "AgIAAFoAAAAAAAAAAAAwwHQAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-17T16:41:58.314Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 2,
               "Title": "AdminController.cs",
-              "DocumentMoniker": "C:\\Users\\tutis\\source\\repos\\OnlineStore\\WebMVC\\Controllers\\AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\tutis\\OneDrive\\Desktop\\ASP.NET-MVC\\OnlineStore\\WebMVC\\Controllers\\AdminController.cs",
               "RelativeDocumentMoniker": "WebMVC\\Controllers\\AdminController.cs",
-              "ToolTip": "C:\\Users\\tutis\\source\\repos\\OnlineStore\\WebMVC\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\tutis\\OneDrive\\Desktop\\ASP.NET-MVC\\OnlineStore\\WebMVC\\Controllers\\AdminController.cs",
               "RelativeToolTip": "WebMVC\\Controllers\\AdminController.cs",
-              "ViewState": "AgIAALMAAAAAAAAAAAAwwM0AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAH0AAAAAAAAAAAAqwJQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-17T16:42:12.359Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "OrderItemViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\tutis\\source\\repos\\OnlineStore\\WebMVC\\Models\\OrderItemViewModel.cs",
-              "RelativeDocumentMoniker": "WebMVC\\Models\\OrderItemViewModel.cs",
-              "ToolTip": "C:\\Users\\tutis\\source\\repos\\OnlineStore\\WebMVC\\Models\\OrderItemViewModel.cs",
-              "RelativeToolTip": "WebMVC\\Models\\OrderItemViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-18T14:18:30.833Z",
+              "DocumentIndex": 1,
+              "Title": "Orders.cshtml",
+              "DocumentMoniker": "C:\\Users\\tutis\\OneDrive\\Desktop\\ASP.NET-MVC\\OnlineStore\\WebMVC\\Views\\Admin\\Orders.cshtml",
+              "RelativeDocumentMoniker": "WebMVC\\Views\\Admin\\Orders.cshtml",
+              "ToolTip": "C:\\Users\\tutis\\OneDrive\\Desktop\\ASP.NET-MVC\\OnlineStore\\WebMVC\\Views\\Admin\\Orders.cshtml",
+              "RelativeToolTip": "WebMVC\\Views\\Admin\\Orders.cshtml",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAAAGUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-18T14:23:37.969Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "OrderDetailsViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\tutis\\source\\repos\\OnlineStore\\WebMVC\\Models\\OrderDetailsViewModel.cs",
-              "RelativeDocumentMoniker": "WebMVC\\Models\\OrderDetailsViewModel.cs",
-              "ToolTip": "C:\\Users\\tutis\\source\\repos\\OnlineStore\\WebMVC\\Models\\OrderDetailsViewModel.cs",
-              "RelativeToolTip": "WebMVC\\Models\\OrderDetailsViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-18T14:18:16.09Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "UserViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\tutis\\source\\repos\\OnlineStore\\WebMVC\\Models\\UserViewModel.cs",
-              "RelativeDocumentMoniker": "WebMVC\\Models\\UserViewModel.cs",
-              "ToolTip": "C:\\Users\\tutis\\source\\repos\\OnlineStore\\WebMVC\\Models\\UserViewModel.cs",
-              "RelativeToolTip": "WebMVC\\Models\\UserViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-18T14:17:52.227Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "LoginViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\tutis\\source\\repos\\OnlineStore\\WebMVC\\Models\\LoginViewModel.cs",
-              "RelativeDocumentMoniker": "WebMVC\\Models\\LoginViewModel.cs",
-              "ToolTip": "C:\\Users\\tutis\\source\\repos\\OnlineStore\\WebMVC\\Models\\LoginViewModel.cs",
-              "RelativeToolTip": "WebMVC\\Models\\LoginViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-18T14:17:43.596Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "ProductViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\tutis\\source\\repos\\OnlineStore\\WebMVC\\Models\\ProductViewModel.cs",
-              "RelativeDocumentMoniker": "WebMVC\\Models\\ProductViewModel.cs",
-              "ToolTip": "C:\\Users\\tutis\\source\\repos\\OnlineStore\\WebMVC\\Models\\ProductViewModel.cs",
-              "RelativeToolTip": "WebMVC\\Models\\ProductViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-17T16:40:23.68Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\tutis\\source\\repos\\OnlineStore\\WebMVC\\Program.cs",
-              "RelativeDocumentMoniker": "WebMVC\\Program.cs",
-              "ToolTip": "C:\\Users\\tutis\\source\\repos\\OnlineStore\\WebMVC\\Program.cs",
-              "RelativeToolTip": "WebMVC\\Program.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAwwDYAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-17T16:41:07.654Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "CreateProductViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\tutis\\source\\repos\\OnlineStore\\WebMVC\\Models\\CreateProductViewModel.cs",
-              "RelativeDocumentMoniker": "WebMVC\\Models\\CreateProductViewModel.cs",
-              "ToolTip": "C:\\Users\\tutis\\source\\repos\\OnlineStore\\WebMVC\\Models\\CreateProductViewModel.cs",
-              "RelativeToolTip": "WebMVC\\Models\\CreateProductViewModel.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAwwCQAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-17T16:40:34.386Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "RegisterViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\tutis\\source\\repos\\OnlineStore\\WebMVC\\Models\\RegisterViewModel.cs",
-              "RelativeDocumentMoniker": "WebMVC\\Models\\RegisterViewModel.cs",
-              "ToolTip": "C:\\Users\\tutis\\source\\repos\\OnlineStore\\WebMVC\\Models\\RegisterViewModel.cs",
-              "RelativeToolTip": "WebMVC\\Models\\RegisterViewModel.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-18T14:17:29.348Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "20260118141602_CompleteRebuild.cs",
-              "DocumentMoniker": "C:\\Users\\tutis\\source\\repos\\OnlineStore\\Infrastructure\\Migrations\\20260118141602_CompleteRebuild.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Migrations\\20260118141602_CompleteRebuild.cs",
-              "ToolTip": "C:\\Users\\tutis\\source\\repos\\OnlineStore\\Infrastructure\\Migrations\\20260118141602_CompleteRebuild.cs",
-              "RelativeToolTip": "Infrastructure\\Migrations\\20260118141602_CompleteRebuild.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-18T14:16:02.955Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 43,
-              "Title": "DbSeeder.cs",
-              "DocumentMoniker": "C:\\Users\\tutis\\source\\repos\\OnlineStore\\Infrastructure\\Data\\DbSeeder.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Data\\DbSeeder.cs",
-              "ToolTip": "C:\\Users\\tutis\\source\\repos\\OnlineStore\\Infrastructure\\Data\\DbSeeder.cs",
-              "RelativeToolTip": "Infrastructure\\Data\\DbSeeder.cs",
-              "ViewState": "AgIAAEgAAAAAAAAAAIAwwFYAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-18T14:11:12.98Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 42,
-              "Title": "ProductDto.cs",
-              "DocumentMoniker": "C:\\Users\\tutis\\source\\repos\\OnlineStore\\Application\\DTOs\\ProductDto.cs",
-              "RelativeDocumentMoniker": "Application\\DTOs\\ProductDto.cs",
-              "ToolTip": "C:\\Users\\tutis\\source\\repos\\OnlineStore\\Application\\DTOs\\ProductDto.cs",
-              "RelativeToolTip": "Application\\DTOs\\ProductDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-17T16:28:27.639Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "OrderViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\tutis\\source\\repos\\OnlineStore\\WebMVC\\Models\\OrderViewModel.cs",
-              "RelativeDocumentMoniker": "WebMVC\\Models\\OrderViewModel.cs",
-              "ToolTip": "C:\\Users\\tutis\\source\\repos\\OnlineStore\\WebMVC\\Models\\OrderViewModel.cs",
-              "RelativeToolTip": "WebMVC\\Models\\OrderViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAwwBoAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-17T16:40:58.337Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 44,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\tutis\\source\\repos\\OnlineStore\\WebAPI\\Program.cs",
-              "RelativeDocumentMoniker": "WebAPI\\Program.cs",
-              "ToolTip": "C:\\Users\\tutis\\source\\repos\\OnlineStore\\WebAPI\\Program.cs",
-              "RelativeToolTip": "WebAPI\\Program.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAAADYAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-17T16:31:14.564Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 41,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\tutis\\source\\repos\\OnlineStore\\Domain\\Entities\\Product.cs",
-              "RelativeDocumentMoniker": "Domain\\Entities\\Product.cs",
-              "ToolTip": "C:\\Users\\tutis\\source\\repos\\OnlineStore\\Domain\\Entities\\Product.cs",
-              "RelativeToolTip": "Domain\\Entities\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-17T16:27:18.113Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 40,
-              "Title": "CartItemDto.cs",
-              "DocumentMoniker": "C:\\Users\\tutis\\source\\repos\\OnlineStore\\Application\\DTOs\\CartItemDto.cs",
-              "RelativeDocumentMoniker": "Application\\DTOs\\CartItemDto.cs",
-              "ToolTip": "C:\\Users\\tutis\\source\\repos\\OnlineStore\\Application\\DTOs\\CartItemDto.cs",
-              "RelativeToolTip": "Application\\DTOs\\CartItemDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-17T16:28:44.763Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 39,
-              "Title": "CreateProductDto.cs",
-              "DocumentMoniker": "C:\\Users\\tutis\\source\\repos\\OnlineStore\\Application\\DTOs\\CreateProductDto.cs",
-              "RelativeDocumentMoniker": "Application\\DTOs\\CreateProductDto.cs",
-              "ToolTip": "C:\\Users\\tutis\\source\\repos\\OnlineStore\\Application\\DTOs\\CreateProductDto.cs",
-              "RelativeToolTip": "Application\\DTOs\\CreateProductDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-17T16:28:36.156Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 38,
-              "Title": "OrderDto.cs",
-              "DocumentMoniker": "C:\\Users\\tutis\\source\\repos\\OnlineStore\\Application\\DTOs\\OrderDto.cs",
-              "RelativeDocumentMoniker": "Application\\DTOs\\OrderDto.cs",
-              "ToolTip": "C:\\Users\\tutis\\source\\repos\\OnlineStore\\Application\\DTOs\\OrderDto.cs",
-              "RelativeToolTip": "Application\\DTOs\\OrderDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAUwAsAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-17T16:29:01.545Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 0,
               "Title": "ApiService.cs",
-              "DocumentMoniker": "C:\\Users\\tutis\\source\\repos\\OnlineStore\\WebMVC\\Services\\ApiService.cs",
+              "DocumentMoniker": "C:\\Users\\tutis\\OneDrive\\Desktop\\ASP.NET-MVC\\OnlineStore\\WebMVC\\Services\\ApiService.cs",
               "RelativeDocumentMoniker": "WebMVC\\Services\\ApiService.cs",
-              "ToolTip": "C:\\Users\\tutis\\source\\repos\\OnlineStore\\WebMVC\\Services\\ApiService.cs",
+              "ToolTip": "C:\\Users\\tutis\\OneDrive\\Desktop\\ASP.NET-MVC\\OnlineStore\\WebMVC\\Services\\ApiService.cs",
               "RelativeToolTip": "WebMVC\\Services\\ApiService.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAA9wEEAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAACgAAAAAAAAAAAAowEEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-17T16:39:56.53Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TrackOrder.cshtml",
+              "DocumentMoniker": "C:\\Users\\tutis\\OneDrive\\Desktop\\ASP.NET-MVC\\OnlineStore\\WebMVC\\Views\\Order\\TrackOrder.cshtml",
+              "RelativeDocumentMoniker": "WebMVC\\Views\\Order\\TrackOrder.cshtml",
+              "ToolTip": "C:\\Users\\tutis\\OneDrive\\Desktop\\ASP.NET-MVC\\OnlineStore\\WebMVC\\Views\\Order\\TrackOrder.cshtml",
+              "RelativeToolTip": "WebMVC\\Views\\Order\\TrackOrder.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-18T14:22:45.289Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "OrderDetails.cshtml",
+              "DocumentMoniker": "C:\\Users\\tutis\\OneDrive\\Desktop\\ASP.NET-MVC\\OnlineStore\\WebMVC\\Views\\Order\\OrderDetails.cshtml",
+              "RelativeDocumentMoniker": "WebMVC\\Views\\Order\\OrderDetails.cshtml",
+              "ToolTip": "C:\\Users\\tutis\\OneDrive\\Desktop\\ASP.NET-MVC\\OnlineStore\\WebMVC\\Views\\Order\\OrderDetails.cshtml",
+              "RelativeToolTip": "WebMVC\\Views\\Order\\OrderDetails.cshtml",
+              "ViewState": "AgIAADUAAAAAAAAAAAAswE8AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-18T14:22:57.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\tutis\\OneDrive\\Desktop\\ASP.NET-MVC\\OnlineStore\\WebMVC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "WebMVC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\tutis\\OneDrive\\Desktop\\ASP.NET-MVC\\OnlineStore\\WebMVC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "WebMVC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-18T14:25:42.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Users.cshtml",
+              "DocumentMoniker": "C:\\Users\\tutis\\OneDrive\\Desktop\\ASP.NET-MVC\\OnlineStore\\WebMVC\\Views\\Admin\\Users.cshtml",
+              "RelativeDocumentMoniker": "WebMVC\\Views\\Admin\\Users.cshtml",
+              "ToolTip": "C:\\Users\\tutis\\OneDrive\\Desktop\\ASP.NET-MVC\\OnlineStore\\WebMVC\\Views\\Admin\\Users.cshtml",
+              "RelativeToolTip": "WebMVC\\Views\\Admin\\Users.cshtml",
+              "ViewState": "AgIAADgAAAAAAAAAAAAswFIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-18T14:23:51.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\tutis\\OneDrive\\Desktop\\ASP.NET-MVC\\OnlineStore\\WebMVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebMVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\tutis\\OneDrive\\Desktop\\ASP.NET-MVC\\OnlineStore\\WebMVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WebMVC\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAACMAAAAAAAAAAAAswD0AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-17T16:42:39.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\tutis\\OneDrive\\Desktop\\ASP.NET-MVC\\OnlineStore\\WebMVC\\Views\\Admin\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebMVC\\Views\\Admin\\Create.cshtml",
+              "ToolTip": "C:\\Users\\tutis\\OneDrive\\Desktop\\ASP.NET-MVC\\OnlineStore\\WebMVC\\Views\\Admin\\Create.cshtml",
+              "RelativeToolTip": "WebMVC\\Views\\Admin\\Create.cshtml",
+              "ViewState": "AgIAACkAAAAAAAAAAAAswEMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-17T16:46:34.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\tutis\\OneDrive\\Desktop\\ASP.NET-MVC\\OnlineStore\\WebMVC\\Views\\Admin\\Edit.cshtml",
+              "RelativeDocumentMoniker": "WebMVC\\Views\\Admin\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\tutis\\OneDrive\\Desktop\\ASP.NET-MVC\\OnlineStore\\WebMVC\\Views\\Admin\\Edit.cshtml",
+              "RelativeToolTip": "WebMVC\\Views\\Admin\\Edit.cshtml",
+              "ViewState": "AgIAACgAAAAAAAAAAAAswEIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-17T16:46:49.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MyOrders.cshtml",
+              "DocumentMoniker": "C:\\Users\\tutis\\OneDrive\\Desktop\\ASP.NET-MVC\\OnlineStore\\WebMVC\\Views\\Account\\MyOrders.cshtml",
+              "RelativeDocumentMoniker": "WebMVC\\Views\\Account\\MyOrders.cshtml",
+              "ToolTip": "C:\\Users\\tutis\\OneDrive\\Desktop\\ASP.NET-MVC\\OnlineStore\\WebMVC\\Views\\Account\\MyOrders.cshtml",
+              "RelativeToolTip": "WebMVC\\Views\\Account\\MyOrders.cshtml",
+              "ViewState": "AgIAACgAAAAAAAAAAAAswEIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-18T14:21:51.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AccessDenied.cshtml",
+              "DocumentMoniker": "C:\\Users\\tutis\\OneDrive\\Desktop\\ASP.NET-MVC\\OnlineStore\\WebMVC\\Views\\Account\\AccessDenied.cshtml",
+              "RelativeDocumentMoniker": "WebMVC\\Views\\Account\\AccessDenied.cshtml",
+              "ToolTip": "C:\\Users\\tutis\\OneDrive\\Desktop\\ASP.NET-MVC\\OnlineStore\\WebMVC\\Views\\Account\\AccessDenied.cshtml",
+              "RelativeToolTip": "WebMVC\\Views\\Account\\AccessDenied.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-18T14:21:37.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\tutis\\OneDrive\\Desktop\\ASP.NET-MVC\\OnlineStore\\WebMVC\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "WebMVC\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\tutis\\OneDrive\\Desktop\\ASP.NET-MVC\\OnlineStore\\WebMVC\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "WebMVC\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAABcAAAAAAAAAAAAswDEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-18T14:21:24.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Checkout.cshtml",
+              "DocumentMoniker": "C:\\Users\\tutis\\OneDrive\\Desktop\\ASP.NET-MVC\\OnlineStore\\WebMVC\\Views\\Order\\Checkout.cshtml",
+              "RelativeDocumentMoniker": "WebMVC\\Views\\Order\\Checkout.cshtml",
+              "ToolTip": "C:\\Users\\tutis\\OneDrive\\Desktop\\ASP.NET-MVC\\OnlineStore\\WebMVC\\Views\\Order\\Checkout.cshtml",
+              "RelativeToolTip": "WebMVC\\Views\\Order\\Checkout.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAswDsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-17T16:43:49.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Success.cshtml",
+              "DocumentMoniker": "C:\\Users\\tutis\\OneDrive\\Desktop\\ASP.NET-MVC\\OnlineStore\\WebMVC\\Views\\Order\\Success.cshtml",
+              "RelativeDocumentMoniker": "WebMVC\\Views\\Order\\Success.cshtml",
+              "ToolTip": "C:\\Users\\tutis\\OneDrive\\Desktop\\ASP.NET-MVC\\OnlineStore\\WebMVC\\Views\\Order\\Success.cshtml",
+              "RelativeToolTip": "WebMVC\\Views\\Order\\Success.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAswCAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-17T16:44:04.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\tutis\\OneDrive\\Desktop\\ASP.NET-MVC\\OnlineStore\\WebMVC\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "WebMVC\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\tutis\\OneDrive\\Desktop\\ASP.NET-MVC\\OnlineStore\\WebMVC\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "WebMVC\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAAAswEQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-18T14:21:08.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\tutis\\OneDrive\\Desktop\\ASP.NET-MVC\\OnlineStore\\WebMVC\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "WebMVC\\Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\tutis\\OneDrive\\Desktop\\ASP.NET-MVC\\OnlineStore\\WebMVC\\Controllers\\CartController.cs",
+              "RelativeToolTip": "WebMVC\\Controllers\\CartController.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAwwG0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T16:41:42.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\tutis\\OneDrive\\Desktop\\ASP.NET-MVC\\OnlineStore\\WebMVC\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "WebMVC\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\tutis\\OneDrive\\Desktop\\ASP.NET-MVC\\OnlineStore\\WebMVC\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "WebMVC\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAwwIYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T14:19:57.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "SessionHelper.cs",
+              "DocumentMoniker": "C:\\Users\\tutis\\OneDrive\\Desktop\\ASP.NET-MVC\\OnlineStore\\WebMVC\\Helpers\\SessionHelper.cs",
+              "RelativeDocumentMoniker": "WebMVC\\Helpers\\SessionHelper.cs",
+              "ToolTip": "C:\\Users\\tutis\\OneDrive\\Desktop\\ASP.NET-MVC\\OnlineStore\\WebMVC\\Helpers\\SessionHelper.cs",
+              "RelativeToolTip": "WebMVC\\Helpers\\SessionHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T14:19:21.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\tutis\\OneDrive\\Desktop\\ASP.NET-MVC\\OnlineStore\\WebMVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebMVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\tutis\\OneDrive\\Desktop\\ASP.NET-MVC\\OnlineStore\\WebMVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebMVC\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAwwCsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T16:41:26.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\tutis\\OneDrive\\Desktop\\ASP.NET-MVC\\OnlineStore\\WebMVC\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "WebMVC\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\tutis\\OneDrive\\Desktop\\ASP.NET-MVC\\OnlineStore\\WebMVC\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "WebMVC\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAwwHQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T16:41:58.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "OrderItemViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\tutis\\OneDrive\\Desktop\\ASP.NET-MVC\\OnlineStore\\WebMVC\\Models\\OrderItemViewModel.cs",
+              "RelativeDocumentMoniker": "WebMVC\\Models\\OrderItemViewModel.cs",
+              "ToolTip": "C:\\Users\\tutis\\OneDrive\\Desktop\\ASP.NET-MVC\\OnlineStore\\WebMVC\\Models\\OrderItemViewModel.cs",
+              "RelativeToolTip": "WebMVC\\Models\\OrderItemViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T14:18:30.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "OrderDetailsViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\tutis\\OneDrive\\Desktop\\ASP.NET-MVC\\OnlineStore\\WebMVC\\Models\\OrderDetailsViewModel.cs",
+              "RelativeDocumentMoniker": "WebMVC\\Models\\OrderDetailsViewModel.cs",
+              "ToolTip": "C:\\Users\\tutis\\OneDrive\\Desktop\\ASP.NET-MVC\\OnlineStore\\WebMVC\\Models\\OrderDetailsViewModel.cs",
+              "RelativeToolTip": "WebMVC\\Models\\OrderDetailsViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T14:18:16.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "UserViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\tutis\\OneDrive\\Desktop\\ASP.NET-MVC\\OnlineStore\\WebMVC\\Models\\UserViewModel.cs",
+              "RelativeDocumentMoniker": "WebMVC\\Models\\UserViewModel.cs",
+              "ToolTip": "C:\\Users\\tutis\\OneDrive\\Desktop\\ASP.NET-MVC\\OnlineStore\\WebMVC\\Models\\UserViewModel.cs",
+              "RelativeToolTip": "WebMVC\\Models\\UserViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T14:17:52.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\tutis\\OneDrive\\Desktop\\ASP.NET-MVC\\OnlineStore\\WebMVC\\Models\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "WebMVC\\Models\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\tutis\\OneDrive\\Desktop\\ASP.NET-MVC\\OnlineStore\\WebMVC\\Models\\LoginViewModel.cs",
+              "RelativeToolTip": "WebMVC\\Models\\LoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T14:17:43.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ProductViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\tutis\\OneDrive\\Desktop\\ASP.NET-MVC\\OnlineStore\\WebMVC\\Models\\ProductViewModel.cs",
+              "RelativeDocumentMoniker": "WebMVC\\Models\\ProductViewModel.cs",
+              "ToolTip": "C:\\Users\\tutis\\OneDrive\\Desktop\\ASP.NET-MVC\\OnlineStore\\WebMVC\\Models\\ProductViewModel.cs",
+              "RelativeToolTip": "WebMVC\\Models\\ProductViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T16:40:23.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tutis\\OneDrive\\Desktop\\ASP.NET-MVC\\OnlineStore\\WebMVC\\Program.cs",
+              "RelativeDocumentMoniker": "WebMVC\\Program.cs",
+              "ToolTip": "C:\\Users\\tutis\\OneDrive\\Desktop\\ASP.NET-MVC\\OnlineStore\\WebMVC\\Program.cs",
+              "RelativeToolTip": "WebMVC\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAwwDYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T16:41:07.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "CreateProductViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\tutis\\OneDrive\\Desktop\\ASP.NET-MVC\\OnlineStore\\WebMVC\\Models\\CreateProductViewModel.cs",
+              "RelativeDocumentMoniker": "WebMVC\\Models\\CreateProductViewModel.cs",
+              "ToolTip": "C:\\Users\\tutis\\OneDrive\\Desktop\\ASP.NET-MVC\\OnlineStore\\WebMVC\\Models\\CreateProductViewModel.cs",
+              "RelativeToolTip": "WebMVC\\Models\\CreateProductViewModel.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAwwCQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T16:40:34.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\tutis\\OneDrive\\Desktop\\ASP.NET-MVC\\OnlineStore\\WebMVC\\Models\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "WebMVC\\Models\\RegisterViewModel.cs",
+              "ToolTip": "C:\\Users\\tutis\\OneDrive\\Desktop\\ASP.NET-MVC\\OnlineStore\\WebMVC\\Models\\RegisterViewModel.cs",
+              "RelativeToolTip": "WebMVC\\Models\\RegisterViewModel.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T14:17:29.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "20260118141602_CompleteRebuild.cs",
+              "DocumentMoniker": "C:\\Users\\tutis\\OneDrive\\Desktop\\ASP.NET-MVC\\OnlineStore\\Infrastructure\\Migrations\\20260118141602_CompleteRebuild.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Migrations\\20260118141602_CompleteRebuild.cs",
+              "ToolTip": "C:\\Users\\tutis\\OneDrive\\Desktop\\ASP.NET-MVC\\OnlineStore\\Infrastructure\\Migrations\\20260118141602_CompleteRebuild.cs",
+              "RelativeToolTip": "Infrastructure\\Migrations\\20260118141602_CompleteRebuild.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T14:16:02.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "DbSeeder.cs",
+              "DocumentMoniker": "C:\\Users\\tutis\\OneDrive\\Desktop\\ASP.NET-MVC\\OnlineStore\\Infrastructure\\Data\\DbSeeder.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Data\\DbSeeder.cs",
+              "ToolTip": "C:\\Users\\tutis\\OneDrive\\Desktop\\ASP.NET-MVC\\OnlineStore\\Infrastructure\\Data\\DbSeeder.cs",
+              "RelativeToolTip": "Infrastructure\\Data\\DbSeeder.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAIAwwFYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T14:11:12.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\tutis\\OneDrive\\Desktop\\ASP.NET-MVC\\OnlineStore\\Application\\DTOs\\ProductDto.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\ProductDto.cs",
+              "ToolTip": "C:\\Users\\tutis\\OneDrive\\Desktop\\ASP.NET-MVC\\OnlineStore\\Application\\DTOs\\ProductDto.cs",
+              "RelativeToolTip": "Application\\DTOs\\ProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T16:28:27.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "OrderViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\tutis\\OneDrive\\Desktop\\ASP.NET-MVC\\OnlineStore\\WebMVC\\Models\\OrderViewModel.cs",
+              "RelativeDocumentMoniker": "WebMVC\\Models\\OrderViewModel.cs",
+              "ToolTip": "C:\\Users\\tutis\\OneDrive\\Desktop\\ASP.NET-MVC\\OnlineStore\\WebMVC\\Models\\OrderViewModel.cs",
+              "RelativeToolTip": "WebMVC\\Models\\OrderViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAwwBoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T16:40:58.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tutis\\OneDrive\\Desktop\\ASP.NET-MVC\\OnlineStore\\WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\tutis\\OneDrive\\Desktop\\ASP.NET-MVC\\OnlineStore\\WebAPI\\Program.cs",
+              "RelativeToolTip": "WebAPI\\Program.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T16:31:14.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\tutis\\OneDrive\\Desktop\\ASP.NET-MVC\\OnlineStore\\Domain\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\tutis\\OneDrive\\Desktop\\ASP.NET-MVC\\OnlineStore\\Domain\\Entities\\Product.cs",
+              "RelativeToolTip": "Domain\\Entities\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T16:27:18.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "CartItemDto.cs",
+              "DocumentMoniker": "C:\\Users\\tutis\\OneDrive\\Desktop\\ASP.NET-MVC\\OnlineStore\\Application\\DTOs\\CartItemDto.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\CartItemDto.cs",
+              "ToolTip": "C:\\Users\\tutis\\OneDrive\\Desktop\\ASP.NET-MVC\\OnlineStore\\Application\\DTOs\\CartItemDto.cs",
+              "RelativeToolTip": "Application\\DTOs\\CartItemDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T16:28:44.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "CreateProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\tutis\\OneDrive\\Desktop\\ASP.NET-MVC\\OnlineStore\\Application\\DTOs\\CreateProductDto.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\CreateProductDto.cs",
+              "ToolTip": "C:\\Users\\tutis\\OneDrive\\Desktop\\ASP.NET-MVC\\OnlineStore\\Application\\DTOs\\CreateProductDto.cs",
+              "RelativeToolTip": "Application\\DTOs\\CreateProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T16:28:36.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "OrderDto.cs",
+              "DocumentMoniker": "C:\\Users\\tutis\\OneDrive\\Desktop\\ASP.NET-MVC\\OnlineStore\\Application\\DTOs\\OrderDto.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\OrderDto.cs",
+              "ToolTip": "C:\\Users\\tutis\\OneDrive\\Desktop\\ASP.NET-MVC\\OnlineStore\\Application\\DTOs\\OrderDto.cs",
+              "RelativeToolTip": "Application\\DTOs\\OrderDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAUwAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T16:29:01.545Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 36,
               "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\tutis\\source\\repos\\OnlineStore\\Infrastructure\\Data\\AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\tutis\\OneDrive\\Desktop\\ASP.NET-MVC\\OnlineStore\\Infrastructure\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Data\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\tutis\\source\\repos\\OnlineStore\\Infrastructure\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\tutis\\OneDrive\\Desktop\\ASP.NET-MVC\\OnlineStore\\Infrastructure\\Data\\AppDbContext.cs",
               "RelativeToolTip": "Infrastructure\\Data\\AppDbContext.cs",
               "ViewState": "AgIAADAAAAAAAAAAAAAwwEoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-17T16:30:21.715Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-17T16:30:21.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\tutis\\OneDrive\\Desktop\\ASP.NET-MVC\\OnlineStore\\WebAPI\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\tutis\\OneDrive\\Desktop\\ASP.NET-MVC\\OnlineStore\\WebAPI\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "WebAPI\\Controllers\\OrdersController.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAwwEoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T16:32:50.16Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 45,
-              "Title": "OrdersController.cs",
-              "DocumentMoniker": "C:\\Users\\tutis\\source\\repos\\OnlineStore\\WebAPI\\Controllers\\OrdersController.cs",
-              "RelativeDocumentMoniker": "WebAPI\\Controllers\\OrdersController.cs",
-              "ToolTip": "C:\\Users\\tutis\\source\\repos\\OnlineStore\\WebAPI\\Controllers\\OrdersController.cs",
-              "RelativeToolTip": "WebAPI\\Controllers\\OrdersController.cs",
-              "ViewState": "AgIAADAAAAAAAAAAAAAwwEoAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-17T16:32:50.16Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 46,
               "Title": "AuthController.cs",
-              "DocumentMoniker": "C:\\Users\\tutis\\source\\repos\\OnlineStore\\WebAPI\\Controllers\\AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\tutis\\OneDrive\\Desktop\\ASP.NET-MVC\\OnlineStore\\WebAPI\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "WebAPI\\Controllers\\AuthController.cs",
-              "ToolTip": "C:\\Users\\tutis\\source\\repos\\OnlineStore\\WebAPI\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\tutis\\OneDrive\\Desktop\\ASP.NET-MVC\\OnlineStore\\WebAPI\\Controllers\\AuthController.cs",
               "RelativeToolTip": "WebAPI\\Controllers\\AuthController.cs",
               "ViewState": "AgIAACwAAAAAAAAAAAA9wEYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-18T14:12:13.438Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 48,
-              "Title": "OrderService.cs",
-              "DocumentMoniker": "C:\\Users\\tutis\\source\\repos\\OnlineStore\\Infrastructure\\Services\\OrderService.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Services\\OrderService.cs",
-              "ToolTip": "C:\\Users\\tutis\\source\\repos\\OnlineStore\\Infrastructure\\Services\\OrderService.cs",
-              "RelativeToolTip": "Infrastructure\\Services\\OrderService.cs",
-              "ViewState": "AgIAAHEAAAAAAAAAAAAwwIsAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-17T16:31:00.724Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 49,
-              "Title": "AuthService.cs",
-              "DocumentMoniker": "C:\\Users\\tutis\\source\\repos\\OnlineStore\\Infrastructure\\Services\\AuthService.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Services\\AuthService.cs",
-              "ToolTip": "C:\\Users\\tutis\\source\\repos\\OnlineStore\\Infrastructure\\Services\\AuthService.cs",
-              "RelativeToolTip": "Infrastructure\\Services\\AuthService.cs",
-              "ViewState": "AgIAAF8AAAAAAAAAAAAwwHkAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-18T14:11:30.469Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 51,
-              "Title": "IAuthService.cs",
-              "DocumentMoniker": "C:\\Users\\tutis\\source\\repos\\OnlineStore\\Application\\Interfaces\\IAuthService.cs",
-              "RelativeDocumentMoniker": "Application\\Interfaces\\IAuthService.cs",
-              "ToolTip": "C:\\Users\\tutis\\source\\repos\\OnlineStore\\Application\\Interfaces\\IAuthService.cs",
-              "RelativeToolTip": "Application\\Interfaces\\IAuthService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-18T14:10:44.365Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 52,
-              "Title": "OrderItemDto.cs",
-              "DocumentMoniker": "C:\\Users\\tutis\\source\\repos\\OnlineStore\\Application\\DTOs\\OrderItemDto.cs",
-              "RelativeDocumentMoniker": "Application\\DTOs\\OrderItemDto.cs",
-              "ToolTip": "C:\\Users\\tutis\\source\\repos\\OnlineStore\\Application\\DTOs\\OrderItemDto.cs",
-              "RelativeToolTip": "Application\\DTOs\\OrderItemDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-18T14:10:13.304Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-18T14:12:13.438Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 47,
-              "Title": "ProductService.cs",
-              "DocumentMoniker": "C:\\Users\\tutis\\source\\repos\\OnlineStore\\Infrastructure\\Services\\ProductService.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Services\\ProductService.cs",
-              "ToolTip": "C:\\Users\\tutis\\source\\repos\\OnlineStore\\Infrastructure\\Services\\ProductService.cs",
-              "RelativeToolTip": "Infrastructure\\Services\\ProductService.cs",
-              "ViewState": "AgIAAFcAAAAAAAAAAAAwwHEAAAABAAAAAAAAAA==",
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\tutis\\OneDrive\\Desktop\\ASP.NET-MVC\\OnlineStore\\Infrastructure\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Services\\OrderService.cs",
+              "ToolTip": "C:\\Users\\tutis\\OneDrive\\Desktop\\ASP.NET-MVC\\OnlineStore\\Infrastructure\\Services\\OrderService.cs",
+              "RelativeToolTip": "Infrastructure\\Services\\OrderService.cs",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAwwIsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-17T16:30:31.592Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-17T16:31:00.724Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 53,
-              "Title": "OrderDetailsDto.cs",
-              "DocumentMoniker": "C:\\Users\\tutis\\source\\repos\\OnlineStore\\Application\\DTOs\\OrderDetailsDto.cs",
-              "RelativeDocumentMoniker": "Application\\DTOs\\OrderDetailsDto.cs",
-              "ToolTip": "C:\\Users\\tutis\\source\\repos\\OnlineStore\\Application\\DTOs\\OrderDetailsDto.cs",
-              "RelativeToolTip": "Application\\DTOs\\OrderDetailsDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAwBAAAAABAAAAAAAAAA==",
+              "DocumentIndex": 48,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\tutis\\OneDrive\\Desktop\\ASP.NET-MVC\\OnlineStore\\Infrastructure\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\tutis\\OneDrive\\Desktop\\ASP.NET-MVC\\OnlineStore\\Infrastructure\\Services\\AuthService.cs",
+              "RelativeToolTip": "Infrastructure\\Services\\AuthService.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAwwHkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-18T14:09:58.945Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 54,
-              "Title": "LoginDto.cs",
-              "DocumentMoniker": "C:\\Users\\tutis\\source\\repos\\OnlineStore\\Application\\DTOs\\LoginDto.cs",
-              "RelativeDocumentMoniker": "Application\\DTOs\\LoginDto.cs",
-              "ToolTip": "C:\\Users\\tutis\\source\\repos\\OnlineStore\\Application\\DTOs\\LoginDto.cs",
-              "RelativeToolTip": "Application\\DTOs\\LoginDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-18T14:09:37.417Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-18T14:11:30.469Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 50,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\tutis\\OneDrive\\Desktop\\ASP.NET-MVC\\OnlineStore\\Application\\Interfaces\\IAuthService.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\tutis\\OneDrive\\Desktop\\ASP.NET-MVC\\OnlineStore\\Application\\Interfaces\\IAuthService.cs",
+              "RelativeToolTip": "Application\\Interfaces\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T14:10:44.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "OrderItemDto.cs",
+              "DocumentMoniker": "C:\\Users\\tutis\\OneDrive\\Desktop\\ASP.NET-MVC\\OnlineStore\\Application\\DTOs\\OrderItemDto.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\OrderItemDto.cs",
+              "ToolTip": "C:\\Users\\tutis\\OneDrive\\Desktop\\ASP.NET-MVC\\OnlineStore\\Application\\DTOs\\OrderItemDto.cs",
+              "RelativeToolTip": "Application\\DTOs\\OrderItemDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T14:10:13.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\tutis\\OneDrive\\Desktop\\ASP.NET-MVC\\OnlineStore\\Infrastructure\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\tutis\\OneDrive\\Desktop\\ASP.NET-MVC\\OnlineStore\\Infrastructure\\Services\\ProductService.cs",
+              "RelativeToolTip": "Infrastructure\\Services\\ProductService.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAwwHEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T16:30:31.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "OrderDetailsDto.cs",
+              "DocumentMoniker": "C:\\Users\\tutis\\OneDrive\\Desktop\\ASP.NET-MVC\\OnlineStore\\Application\\DTOs\\OrderDetailsDto.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\OrderDetailsDto.cs",
+              "ToolTip": "C:\\Users\\tutis\\OneDrive\\Desktop\\ASP.NET-MVC\\OnlineStore\\Application\\DTOs\\OrderDetailsDto.cs",
+              "RelativeToolTip": "Application\\DTOs\\OrderDetailsDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAwBAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T14:09:58.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\tutis\\OneDrive\\Desktop\\ASP.NET-MVC\\OnlineStore\\Application\\DTOs\\LoginDto.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\tutis\\OneDrive\\Desktop\\ASP.NET-MVC\\OnlineStore\\Application\\DTOs\\LoginDto.cs",
+              "RelativeToolTip": "Application\\DTOs\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T14:09:37.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
               "Title": "IOrderService.cs",
-              "DocumentMoniker": "C:\\Users\\tutis\\source\\repos\\OnlineStore\\Application\\Interfaces\\IOrderService.cs",
+              "DocumentMoniker": "C:\\Users\\tutis\\OneDrive\\Desktop\\ASP.NET-MVC\\OnlineStore\\Application\\Interfaces\\IOrderService.cs",
               "RelativeDocumentMoniker": "Application\\Interfaces\\IOrderService.cs",
-              "ToolTip": "C:\\Users\\tutis\\source\\repos\\OnlineStore\\Application\\Interfaces\\IOrderService.cs",
+              "ToolTip": "C:\\Users\\tutis\\OneDrive\\Desktop\\ASP.NET-MVC\\OnlineStore\\Application\\Interfaces\\IOrderService.cs",
               "RelativeToolTip": "Application\\Interfaces\\IOrderService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-17T16:29:43.907Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-17T16:29:43.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\tutis\\OneDrive\\Desktop\\ASP.NET-MVC\\OnlineStore\\Application\\DTOs\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\RegisterDto.cs",
+              "ToolTip": "C:\\Users\\tutis\\OneDrive\\Desktop\\ASP.NET-MVC\\OnlineStore\\Application\\DTOs\\RegisterDto.cs",
+              "RelativeToolTip": "Application\\DTOs\\RegisterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T14:09:28.162Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 55,
-              "Title": "RegisterDto.cs",
-              "DocumentMoniker": "C:\\Users\\tutis\\source\\repos\\OnlineStore\\Application\\DTOs\\RegisterDto.cs",
-              "RelativeDocumentMoniker": "Application\\DTOs\\RegisterDto.cs",
-              "ToolTip": "C:\\Users\\tutis\\source\\repos\\OnlineStore\\Application\\DTOs\\RegisterDto.cs",
-              "RelativeToolTip": "Application\\DTOs\\RegisterDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-18T14:09:28.162Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 56,
               "Title": "UserDto.cs",
-              "DocumentMoniker": "C:\\Users\\tutis\\source\\repos\\OnlineStore\\Application\\DTOs\\UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\tutis\\OneDrive\\Desktop\\ASP.NET-MVC\\OnlineStore\\Application\\DTOs\\UserDto.cs",
               "RelativeDocumentMoniker": "Application\\DTOs\\UserDto.cs",
-              "ToolTip": "C:\\Users\\tutis\\source\\repos\\OnlineStore\\Application\\DTOs\\UserDto.cs",
+              "ToolTip": "C:\\Users\\tutis\\OneDrive\\Desktop\\ASP.NET-MVC\\OnlineStore\\Application\\DTOs\\UserDto.cs",
               "RelativeToolTip": "Application\\DTOs\\UserDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-18T14:09:18.6Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-18T14:09:18.6Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 58,
+              "DocumentIndex": 57,
               "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\tutis\\source\\repos\\OnlineStore\\Domain\\Entities\\User.cs",
+              "DocumentMoniker": "C:\\Users\\tutis\\OneDrive\\Desktop\\ASP.NET-MVC\\OnlineStore\\Domain\\Entities\\User.cs",
               "RelativeDocumentMoniker": "Domain\\Entities\\User.cs",
-              "ToolTip": "C:\\Users\\tutis\\source\\repos\\OnlineStore\\Domain\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\tutis\\OneDrive\\Desktop\\ASP.NET-MVC\\OnlineStore\\Domain\\Entities\\User.cs",
               "RelativeToolTip": "Domain\\Entities\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-17T17:26:01.009Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-17T17:26:01.009Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 61,
+              "DocumentIndex": 60,
               "Title": "WebMVC",
-              "DocumentMoniker": "C:\\Users\\tutis\\source\\repos\\OnlineStore\\WebMVC\\WebMVC.csproj",
+              "DocumentMoniker": "C:\\Users\\tutis\\OneDrive\\Desktop\\ASP.NET-MVC\\OnlineStore\\WebMVC\\WebMVC.csproj",
               "RelativeDocumentMoniker": "WebMVC\\WebMVC.csproj",
-              "ToolTip": "C:\\Users\\tutis\\source\\repos\\OnlineStore\\WebMVC\\WebMVC.csproj",
+              "ToolTip": "C:\\Users\\tutis\\OneDrive\\Desktop\\ASP.NET-MVC\\OnlineStore\\WebMVC\\WebMVC.csproj",
               "RelativeToolTip": "WebMVC\\WebMVC.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2026-01-17T16:49:57.896Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 64,
+              "DocumentIndex": 63,
               "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\tutis\\source\\repos\\OnlineStore\\WebMVC\\Properties\\launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\tutis\\OneDrive\\Desktop\\ASP.NET-MVC\\OnlineStore\\WebMVC\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "WebMVC\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\tutis\\source\\repos\\OnlineStore\\WebMVC\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\tutis\\OneDrive\\Desktop\\ASP.NET-MVC\\OnlineStore\\WebMVC\\Properties\\launchSettings.json",
               "RelativeToolTip": "WebMVC\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -1099,11 +1045,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 60,
+              "DocumentIndex": 59,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\tutis\\source\\repos\\OnlineStore\\WebMVC\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\tutis\\OneDrive\\Desktop\\ASP.NET-MVC\\OnlineStore\\WebMVC\\appsettings.json",
               "RelativeDocumentMoniker": "WebMVC\\appsettings.json",
-              "ToolTip": "C:\\Users\\tutis\\source\\repos\\OnlineStore\\WebMVC\\appsettings.json",
+              "ToolTip": "C:\\Users\\tutis\\OneDrive\\Desktop\\ASP.NET-MVC\\OnlineStore\\WebMVC\\appsettings.json",
               "RelativeToolTip": "WebMVC\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -1111,11 +1057,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 59,
+              "DocumentIndex": 58,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\tutis\\source\\repos\\OnlineStore\\WebAPI\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\tutis\\OneDrive\\Desktop\\ASP.NET-MVC\\OnlineStore\\WebAPI\\appsettings.json",
               "RelativeDocumentMoniker": "WebAPI\\appsettings.json",
-              "ToolTip": "C:\\Users\\tutis\\source\\repos\\OnlineStore\\WebAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\tutis\\OneDrive\\Desktop\\ASP.NET-MVC\\OnlineStore\\WebAPI\\appsettings.json",
               "RelativeToolTip": "WebAPI\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAACEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -1123,24 +1069,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 57,
+              "DocumentIndex": 56,
               "Title": "Order.cs",
-              "DocumentMoniker": "C:\\Users\\tutis\\source\\repos\\OnlineStore\\Domain\\Entities\\Order.cs",
+              "DocumentMoniker": "C:\\Users\\tutis\\OneDrive\\Desktop\\ASP.NET-MVC\\OnlineStore\\Domain\\Entities\\Order.cs",
               "RelativeDocumentMoniker": "Domain\\Entities\\Order.cs",
-              "ToolTip": "C:\\Users\\tutis\\source\\repos\\OnlineStore\\Domain\\Entities\\Order.cs",
+              "ToolTip": "C:\\Users\\tutis\\OneDrive\\Desktop\\ASP.NET-MVC\\OnlineStore\\Domain\\Entities\\Order.cs",
               "RelativeToolTip": "Domain\\Entities\\Order.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwBIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-17T16:27:37.941Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-17T16:27:37.941Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 63,
+              "DocumentIndex": 62,
               "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\tutis\\source\\repos\\OnlineStore\\WebAPI\\Properties\\launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\tutis\\OneDrive\\Desktop\\ASP.NET-MVC\\OnlineStore\\WebAPI\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "WebAPI\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\tutis\\source\\repos\\OnlineStore\\WebAPI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\tutis\\OneDrive\\Desktop\\ASP.NET-MVC\\OnlineStore\\WebAPI\\Properties\\launchSettings.json",
               "RelativeToolTip": "WebAPI\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -1148,22 +1093,22 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 62,
+              "DocumentIndex": 61,
               "Title": "WebAPI",
-              "DocumentMoniker": "C:\\Users\\tutis\\source\\repos\\OnlineStore\\WebAPI\\WebAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\tutis\\OneDrive\\Desktop\\ASP.NET-MVC\\OnlineStore\\WebAPI\\WebAPI.csproj",
               "RelativeDocumentMoniker": "WebAPI\\WebAPI.csproj",
-              "ToolTip": "C:\\Users\\tutis\\source\\repos\\OnlineStore\\WebAPI\\WebAPI.csproj",
+              "ToolTip": "C:\\Users\\tutis\\OneDrive\\Desktop\\ASP.NET-MVC\\OnlineStore\\WebAPI\\WebAPI.csproj",
               "RelativeToolTip": "WebAPI\\WebAPI.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2026-01-17T17:01:58.006Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 65,
+              "DocumentIndex": 64,
               "Title": "CartItemViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\tutis\\source\\repos\\OnlineStore\\WebMVC\\Models\\CartItemViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\tutis\\OneDrive\\Desktop\\ASP.NET-MVC\\OnlineStore\\WebMVC\\Models\\CartItemViewModel.cs",
               "RelativeDocumentMoniker": "WebMVC\\Models\\CartItemViewModel.cs",
-              "ToolTip": "C:\\Users\\tutis\\source\\repos\\OnlineStore\\WebMVC\\Models\\CartItemViewModel.cs",
+              "ToolTip": "C:\\Users\\tutis\\OneDrive\\Desktop\\ASP.NET-MVC\\OnlineStore\\WebMVC\\Models\\CartItemViewModel.cs",
               "RelativeToolTip": "WebMVC\\Models\\CartItemViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1171,11 +1116,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 69,
+              "DocumentIndex": 68,
               "Title": "AddToCartDto.cs",
-              "DocumentMoniker": "C:\\Users\\tutis\\source\\repos\\OnlineStore\\Application\\DTOs\\AddToCartDto.cs",
+              "DocumentMoniker": "C:\\Users\\tutis\\OneDrive\\Desktop\\ASP.NET-MVC\\OnlineStore\\Application\\DTOs\\AddToCartDto.cs",
               "RelativeDocumentMoniker": "Application\\DTOs\\AddToCartDto.cs",
-              "ToolTip": "C:\\Users\\tutis\\source\\repos\\OnlineStore\\Application\\DTOs\\AddToCartDto.cs",
+              "ToolTip": "C:\\Users\\tutis\\OneDrive\\Desktop\\ASP.NET-MVC\\OnlineStore\\Application\\DTOs\\AddToCartDto.cs",
               "RelativeToolTip": "Application\\DTOs\\AddToCartDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1183,11 +1128,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 68,
+              "DocumentIndex": 67,
               "Title": "IProductService.cs",
-              "DocumentMoniker": "C:\\Users\\tutis\\source\\repos\\OnlineStore\\Application\\Interfaces\\IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\tutis\\OneDrive\\Desktop\\ASP.NET-MVC\\OnlineStore\\Application\\Interfaces\\IProductService.cs",
               "RelativeDocumentMoniker": "Application\\Interfaces\\IProductService.cs",
-              "ToolTip": "C:\\Users\\tutis\\source\\repos\\OnlineStore\\Application\\Interfaces\\IProductService.cs",
+              "ToolTip": "C:\\Users\\tutis\\OneDrive\\Desktop\\ASP.NET-MVC\\OnlineStore\\Application\\Interfaces\\IProductService.cs",
               "RelativeToolTip": "Application\\Interfaces\\IProductService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1195,11 +1140,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 66,
+              "DocumentIndex": 65,
               "Title": "CartService.cs",
-              "DocumentMoniker": "C:\\Users\\tutis\\source\\repos\\OnlineStore\\Infrastructure\\Services\\CartService.cs",
+              "DocumentMoniker": "C:\\Users\\tutis\\OneDrive\\Desktop\\ASP.NET-MVC\\OnlineStore\\Infrastructure\\Services\\CartService.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Services\\CartService.cs",
-              "ToolTip": "C:\\Users\\tutis\\source\\repos\\OnlineStore\\Infrastructure\\Services\\CartService.cs",
+              "ToolTip": "C:\\Users\\tutis\\OneDrive\\Desktop\\ASP.NET-MVC\\OnlineStore\\Infrastructure\\Services\\CartService.cs",
               "RelativeToolTip": "Infrastructure\\Services\\CartService.cs",
               "ViewState": "AgIAABQAAAAAAAAAAAApwCQAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1207,11 +1152,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 67,
+              "DocumentIndex": 66,
               "Title": "ICartService.cs",
-              "DocumentMoniker": "C:\\Users\\tutis\\source\\repos\\OnlineStore\\Application\\Interfaces\\ICartService.cs",
+              "DocumentMoniker": "C:\\Users\\tutis\\OneDrive\\Desktop\\ASP.NET-MVC\\OnlineStore\\Application\\Interfaces\\ICartService.cs",
               "RelativeDocumentMoniker": "Application\\Interfaces\\ICartService.cs",
-              "ToolTip": "C:\\Users\\tutis\\source\\repos\\OnlineStore\\Application\\Interfaces\\ICartService.cs",
+              "ToolTip": "C:\\Users\\tutis\\OneDrive\\Desktop\\ASP.NET-MVC\\OnlineStore\\Application\\Interfaces\\ICartService.cs",
               "RelativeToolTip": "Application\\Interfaces\\ICartService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1219,11 +1164,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 70,
+              "DocumentIndex": 69,
               "Title": "OrderItem.cs",
-              "DocumentMoniker": "C:\\Users\\tutis\\source\\repos\\OnlineStore\\Domain\\Entities\\OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\tutis\\OneDrive\\Desktop\\ASP.NET-MVC\\OnlineStore\\Domain\\Entities\\OrderItem.cs",
               "RelativeDocumentMoniker": "Domain\\Entities\\OrderItem.cs",
-              "ToolTip": "C:\\Users\\tutis\\source\\repos\\OnlineStore\\Domain\\Entities\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\tutis\\OneDrive\\Desktop\\ASP.NET-MVC\\OnlineStore\\Domain\\Entities\\OrderItem.cs",
               "RelativeToolTip": "Domain\\Entities\\OrderItem.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1231,11 +1176,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 71,
+              "DocumentIndex": 70,
               "Title": "CartItem.cs",
-              "DocumentMoniker": "C:\\Users\\tutis\\source\\repos\\OnlineStore\\Domain\\Entities\\CartItem.cs",
+              "DocumentMoniker": "C:\\Users\\tutis\\OneDrive\\Desktop\\ASP.NET-MVC\\OnlineStore\\Domain\\Entities\\CartItem.cs",
               "RelativeDocumentMoniker": "Domain\\Entities\\CartItem.cs",
-              "ToolTip": "C:\\Users\\tutis\\source\\repos\\OnlineStore\\Domain\\Entities\\CartItem.cs",
+              "ToolTip": "C:\\Users\\tutis\\OneDrive\\Desktop\\ASP.NET-MVC\\OnlineStore\\Domain\\Entities\\CartItem.cs",
               "RelativeToolTip": "Domain\\Entities\\CartItem.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1243,11 +1188,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 72,
+              "DocumentIndex": 71,
               "Title": "CartController.cs",
-              "DocumentMoniker": "C:\\Users\\tutis\\source\\repos\\OnlineStore\\WebAPI\\Controllers\\CartController.cs",
+              "DocumentMoniker": "C:\\Users\\tutis\\OneDrive\\Desktop\\ASP.NET-MVC\\OnlineStore\\WebAPI\\Controllers\\CartController.cs",
               "RelativeDocumentMoniker": "WebAPI\\Controllers\\CartController.cs",
-              "ToolTip": "C:\\Users\\tutis\\source\\repos\\OnlineStore\\WebAPI\\Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\tutis\\OneDrive\\Desktop\\ASP.NET-MVC\\OnlineStore\\WebAPI\\Controllers\\CartController.cs",
               "RelativeToolTip": "WebAPI\\Controllers\\CartController.cs",
               "ViewState": "AgIAABYAAAAAAAAAAAAwwDAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1255,11 +1200,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 73,
+              "DocumentIndex": 72,
               "Title": "ProductsController.cs",
-              "DocumentMoniker": "C:\\Users\\tutis\\source\\repos\\OnlineStore\\WebAPI\\Controllers\\ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\tutis\\OneDrive\\Desktop\\ASP.NET-MVC\\OnlineStore\\WebAPI\\Controllers\\ProductsController.cs",
               "RelativeDocumentMoniker": "WebAPI\\Controllers\\ProductsController.cs",
-              "ToolTip": "C:\\Users\\tutis\\source\\repos\\OnlineStore\\WebAPI\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\tutis\\OneDrive\\Desktop\\ASP.NET-MVC\\OnlineStore\\WebAPI\\Controllers\\ProductsController.cs",
               "RelativeToolTip": "WebAPI\\Controllers\\ProductsController.cs",
               "ViewState": "AgIAAB8AAAAAAAAAAAAwwDkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

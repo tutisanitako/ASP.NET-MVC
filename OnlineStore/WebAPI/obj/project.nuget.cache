@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "x/roHocccuM=",
+  "dgSpecHash": "2/vJ1p3ktm0=",
   "success": true,
-  "projectFilePath": "C:\\Users\\tutis\\source\\repos\\OnlineStore\\WebAPI\\WebAPI.csproj",
+  "projectFilePath": "C:\\Users\\tutis\\OneDrive\\Desktop\\ASP.NET-MVC\\OnlineStore\\WebAPI\\WebAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\tutis\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\tutis\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

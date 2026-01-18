@@ -139,7 +139,7 @@ namespace WebMVC.Controllers
             try
             {
                 var orders = await _apiService.GetAsync<List<OrderDetailsViewModel>>("orders");
-                return View(orders);
+                return View(orders ?? new List<OrderDetailsViewModel>());
             }
             catch (Exception ex)
             {

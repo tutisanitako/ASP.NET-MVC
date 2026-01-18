@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "L8X+dQC9hjk=",
+  "dgSpecHash": "1SABSjPoCEU=",
   "success": true,
-  "projectFilePath": "C:\\Users\\tutis\\source\\repos\\OnlineStore\\Infrastructure\\Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\tutis\\OneDrive\\Desktop\\ASP.NET-MVC\\OnlineStore\\Infrastructure\\Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\tutis\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\tutis\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
